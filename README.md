@@ -194,4 +194,4 @@
 
 ---
 
-**Feedback? Join us:** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
+**Feedback? Let us know on our Discord:** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
