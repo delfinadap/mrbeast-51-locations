@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**20 confirmed, 9 probable, 4 unconfirmed, 18 unknown** | *Feb 15, 2026 ~9:00 PM UTC*
+**21 confirmed, 6 probable, 1 disputed, 3 unconfirmed, 18 unknown** | *Feb 15, 2026 ~9:00 PM UTC*
 
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|

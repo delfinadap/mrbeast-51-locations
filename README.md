@@ -1,7 +1,7 @@
 # 51 Locations — Master Tracker
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
-**Status:** 20 confirmed, 9 probable, 4 unconfirmed = ~33 with answers, ~18 unknown.
+**Status:** 21 confirmed, 6 probable, 1 disputed, 3 unconfirmed = ~31 with answers, ~20 unknown.
 
 ---
 
@@ -168,15 +168,15 @@
 | Category | Total | Found | Missing |
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 0 | 1 |
-| Commercial (screens + non-screen) | 12 | 8-10 | 2-4 |
-| Bank video (paired with screens) | 12 | 4-6 | 6-8 |
-| Gifts | 10 | 7-8 | 2-3 |
+| Screens + Bank (paired, 1 location each) | 12 | 7 | 5 |
+| Non-screen commercial | ~12 | 9 | ~3 |
+| Gifts | 10 | 8-9 | 1-2 |
 | Gift unifier | 1 | 0 | 1 |
 | YouTube shorts/TikTok | 2 | 0 | 2 |
-| Salesforce site/social | 9 | 1 | 8 |
-| Lone Shark socials | 3 | 2 | 1 |
+| Salesforce site/social | 9 | 1-2 | 7-8 |
+| Lone Shark socials | 3 | 2-3 | 0-1 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~23-28** | **~23-28** |
+| **TOTAL** | **51** | **~28-31** | **~20-23** |
 
 ---
 
