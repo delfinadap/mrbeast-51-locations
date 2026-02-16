@@ -51,10 +51,10 @@
 | 45 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
 | 46 | Lone Shark | ILE DE LA POSSESSION | Podcast / Hello Puzzlers | Confirmed |
 | 47 | Lone Shark | ASCENSION ISLAND | BoardGameGeek — "Ascension" card game + "climbing"/"rising" | Confirmed |
-| 48 | Crossword | EYJAFJALLAJOKULL | 16 circled cells anagram | Confirmed |
-| 49 | Commercial | ??? | Smoke grenade (BeastBot confirmed) | Unsolved |
-| 50 | Commercial | RIYADH? | Camel/Llama (BeastBot confirmed, "BEASTLAND" = Saudi Arabia) | Unconfirmed |
-| 51 | Commercial | ??? | Unsolved commercial puzzle | Unsolved |
+| 48 | Commercial | ??? | Smoke grenade (BeastBot confirmed) | Unsolved |
+| 49 | Commercial | RIYADH? | Camel/Llama (BeastBot confirmed, "BEASTLAND" = Saudi Arabia) | Unconfirmed |
+| 50 | Commercial | ??? | Unsolved commercial puzzle | Unsolved |
+| 51 | Crossword | EYJAFJALLAJOKULL | 16 circled cells anagram | Confirmed |
 
 ---
 
