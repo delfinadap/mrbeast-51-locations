@@ -4,6 +4,8 @@
 
 **Status:** 21 confirmed, 5 probable, 1 disputed, 3 unconfirmed = ~30 with answers, ~21 unknown.
 
+**Last updated:** Feb 16, 2026 ~12:30 AM PT
+
 ---
 
 ## Category 1: Playlist Setup Puzzle (0 of 1)
@@ -181,7 +183,6 @@
 
 ---
 
-*Last updated: Feb 16, 2026 ~11:00 PM PT*
 
 ---
 
