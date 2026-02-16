@@ -1,6 +1,7 @@
 # 51 Locations — Master Tracker
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
+
 **Status:** 21 confirmed, 5 probable, 1 disputed, 3 unconfirmed = ~30 with answers, ~21 unknown.
 
 ---

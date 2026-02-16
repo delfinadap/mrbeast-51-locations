@@ -1,6 +1,7 @@
 # Sudoku / onemil.xyz Intel
 
 **How the sudoku puzzle system works**
+
 **Last updated:** Feb 16, 2026 ~11:30 PM PT
 
 Seems like \*a new session always goes to 271829.pdf now, with pdfIndex of 271828 (Euler's number). It's always at https://qvrvlqffqftxlxflcmzc.supabase.co/storage/v1/object/sign/hopscotch-files/271829.pdf, but you can't directly open it because you need a key.
