@@ -4,7 +4,7 @@
 
 **Hint 8:** "Take your 50 locations and your crossword to Beast Travel and go on many a wild vacation!"
 
-**Status:** 7 confirmed, 1 probable | *Feb 16, 2026 ~6:38 PM PT*
+**Status:** 7 confirmed, 1 probable | *Feb 16, 2026 ~7:22 PM PT*
 
 ---
 
@@ -12,9 +12,6 @@
 
 - **Main tagline:** "We're the winning combination / For your worldwide vacation!"
 - **Sub-tagline:** "We're opening a new stage to our fine organizations. / Here is but a sample of our brand-new destinations!"
-- **Mascot:** Roamy
-- **Game pieces:** Lords of Vegas (Mike Selinker's board game). 3 colors: Black, Red, Yellow.
-
 ---
 
 ## Destinations
