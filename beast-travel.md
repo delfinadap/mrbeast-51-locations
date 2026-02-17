@@ -27,12 +27,6 @@
 | Plane | | ABSQUATULATE | "Such fun at" | SAINT-PIERRE, SPM | o3fj1w4.png | Confirmed |
 | Plane | | ECTYPOGRAPHY | "Come visit" | KRASNODAR, Russia | gO6cSCVw.png | Confirmed |
 
-## Other Layers
-
-- **Photo puzzles:** Car photo puzzle → REGINA (Saskatchewan, Canada). Horse/Plane photo puzzles unsolved.
-- **Taglines are cryptic clue indicators** — they tell you the solve method for each page.
-- **W3W extraction:** Cryptic clue answers become what3words addresses → locations.
-
 ---
 
 **Feedback?** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
