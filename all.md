@@ -1,10 +1,10 @@
 # 51 Locations — All in One
 
-**22 confirmed, 6 probable, 1 disputed, 2 unconfirmed, 20 unknown** | *Feb 16, 2026 ~9:42 AM PT*
+**22 confirmed, 8 probable, 1 disputed, 2 unconfirmed = ~33 with answers, ~18 unknown** | *Feb 17, 2026 ~1:00 AM PT*
 
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|
-| 1 | Playlist | ??? | Setup puzzle (unknown) | Unsolved |
+| 1 | Playlist | MAPUTO? | First letters spell MAPUTO (Mozambique) | Probable |
 | 2 | Screen 1 + Bank | ??? | Backwards J + Magazine | Unsolved |
 | 3 | Screen 2 + Bank | ??? | Trench coat + Calendar | Unsolved |
 | 4 | Screen 3 + Bank | CAIRO | Candyland rebus + Feastables shirt | Confirmed |
@@ -45,7 +45,7 @@
 | 39 | Salesforce | ??? | Salesforce Twitter/X (Feb 14) | Unsolved |
 | 40 | Salesforce | ??? | SlackHQ Instagram | Unsolved |
 | 41 | Salesforce | ??? | Instagram reel (Feb 13) | Unsolved |
-| 42 | Salesforce | ??? | Slack messages / Malcolm bolded | Unsolved |
+| 42 | Salesforce | YELLOWKNIFE? | "Puzzle Maker" — BTS video flashing numbers | Probable |
 | 43 | Salesforce | ??? | Inside the Beast BTS videos | Unsolved |
 | 44 | Salesforce | CHICAGO? | BTS clocks | Unconfirmed |
 | 45 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
