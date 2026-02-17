@@ -10,8 +10,13 @@
 
 ## Homepage
 
-- **Main tagline:** "We're the winning combination / For your worldwide vacation!"
-- **Sub-tagline:** "We're opening a new stage to our fine organizations. / Here is but a sample of our brand-new destinations!"
+- **Main tagline:**
+  - "We're the winning combination"
+  - "For your worldwide vacation!"
+- **Sub-tagline:**
+  - "We're opening a new stage to our fine organizations."
+  - "Here is but a sample of our brand-new destinations!"
+
 ---
 
 ## Destinations
