@@ -4,7 +4,7 @@
 
 **Status:** 22 confirmed, 8 probable, 1 disputed, 2 unconfirmed = ~33 with answers, ~18 unknown.
 
-**Last updated:** Feb 17, 2026 ~1:00 AM PT
+**Last updated:** Feb 16, 2026 ~6:38 PM PT
 
 ---
 
