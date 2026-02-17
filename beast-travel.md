@@ -24,7 +24,7 @@
 | Page | Tagline | Destination | Caption | Solve | Image | Status |
 |------|---------|-------------|---------|-------|-------|--------|
 | Car | "To get here you can ride our free bus / Or hire a car to get each…" | BARODYNAMICS | "Join us at" | OIL CITY? | pggz_UN4.png | Probable |
-| Car | | EBULLIOSCOPE | "See lovely" | MOSCOW? | gsFk8tO8.png | Probable |
+| Car | | EBULLIOSCOPE | "See lovely" | ARZAMAS, Russia? (~33 churches in image; Arzamas = "city of 33 churches") | gsFk8tO8.png | Probable |
 | Car | | FURFURACEOUS | "Meet us at" | DAR ES SALAAM | wh2q0_Kk.png | Confirmed |
 | Horse | "We've got these places in our triptych / We think you'll love them, 'cause they're…" | ABERUNCATORS | "Vacation at" | OKATO, New Zealand | jU18fVUA.png | Confirmed |
 | Horse | | DEAMBULATORY | "Find us in" | NOVA RUSSAS, Brazil | 2IEfeT_Q.png | Confirmed |
