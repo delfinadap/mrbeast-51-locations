@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 22 confirmed, 8 probable, 1 disputed, 2 unconfirmed = ~33 with answers, ~18 unknown.
+**Status:** 22 confirmed, 9 probable, 1 disputed, 2 unconfirmed = ~34 with answers, ~17 unknown.
 
-**Last updated:** Feb 16, 2026 ~6:38 PM PT
+**Last updated:** Feb 17, 2026 ~09:30 AM PT
 
 ---
 
@@ -30,12 +30,12 @@
 | 2 | ??? | Trench coat cut into pieces | Calendar (dates on desk) | | Unsolved |
 | 3 | CAIRO | Candyland rebus (Can+Dylan+D) | Feastables shirt | Candyland color indexing on Feastables merch hoodie slogan → CAIRO | Confirmed |
 | 4 | ??? | Sine wave | Withdrawal slip | Routing 650283979, account 5480234354, dated Feb 5. Sine → Sign language theory. | Unsolved |
-| 5 | TARANTO? | Spider + Ballerina loop | Parking ticket #1268621-6 | Tarantula → Taranto (etymological), Ballerina → ballet | Unconfirmed |
+| 5 | **ANKARA?** | Spider + Ballerina (arabesque) | Parking ticket + "No Parking Your Tank at the Bank" signs | BeastBot hint: "what words have in common." ARABESQUE+ARACHNID share **ARA**. TANK+BANK share **ANK**. ARA+ANK = **ANKARA**. Only theory matching the hint. (Alt: Taranto via tarantella, weaker.) | Probable |
 | 6 | TBILISI | Bird on wire | Coffee cup / bird toy | "Georgia" = the country (Tbilisi), not US state (Macon). Bird looking 8 directions + coffee cup. | Confirmed |
-| 7 | IPESI? | Ear with T crossed out | IPESIT plate / Pirate sign | Tank plate reads "IPESIT" → remove T ("hearing no T") = IPESI, Nigeria | Probable |
+| 7 | **CEBU?** | Ear with T crossed out (5 blanks) | IPESIT plate / "Talk Like a Pirate Day" sign | IPESIT → anagram STEP II → SEP 2 → remove T sound → say aloud → **"CEBU"** (Philippines). Only theory using all 4 elements (plate, pirate, ear, T-removal). (Alt: IPESI, Nigeria — simpler but ignores pirate sign.) | Probable |
 | 8 | TIJUANA | Caesar busts (L/R sequence) | "Best Bank" poster | Caesar cipher → poster decode | Confirmed |
-| 9 | ??? | Image carousel (swing, witch, elephant, ninja, Swiss flag) | Crosswalk symbols | SW directions? 7 images. | Unsolved |
-| 10 | ??? | 10⁵ | Sudoku (onemil.xyz) | Euler puzzle #271829. Hint #7 confirms collaborative. | Unsolved |
+| 9 | ??? | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All words start with **SW** — confirmed by Lone Shark (underlined S+W). Portmanteau: swing+witch=SWITCH, elephant+pediment=ELEMENT → instruction for crosswalk manipulation. Crosswalk mirrors to "DICE." No location yet. | Unsolved |
+| 10 | ??? | 10⁵ (0 underlined) | Sudoku (onemil.xyz) | Case #271829 = e×10⁵. Hint #7 "MY BIO" acrostic → Euler's biography → Basel? "You need friends, maybe a million of them" = collaboration-gated. Genuinely unsolved. | Unsolved |
 | 11 | LINCOLN | Top hat on weight (22.493 lbs) | Penny jar | Phone confirms "Lincoln Nebraska" | Confirmed |
 | 12 | MOSCOW? | n³ = n² | Red Rubik's cube | Red + Cube = Red Square, Moscow | Probable |
 
@@ -69,12 +69,12 @@
 | 2 | ??? | Calendar on Ms. Maybelle's desk | "Calendar", "Nameplate" | Trench coat pieces | Dates: Jan 1, Feb 2, Mar 1, Mar 3, Jun 1, Jul 1, Aug 1, Aug 6, Sep 1, Nov 5, Dec 7 | Unsolved |
 | 3 | CAIRO | Feastables shirt | "Feastables" | Candyland rebus | Candyland color indexing → Feastables merch slogan → CAIRO | Confirmed |
 | 4 | ??? | Savings withdrawal slip | "Withdrawal" | Sine wave | Routing 650283979, acct 5480234354, dated Feb 5. | Unsolved |
-| 5 | TARANTO? | Parking ticket #1268621-6 | "Parking" | Spider + Ballerina | Tarantula → Taranto, Ballerina → ballet | Unconfirmed |
+| 5 | **ANKARA?** | Parking ticket + "No Parking Your Tank at Bank" signs | "Parking" | Spider (ARACHNID) + Ballerina (ARABESQUE) | "What words have in common": ARA+ANK=ANKARA | Probable |
 | 6 | TBILISI | Georgia coffee cup / bird toy | "Bird", "Coffee" | Bird on wire | "Georgia" = the country (Tbilisi), not US state | Confirmed |
-| 7 | IPESI? | IPESIT plate / pirate sign | "License Plate", "Pirate" | Ear minus T | "Hearing no T" = remove T from IPESIT = IPESI, Nigeria | Probable |
+| 7 | **CEBU?** | IPESIT plate / pirate sign | "License Plate", "Pirate" | Ear with T crossed out | IPESIT→STEP II→SEP 2→remove T→say aloud→"Cebu" (Philippines) | Probable |
 | 8 | TIJUANA | "Best Bank" poster | "Poster" | Caesar busts | Caesar cipher → poster decode | Confirmed |
-| 9 | ??? | Strange crosswalk symbols | "Crosswalk" | Image carousel | SW directions? | Unsolved |
-| 10 | ??? | Sudoku puzzle | "Sudoku" | 10⁵ | onemil.xyz — Euler #271829 universal puzzle | Unsolved |
+| 9 | ??? | Strange crosswalk symbols | "Crosswalk" | Image carousel (all SW- words) | SW extraction + SWITCH ELEMENT portmanteau → instruction for crosswalk. Mirrors to "DICE." | Unsolved |
+| 10 | ??? | Sudoku puzzle (onemil.xyz) | "Sudoku" | 10⁵ (0 underlined) | Case #271829 = e×10⁵. "MY BIO" → Euler → Basel? Collaboration-gated. | Unsolved |
 | 11 | LINCOLN | Penny jar | "Penny" | Top hat on weight | Phone confirms "Lincoln Nebraska" | Confirmed |
 | 12 | MOSCOW? | Red Rubik's cube | "Rubik's Cube" | n³ = n² | Red + Cube = Red Square | Probable |
 
@@ -126,19 +126,19 @@
 
 *"The 9 puzzles you'll find on this site or social posts from Salesforce properties."*
 
-*"This site" = mrbeast.salesforce.com. "Salesforce properties" = Salesforce, Slack, SlackHQ accounts.*
+*"This site" = mrbeast.salesforce.com. "Salesforce properties" = Salesforce, Slack, SlackHQ accounts. All 9 puzzle sources now identified (Feb 17), though most remain unsolved. Some overlap with Category 6 (YouTube Shorts).*
 
-| # | Location | Source | Decode | Confidence |
-|---|----------|--------|--------|------------|
-| 1 | CASABLANCA | Slack messages puzzle | Emoji spelling → CA-SA-BL-AN-CA + chess connection | Confirmed |
-| 2 | ??? | Salesforce Instagram story (Feb 14) | Shows different monitor screen arrangement | Unsolved |
-| 3 | ??? | Salesforce Twitter/X post (Feb 11) | | Unsolved |
-| 4 | ??? | Salesforce Twitter/X post (Feb 14) | | Unsolved |
-| 5 | ??? | SlackHQ Instagram | | Unsolved |
-| 6 | ??? | Instagram reel (Feb 13) | Changed screen arrangement, spider morphing | Unsolved |
-| 7 | YELLOWKNIFE? | "Puzzle Maker" (BTS video) | "Find a puzzle maker" flashing numbers in BTS video. Team Omega P1.3.7 — marked solved. Decode method not public yet. | Probable |
-| 8 | ??? | Salesforce YouTube / BTS videos | Elephant ate "$673"/5673. 12+ BTS videos unanalyzed. | Unsolved |
-| 9 | CHICAGO? | BTS clocks | BTS clocks show London, New York, Chicago, Tokyo | Unconfirmed |
+| # | Location | Puzzle | Source | BeastBot? | Decode | Confidence |
+|---|----------|--------|--------|-----------|--------|------------|
+| 1 | CASABLANCA | Slack emoji | Slack messages | YES | 🎠🦕🌼⚓🏕️ → CA-SA-BL-AN-CA | Confirmed |
+| 2 | YELLOWKNIFE? | Puzzle Maker | BTS video | Unknown | Flashing numbers. Team Omega P1.3.7, marked solved. | Probable |
+| 3 | ??? | **Cow** | YouTube Short ("Mirror Mirror") | YES | Cow walks door A→a carrying red key. Tag "40576." | Unsolved |
+| 4 | ??? | **Bear (Codey)** | YouTube Short + Salesforce branding | YES | Salesforce bear mascot. Holds "HECK" sign. In BTS Studio C. | Unsolved |
+| 5 | ??? | **Malcolm in Water** | Slack (bolded) + BTS water tank | Likely | MALCOLM as Vigenere key → "CONGRATULATIONS YOU ARE ON THE RIGHT TRACK KEEP DECODING" | Unsolved |
+| 6 | ??? | **Flamethrower** | BTS page (flickering video) | YES | Number sequence: 11 6 2 12 4 7 8 13 7 3 13 11 8 9 7 12 1 11 9 4. Needs key to decode. | Unsolved |
+| 7 | MENTONE, AL? | **E Mon Billboard** | Lone Shark social post | YES | "EMON" underlined in "Where's the money." Part of pattern: YOUHU=SUDOKU, EMON=BILLBOARD, SW=POST 1. EMON+T=MENTONE theory. | Unconfirmed |
+| 8 | ??? | **FAQ** | mrbeast.salesforce.com/faq | YES ("FAQs are necessarily a puzzle") | References naval signals (flag semaphore?). Count FAQ entries per section. | Unsolved |
+| 9 | ??? | **Lock** | Salesforce site (Verify Lock UI) | Unknown | Numbers above/below start date. Don't follow normal padlock. Almost unexplored. | Unsolved |
 
 ---
 
@@ -171,15 +171,15 @@
 | Category | Total | Found | Missing |
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 1 | 0 |
-| Screens + Bank (paired, 1 location each) | 12 | 7 | 5 |
+| Screens + Bank (paired, 1 location each) | 12 | 9 | 3 (Screens 1, 2, 9) |
 | Non-screen commercial | ~12 | 9 | ~3 |
 | Gifts | 10 | 9-10 | 0-1 |
 | Gift unifier | 1 | 0 | 1 |
 | YouTube shorts/TikTok | 2 | 0 | 2 |
-| Salesforce site/social | 9 | 2-3 | 6-7 |
+| Salesforce site/social | 9 | 2 | 7 (all 9 puzzles now identified) |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~30-33** | **~18-21** |
+| **TOTAL** | **51** | **~31-34** | **~17-20** |
 
 ---
 
