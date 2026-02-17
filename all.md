@@ -1,11 +1,11 @@
 # 51 Locations — All in One
 
-**22 confirmed, 9 probable, 1 disputed, 2 unconfirmed = ~34 with answers, ~17 unknown** | *Feb 17, 2026 ~09:30 AM PT*
+**22 confirmed, 10 probable, 1 disputed, 3 unconfirmed = 36 with answers, 15 unknown** | *Feb 17, 2026 ~02:00 AM PT*
 
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|
 | 1 | Playlist | MAPUTO? | First letters spell MAPUTO (Mozambique) | Probable |
-| 2 | Screen 1 + Bank | ??? | Backwards J + Magazine (CEO Benioff) | Unsolved |
+| 2 | Screen 1 + Bank | **BENIN?** | "Mark BENI off" = scribble BENI from BENIOFF. Backwards-J = recade (Benin national symbol). BeastBot: "sound it out" + "what is removed." | Unconfirmed |
 | 3 | Screen 2 + Bank | ??? | Trench coat + Calendar | Unsolved |
 | 4 | Screen 3 + Bank | CAIRO | Candyland rebus + Feastables shirt | Confirmed |
 | 5 | Screen 4 + Bank | ??? | Sine wave + Withdrawal slip | Unsolved |

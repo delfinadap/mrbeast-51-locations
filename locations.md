@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 22 confirmed, 9 probable, 1 disputed, 2 unconfirmed = ~34 with answers, ~17 unknown.
+**Status:** 22 confirmed, 10 probable, 1 disputed, 3 unconfirmed = **36 with answers, 15 unknown**.
 
-**Last updated:** Feb 17, 2026 ~09:30 AM PT
+**Last updated:** Feb 17, 2026 ~02:00 AM PT
 
 ---
 
@@ -26,7 +26,7 @@
 
 | Screen | Location | What's On Screen | Paired Bank Puzzle (BeastBot) | Decode | Confidence |
 |--------|----------|-----------------|-------------------------------|--------|------------|
-| 1 | ??? | Backwards J ("> J̅ > ? N") | Magazine (CEO Benioff) | | Unsolved |
+| 1 | **BENIN?** | Backwards J ("> J̅ > ? N") / cyanotype with scribble | Magazine (CEO Benioff) | "Mark BENI off" = scribble out BENI from BENIOFF. Backwards-J = **recade** (Benin national symbol). BeastBot: "sometimes you just have to sound it out" + "Look at what is removed on the line about Mark and Jimmy." | Unconfirmed |
 | 2 | ??? | Trench coat cut into pieces | Calendar (dates on desk) | | Unsolved |
 | 3 | CAIRO | Candyland rebus (Can+Dylan+D) | Feastables shirt | Candyland color indexing on Feastables merch hoodie slogan → CAIRO | Confirmed |
 | 4 | ??? | Sine wave | Withdrawal slip | Routing 650283979, account 5480234354, dated Feb 5. Sine → Sign language theory. | Unsolved |
@@ -65,7 +65,7 @@
 
 | Screen | Location | Bank Clue | BeastBot Keyword(s) | Paired Screen Content | Decode | Confidence |
 |--------|----------|-----------|---------------------|----------------------|--------|------------|
-| 1 | ??? | CEO magazine (Benioff) | "Magazine" | Backwards J | | Unsolved |
+| 1 | **BENIN?** | CEO magazine (Benioff) | "Magazine" | Backwards J / cyanotype | "Mark BENI off" → scribble BENI. Recade (Benin symbol) = backwards J. | Unconfirmed |
 | 2 | ??? | Calendar on Ms. Maybelle's desk | "Calendar", "Nameplate" | Trench coat pieces | Dates: Jan 1, Feb 2, Mar 1, Mar 3, Jun 1, Jul 1, Aug 1, Aug 6, Sep 1, Nov 5, Dec 7 | Unsolved |
 | 3 | CAIRO | Feastables shirt | "Feastables" | Candyland rebus | Candyland color indexing → Feastables merch slogan → CAIRO | Confirmed |
 | 4 | ??? | Savings withdrawal slip | "Withdrawal" | Sine wave | Routing 650283979, acct 5480234354, dated Feb 5. | Unsolved |
@@ -171,7 +171,7 @@
 | Category | Total | Found | Missing |
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 1 | 0 |
-| Screens + Bank (paired, 1 location each) | 12 | 9 | 3 (Screens 1, 2, 9) |
+| Screens + Bank (paired, 1 location each) | 12 | 10 | 2 (Screens 2, 9) |
 | Non-screen commercial | ~12 | 9 | ~3 |
 | Gifts | 10 | 9-10 | 0-1 |
 | Gift unifier | 1 | 0 | 1 |
@@ -179,7 +179,7 @@
 | Salesforce site/social | 9 | 2 | 7 (all 9 puzzles now identified) |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~31-34** | **~17-20** |
+| **TOTAL** | **51** | **~36** | **~15** |
 
 ---
 
