@@ -70,15 +70,15 @@
   .footer a { color: #16c79a; text-decoration: none; }
   .footer a:hover { text-decoration: underline; }
 
-  /* Medium: grid on top, two tables side by side below */
-  @media (max-width: 1400px) {
-    .three-col { flex-direction: column; align-items: center; }
-    .grid-container { margin-bottom: 10px; }
+  /* Medium: grid left, two tables stacked right */
+  @media (max-width: 1200px) {
+    .table-pair { flex-direction: column; }
   }
 
   /* Small: everything stacked in one column */
   @media (max-width: 900px) {
-    .table-pair { flex-direction: column; }
+    .three-col { flex-direction: column; align-items: center; }
+    .grid-container { margin-bottom: 10px; }
   }
 
   /* Phone: compact sizing */
