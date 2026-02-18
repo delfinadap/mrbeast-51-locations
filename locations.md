@@ -126,7 +126,7 @@
 | A1 | ??? | **Malcolm in Water** | "2 underwater" (1st) | "MALCOM" triggers BeastBot. Vigenere cipher → "CONGRATULATIONS YOU ARE ON THE RIGHT TRACK KEEP DECODING..." Connected to submarine on briefcase. | Puzzle confirmed, unsolved |
 | A2 | ??? | **Submarine Math** | "2 underwater" (2nd) | BTS video ~3:17. Independently identified by multiple teams. Details sparse. | Puzzle confirmed, unsolved |
 | A3 | YELLOWKNIFE | **Puzzle Maker** | "1 in pieces" | Slack message at 6:19 in BTS video. Confirmed solved by multiple teams. | **Confirmed** |
-| A4 | ??? | **Elephant 85673** | "1 never forgets" | "Never forgets" = elephant. Twitter @ELEPHANT85673 had encoded messages. | Puzzle confirmed, unsolved |
+| A4 | **THANE, India?** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in Maharashtra, India. Twitter @ELEPHANT85673 confirmed fake (Hint #10), but 85673 appears independently in BTS content. Multiple solvers converged (Ditto, iKnifeThings, Fire — LSG). | Probable |
 
 ### Group B: 3 on Large Physical Objects (Salesforce X Feed)
 

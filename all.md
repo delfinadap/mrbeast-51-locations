@@ -47,7 +47,7 @@
 | 39 | SF: BTS (A1) | ??? | **Malcolm in Water** — "2 underwater" (1st). Vigenere cipher confirmed. | Puzzle confirmed, unsolved |
 | 40 | SF: BTS (A2) | ??? | **Submarine Math** — "2 underwater" (2nd). BTS video ~3:17. | Puzzle confirmed, unsolved |
 | 41 | SF: BTS (A3) | YELLOWKNIFE | **Puzzle Maker** — "1 in pieces." BTS video 6:19. Multiple teams confirmed. | **Confirmed** |
-| 42 | SF: BTS (A4) | ??? | **Elephant 85673** — "1 never forgets." Twitter @ELEPHANT85673 encoded messages. | Puzzle confirmed, unsolved |
+| 42 | SF: BTS (A4) | **THANE, India?** | **Elephant 85673** — "1 never forgets." 85673 indexes into ELEPHANT: 8=T,5=H,6=A,7=N,3=E → THANE. Major Indian city (1.9M). Twitter @ELEPHANT85673 confirmed fake (Hint #10) but number appears independently in BTS. | Probable |
 | 43 | SF: Physical (B1) | **NAZARÉ, Portugal** | **Salesforce Tower LED video** — "1 may take a while to watch." Blue durations in seconds → A1Z26 = "SURF RECORD SITE WITH ARGENT HUE." Nazaré = surf record site on Portugal's Silver Coast (argent = silver). | Confirmed |
 | 44 | SF: Physical (B2) | **DIMTU, Ethiopia?** | **Billboard** — numbers 04 09 13 20 21 → A1Z26 = D-I-M-T-U. Also "EMON" underlined on separate billboard → MENTONE theory. Neither confirmed. | Unconfirmed |
 | 45 | SF: Physical (B3) | ??? | **???** — 3rd large physical object on X feed. Unidentified. | Not found |
