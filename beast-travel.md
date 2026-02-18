@@ -23,41 +23,19 @@
 
 | Page | Tagline | Destination | Caption | Solve | Image | Status |
 |------|---------|-------------|---------|-------|-------|--------|
-| Car | "To get here you can ride our free bus / Or hire a car to get each…" | BARODYNAMICS | "Join us at" | OIL CITY? | pggz_UN4.png | Probable |
+| Car | "A nickname for your destination / (But not its name or its translation) / To get here you can ride our free bus / Or hire a car to get each…" | BARODYNAMICS | "Join us at" | OIL CITY? → CASPER, Wyoming | pggz_UN4.png | Probable |
 | Car | | EBULLIOSCOPE | "See lovely" | ARZAMAS, Russia? (~33 churches in image; Arzamas = "city of 33 churches") | gsFk8tO8.png | Probable |
 | Car | | FURFURACEOUS | "Meet us at" | DAR ES SALAAM? (Omega: hint says "not its translation" — may be wrong) | wh2q0_Kk.png | Disputed |
 | Car | | HAPAXANTHOUS | "You'll like" | BAKU, Azerbaijan ("City of Winds" rebus) | NEW | Probable |
 | Car | | HEKISTOTHERM | "Get down to" | WINNIPEG, Canada ("Capital" + "Jets/Plains" rebus; coldest major city fits word) | NEW | Probable |
-| Horse | "We've got these places in our triptych / We think you'll love them, 'cause they're…" | ABERUNCATORS | "Vacation at" | OKATO, New Zealand | jU18fVUA.png | Confirmed |
+| Horse | "To pinpoint every cool location / Our clues provide an explanation / We've got these places in our triptych / We think you'll love them, 'cause they're…" | ABERUNCATORS | "Vacation at" | OKATO, New Zealand | jU18fVUA.png | Confirmed |
 | Horse | | DEAMBULATORY | "Find us in" | NOVA RUSSAS, Brazil | 2IEfeT_Q.png | Confirmed |
 | Horse | | FISSICOSTATE | "Have fun at" | ČESKÉ BUDĚJOVICE, Czechia (cryptic → W3W: towers.decoder.models) | NEW | Confirmed |
-| Plane | "To find these spots will be no stressor / If you think like a…" | ABOUTSLEDGES | "See you at" | AMBANJA, Madagascar | 4k79IT5U.png | Confirmed |
+| Plane | "For all our favorite travel nerds / A picture's worth a thousand words / To find these spots will be no stressor / If you think like a…" | ABOUTSLEDGES | "See you at" | AMBANJA, Madagascar | 4k79IT5U.png | Confirmed |
 | Plane | | ABSQUATULATE | "Such fun at" | SAINT-PIERRE, SPM | o3fj1w4.png | Confirmed |
 | Plane | | ECTYPOGRAPHY | "Come visit" | KRASNODAR, Russia | gO6cSCVw.png | Confirmed |
 | Plane | | ELEEMOSYNARY | "Chill at" | TUCUMÁN, Argentina (Mercedes Sosa Theater) | NEW | Confirmed |
 | Plane | | EPANOSTROPHE | "Be well at" | DERBY, Western Australia (Derby Wharf, Jetty Road) | NEW | Confirmed |
-
----
-
-## IATA Airport Code Grid
-
-Each 12-letter destination splits into four 3-letter groups. 43 of 49 are valid IATA airport codes (88%, vs 54% base rate — statistically significant).
-
-| Destination | Codes | Solve |
-|-------------|-------|-------|
-| BARODYNAMICS | BAR · ODY · NAM · ICS | CASPER? |
-| EBULLIOSCOPE | EBU · LLI · OSC · OPE | ARZAMAS? |
-| FURFURACEOUS | FUR · FUR · ACE · OUS | DAR ES SALAAM? |
-| HAPAXANTHOUS | HAP · AXA · NTH · OUS | BAKU? |
-| HEKISTOTHERM | HEK · IST · OTH · ERM | WINNIPEG? |
-| ABERUNCATORS | ABE · RUN · CAT · ORS | **OKATO** |
-| DEAMBULATORY | DEA · MBU · LAT · ORY | **NOVA RUSSAS** |
-| FISSICOSTATE | FIS · SIC · OST · ATE | **ČESKÉ BUDĚJOVICE** |
-| ABOUTSLEDGES | ABO · UTS · LED · GES | **AMBANJA** |
-| ABSQUATULATE | ABS · QUA · TUL · ATE | **SAINT-PIERRE** |
-| ECTYPOGRAPHY | ECT · YPO · GRA · PHY | **KRASNODAR** |
-| ELEEMOSYNARY | ELE · EMO · SYN · ARY | **TUCUMÁN** |
-| EPANOSTROPHE | EPA · NOS · TRO · PHE | **DERBY** |
 
 ---
 
