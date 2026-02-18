@@ -272,7 +272,7 @@ function showPanel(c, word, pos) {
   const content = document.getElementById('p-content');
 
   if (c.valid) {
-    const mapsUrl = `https://www.google.com/maps/search/${encodeURIComponent(c.airport + ' ' + c.city + ' ' + c.country)}`;
+    const mapsUrl = `https://www.google.com/maps/search/${encodeURIComponent(c.code + ' airport')}`;
     content.innerHTML = `
       <div class="label">Airport</div>
       <div class="value">${c.airport}</div>
