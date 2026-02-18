@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MrBeast Puzzle — Location Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: system-ui, -apple-system, sans-serif; background: #1a1a2e; color: #eee; }
+  #map { width: 100%; height: calc(100vh - 160px); }
+  .header { padding: 12px 20px; background: #16213e; border-bottom: 1px solid #333; }
+  .header h1 { font-size: 18px; margin-bottom: 4px; }
+  .header .sub { font-size: 12px; color: #888; }
+  .stats { font-size: 12px; color: #aaa; padding: 6px 20px; background: #16213e; display: flex; gap: 24px; flex-wrap: wrap; }
+  .stats .group { display: flex; gap: 6px; align-items: center; }
+  .stats .label { color: #666; }
+  .stats .num { font-weight: 700; }
+  .stats .sep { color: #333; }
+  .legend { display: flex; gap: 16px; padding: 10px 20px; background: #16213e; border-top: 1px solid #333; flex-wrap: wrap; align-items: center; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 13px; }
+  .legend-dot { width: 14px; height: 14px; border-radius: 50%; border: 2px solid rgba(255,255,255,0.3); }
+  .legend-sq { width: 14px; height: 14px; border-radius: 2px; border: 2px solid rgba(255,255,255,0.3); }
+  .filters { display: flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
+  .filters button { background: #2a2a4a; color: #ccc; border: 1px solid #444; padding: 4px 10px; border-radius: 4px; cursor: pointer; font-size: 12px; }
+  .filters button.active { background: #4a4a8a; color: #fff; border-color: #66f; }
+  .filters button:hover { background: #3a3a6a; }
+  .toggle { display: flex; align-items: center; gap: 6px; font-size: 12px; color: #aaa; cursor: pointer; user-select: none; }
+  .toggle input { cursor: pointer; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h1>MrBeast Million Dollar Puzzle — Location Map</h1>
+  <div class="sub">Color = confidence. Circle = Stage 1, 🚗🐴✈️ = beast.travel. Click markers for details. Feedback? <a href="https://discord.gg/PeArHATD" style="color:#88f">discord.gg/PeArHATD</a></div>
+</div>
+<div class="stats" id="stats"></div>
+<div id="map"></div>
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#22c55e"></div> Confirmed</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div> Probable</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Unconfirmed / Disputed</div>
+  <div class="legend-item" style="margin-left:12px; color:#444">|</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#888"></div> Stage 1</div>
+  <div class="legend-item">🚗🐴✈️ beast.travel</div>
+  <div class="legend-item" style="margin-left:12px; color:#444">|</div>
+  <div class="filters" id="filters">
+    <label class="toggle"><input type="checkbox" checked data-conf="confirmed"> <span style="color:#22c55e">Confirmed</span></label>
+    <label class="toggle"><input type="checkbox" checked data-conf="probable"> <span style="color:#f59e0b">Probable</span></label>
+    <label class="toggle"><input type="checkbox" checked data-conf="unconfirmed"> <span style="color:#ef4444">Unconfirmed</span></label>
+    <span style="color:#444; margin: 0 4px">|</span>
+    <label class="toggle"><input type="checkbox" id="toggleBeastTravel"> beast.travel</label>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const CSV = `name,country,lat,lng,category,confidence,puzzle,notes
+Maputo,Mozambique,-25.9692,32.5732,playlist,confirmed,Playlist setup,First letters spell MAPUTO
+Cairo,Egypt,30.0444,31.2357,screen-bank,confirmed,Screen 3 + Feastables,Candyland color indexing
+Ankara,Turkey,39.9334,32.8597,screen-bank,confirmed,Screen 5 + Parking,ARA+ANK from spider/ballerina+tank/bank
+Tijuana,Mexico,32.5149,-117.0382,screen-bank,confirmed,Screen 8 + Poster,Triple Caesar pun
+Accra,Ghana,5.6037,-0.187,commercial,confirmed,Vault door Scrabble,Scrabble tile values
+Kabul,Afghanistan,34.5553,69.2075,commercial,confirmed,Morse code light,Light flashes Morse backwards
+Arles,France,43.6767,4.6278,commercial,confirmed,Laser pattern,LASER MIX UP anagram
+Kupang,Indonesia,-10.1772,123.607,commercial,confirmed,Clipboard overlay,Capital of East Nusa Tenggara
+Lahore,Pakistan,31.5204,74.3587,commercial,confirmed,Periodic dots,Atomic numbers
+Lima,Peru,-12.0464,-77.0428,commercial,confirmed,Belt wire colors,Color code 12-7-13-1
+Tallinn,Estonia,59.437,24.7536,commercial,confirmed,Subtitles,tall inn from hyphens
+Divo,Côte d'Ivoire,5.8372,-5.3597,gift,confirmed,Jack McKenna card trick,Card trick decode
+Buffalo,USA,42.8864,-78.8784,gift,confirmed,Botez Sisters chess,Chess Game 6 cipher
+Tierra del Fuego,Argentina,-54.8019,-68.303,gift,confirmed,Quackity sword,Beagle Channel
+DeKalb,USA,41.9295,-88.7503,gift,confirmed,Hayleybaylee rings,Rings puzzle
+New York City,USA,40.7128,-74.006,gift,confirmed,Jimmy Fallon jigsaw,JIMMYS BIRTHPLACE
+Cairns,Australia,-16.9186,145.7781,gift,confirmed,Chris Hemsworth,LAND OF CAIRNS
+Copenhagen,Denmark,55.6761,12.5683,gift,confirmed,Pierson blender,HAFNIUM CITY
+Algiers,Algeria,36.7538,3.0588,gift,confirmed,Airrack photos,A-L-G-I-E-R-S
+Heard Island,Australia,-53.1,73.5,lonesharksocial,confirmed,Bluesky homophones,Remote island
+Île de la Possession,French Southern Territories,-46.4,51.8,lonesharksocial,confirmed,Podcast anagram,Crozet Islands
+Ascension Island,UK,-7.9467,-14.3559,lonesharksocial,confirmed,Facebook/BGG,BGG rankings acrostic
+Eyjafjallajökull,Iceland,63.63,-19.62,crossword,confirmed,Crossword circled cells,16 circled cells anagram
+Yellowknife,Canada,62.454,-114.3718,salesforce,confirmed,BTS Puzzle Maker,Omega confirmed
+Casablanca,Morocco,33.5731,-7.5898,salesforce,confirmed,Slack emoji,CA-SA-BL-AN-CA
+Komi Republic,Russia,65.0284,54.8023,screen-bank,probable,Screen 4 + Withdrawal slip,Coordinates from routing number
+Tbilisi,Georgia,41.7151,44.8271,screen-bank,probable,Screen 6 + Bird/Coffee,Bird cipher DINAMO + Georgia
+Cebu,Philippines,10.3157,123.8854,screen-bank,probable,Screen 7 + IPESIT/Pirate,CEBU phonetic
+Lincoln,USA,40.8136,-96.7026,screen-bank,probable,Screen 11 + Penny jar,Penny weight = latitude
+Moscow,Russia,55.7558,37.6173,screen-bank,probable,Screen 12 + Rubiks Cube,Red + Cube = Red Square
+Tashkent,Uzbekistan,41.2995,69.2401,commercial,probable,Marked bills / Cash Pile,CASH TENT
+New Orleans,USA,29.9511,-90.0715,commercial,probable,Tank numbers + I scream,New Orleans ice cream
+Tampa Bay,USA,27.9506,-82.4572,gift,probable,Sketch gift,Madden 99 → BUCS
+Valentine,USA,35.3853,-113.6603,gift,probable,Jim & Monika hearts,Valentine AZ postmark
+Benin,Benin,6.3703,2.3912,screen-bank,unconfirmed,Screen 1 + Magazine,Marc Benioff → mark BENI off
+Basel,Switzerland,47.5596,7.5886,screen-bank,unconfirmed,Screen 10 + Sudoku,Euler birthplace
+Ambanja,Madagascar,-13.6847,48.4497,beast-travel,confirmed,Plane: ABOUTSLEDGES,Otiv Mandroso bank
+Saint-Pierre,Saint Pierre and Miquelon,46.7811,-56.1764,beast-travel,confirmed,Plane: ABSQUATULATE,Lighthouse matched
+Krasnodar,Russia,45.0355,38.9753,beast-travel,confirmed,Plane: ECTYPOGRAPHY,Russian street signs
+Tucumán,Argentina,-26.8083,-65.2176,beast-travel,confirmed,Plane: ELEEMOSYNARY,Mercedes Sosa Theater
+Derby,Australia,-17.3089,123.6275,beast-travel,confirmed,Plane: EPANOSTROPHE,Derby Wharf
+Okato,New Zealand,-39.191,173.88,beast-travel,confirmed,Horse: ABERUNCATORS,Taranaki region
+Nova Russas,Brazil,-4.7042,-40.5631,beast-travel,confirmed,Horse: DEAMBULATORY,W3W confirmed
+České Budějovice,Czech Republic,48.9745,14.4746,beast-travel,confirmed,Horse: FISSICOSTATE,W3W confirmed
+Regina,Canada,50.4452,-104.6189,beast-travel,confirmed,Car photo puzzle,Image match
+Casper,USA,42.8666,-106.3131,beast-travel,probable,Car: BARODYNAMICS,Oil City nickname
+Arzamas,Russia,55.392,43.8131,beast-travel,probable,Car: EBULLIOSCOPE,City of 33 churches
+Dar es Salaam,Tanzania,-6.7924,39.2083,beast-travel,disputed,Car: FURFURACEOUS,Home of peace — disputed
+Baku,Azerbaijan,40.4093,49.8671,beast-travel,probable,Car: HAPAXANTHOUS,City of Winds
+Winnipeg,Canada,49.8951,-97.1384,beast-travel,probable,Car: HEKISTOTHERM,Coldest major city`;
+
+function parseCSV(csv) {
+  const lines = csv.trim().split('\n');
+  const headers = lines[0].split(',');
+  return lines.slice(1).map(line => {
+    const vals = line.split(',');
+    const obj = {};
+    headers.forEach((h, i) => obj[h.trim()] = vals[i]?.trim() || '');
+    obj.lat = parseFloat(obj.lat);
+    obj.lng = parseFloat(obj.lng);
+    return obj;
+  });
+}
+
+const locations = parseCSV(CSV);
+
+const map = L.map('map', {
+  center: [20, 10],
+  zoom: 2,
+  minZoom: 2,
+  worldCopyJump: true,
+  attributionControl: false
+});
+
+L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+  attribution: '&copy; OSM &copy; CARTO',
+  subdomains: 'abcd',
+  maxZoom: 19
+}).addTo(map);
+
+const colors = {
+  confirmed: '#22c55e',
+  probable: '#f59e0b',
+  unconfirmed: '#ef4444',
+  disputed: '#ef4444'
+};
+
+const categoryLabels = {
+  'playlist': 'Playlist',
+  'screen-bank': 'Screen + Bank',
+  'commercial': 'Commercial',
+  'gift': 'Gift',
+  'lonesharksocial': 'Lone Shark Social',
+  'crossword': 'Crossword',
+  'salesforce': 'Salesforce',
+  'beast-travel': 'beast.travel (Stage 2)'
+};
+
+const allMarkers = [];
+let showBeastTravel = false;
+const showConfidence = { confirmed: true, probable: true, unconfirmed: true, disputed: true };
+
+function createMarker(loc) {
+  const color = colors[loc.confidence] || '#888';
+  const isBeastTravel = loc.category === 'beast-travel';
+
+  let marker;
+  if (isBeastTravel) {
+    // Emoji icons for beast.travel based on transport type
+    const puzzle = loc.puzzle.toLowerCase();
+    let emoji = '📍';
+    if (puzzle.includes('plane')) emoji = '✈️';
+    else if (puzzle.includes('horse')) emoji = '🐴';
+    else if (puzzle.includes('car')) emoji = '🚗';
+    const icon = L.divIcon({
+      className: '',
+      html: `<div style="font-size:13px;text-shadow:0 0 3px ${color}, 0 0 6px ${color};filter:drop-shadow(0 0 2px rgba(0,0,0,0.8));line-height:1;cursor:pointer;">${emoji}</div>`,
+      iconSize: [16, 16],
+      iconAnchor: [8, 8]
+    });
+    marker = L.marker([loc.lat, loc.lng], { icon });
+  } else {
+    // Circle markers for Stage 1
+    marker = L.circleMarker([loc.lat, loc.lng], {
+      radius: 5,
+      fillColor: color,
+      color: '#fff',
+      weight: 1.5,
+      opacity: 1,
+      fillOpacity: 0.85
+    });
+  }
+
+  const catLabel = categoryLabels[loc.category] || loc.category;
+  marker.bindPopup(`
+    <div style="font-family:system-ui;min-width:200px">
+      <div style="font-size:15px;font-weight:700;margin-bottom:4px">${loc.name}, ${loc.country}</div>
+      <div style="font-size:12px;color:#666;margin-bottom:6px">${loc.lat.toFixed(4)}, ${loc.lng.toFixed(4)}</div>
+      <div style="font-size:13px;margin-bottom:3px"><b>Category:</b> ${catLabel}</div>
+      <div style="font-size:13px;margin-bottom:3px"><b>Confidence:</b> <span style="color:${color};font-weight:600">${loc.confidence.toUpperCase()}</span></div>
+    </div>
+  `);
+
+  marker.bindTooltip(`${loc.name}, ${loc.country}`, {
+    permanent: false,
+    direction: 'top',
+    offset: [0, -8]
+  });
+
+  marker._locData = loc;
+  return marker;
+}
+
+locations.forEach(loc => {
+  const marker = createMarker(loc);
+  allMarkers.push(marker);
+});
+
+function updateVisibility() {
+  allMarkers.forEach(m => {
+    const loc = m._locData;
+    const isBT = loc.category === 'beast-travel';
+
+    let show = true;
+
+    // beast.travel toggle
+    if (isBT && !showBeastTravel) show = false;
+
+    // confidence filter — "disputed" and "unconfirmed" share one toggle
+    const confKey = (loc.confidence === 'disputed') ? 'unconfirmed' : loc.confidence;
+    if (show && !showConfidence[confKey]) show = false;
+
+    if (show) m.addTo(map);
+    else map.removeLayer(m);
+  });
+}
+
+// Stats
+const s1 = locations.filter(l => l.category !== 'beast-travel');
+const bt = locations.filter(l => l.category === 'beast-travel');
+const s1c = s1.filter(l => l.confidence === 'confirmed').length;
+const s1p = s1.filter(l => l.confidence === 'probable').length;
+const s1unc = s1.filter(l => l.confidence === 'unconfirmed').length;
+const s1dis = s1.filter(l => l.confidence === 'disputed').length;
+const btc = bt.filter(l => l.confidence === 'confirmed').length;
+const btp = bt.filter(l => l.confidence === 'probable').length;
+const btunc = bt.filter(l => l.confidence === 'unconfirmed').length;
+const btdis = bt.filter(l => l.confidence === 'disputed').length;
+
+function breakdownStr(c, p, u, d) {
+  const parts = [];
+  if (c) parts.push(`${c} confirmed`);
+  if (p) parts.push(`${p} probable`);
+  if (u) parts.push(`${u} unconfirmed`);
+  if (d) parts.push(`${d} disputed`);
+  return parts.join(', ');
+}
+
+document.getElementById('stats').innerHTML =
+  `<div class="group"><span class="label">Stage 1:</span> <span class="num">${s1.length}</span> <span class="label">(${breakdownStr(s1c, s1p, s1unc, s1dis)})</span></div>` +
+  `<span class="sep">|</span>` +
+  `<div class="group"><span class="label">beast.travel:</span> <span class="num">${bt.length}</span> <span class="label">(${breakdownStr(btc, btp, btunc, btdis)})</span></div>`;
+
+// Confidence toggles
+document.querySelectorAll('#filters input[data-conf]').forEach(cb => {
+  cb.addEventListener('change', e => {
+    showConfidence[e.target.dataset.conf] = e.target.checked;
+    if (e.target.dataset.conf === 'unconfirmed') showConfidence.disputed = e.target.checked;
+    updateVisibility();
+  });
+});
+
+// beast.travel toggle
+document.getElementById('toggleBeastTravel').addEventListener('change', e => {
+  showBeastTravel = e.target.checked;
+  updateVisibility();
+});
+
+// Initial render — beast.travel hidden by default
+updateVisibility();
+</script>
+</body>
+</html>
