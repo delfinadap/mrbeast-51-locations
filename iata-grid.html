@@ -13,7 +13,8 @@
 
   .three-col { display: flex; gap: 30px; align-items: flex-start; justify-content: center; }
   .col-grid { flex-shrink: 0; }
-  .col-tables { display: flex; gap: 20px; flex-shrink: 0; }
+  .col-tables { flex-shrink: 0; }
+  .table-pair { display: flex; gap: 20px; }
 
   .grid-container { display: flex; flex-direction: column; align-items: center; gap: 8px; margin-bottom: 30px; }
   .grid-row { display: flex; gap: 8px; align-items: center; }
@@ -65,7 +66,7 @@
   .legend-dot { width: 14px; height: 14px; border-radius: 4px; }
   .legend-dot.valid { background: #0f3460; border: 2px solid #16c79a; }
   .legend-dot.invalid { background: #2a2a3e; border: 2px solid #e94560; }
-  .footer { text-align: center; margin-top: 30px; font-size: 14px; color: #888; }
+  .footer { margin-top: 15px; font-size: 14px; color: #888; }
   .footer a { color: #16c79a; text-decoration: none; }
   .footer a:hover { text-decoration: underline; }
 </style>
@@ -91,18 +92,19 @@
     <div class="grid-container" id="grid"></div>
   </div>
   <div class="col-tables">
-    <table class="ref-table">
-      <thead><tr><th>#</th><th>Code</th><th>Airport</th><th>City</th><th>Country</th></tr></thead>
-      <tbody id="ref-body-1"></tbody>
-    </table>
-    <table class="ref-table">
-      <thead><tr><th>#</th><th>Code</th><th>Airport</th><th>City</th><th>Country</th></tr></thead>
-      <tbody id="ref-body-2"></tbody>
-    </table>
+    <div class="table-pair">
+      <table class="ref-table">
+        <thead><tr><th>#</th><th>Code</th><th>Airport</th><th>City</th><th>Country</th></tr></thead>
+        <tbody id="ref-body-1"></tbody>
+      </table>
+      <table class="ref-table">
+        <thead><tr><th>#</th><th>Code</th><th>Airport</th><th>City</th><th>Country</th></tr></thead>
+        <tbody id="ref-body-2"></tbody>
+      </table>
+    </div>
+    <div class="footer">Feedback? <a href="https://discord.gg/PeArHATD" target="_blank">discord.gg/PeArHATD</a></div>
   </div>
 </div>
-
-<div class="footer">Feedback? <a href="https://discord.gg/PeArHATD" target="_blank">discord.gg/PeArHATD</a></div>
 
 <div class="overlay" id="overlay" onclick="closePanel()"></div>
 <div class="detail-panel" id="panel">
