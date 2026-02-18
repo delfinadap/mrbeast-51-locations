@@ -41,4 +41,4 @@
 
 **See also:** [IATA Airport Code Grid](iata-grid.html) — interactive visualization of how each destination word splits into real airport codes
 
-**Feedback?** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
+**Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)

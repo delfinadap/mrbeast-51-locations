@@ -2,7 +2,7 @@
 
 **27 confirmed, 9 probable, 2 unconfirmed = 38 with answers, ~13 unknown** | *Feb 18, 2026 ~12:15 PM PST*
 
-**Feedback?** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
+**Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|
@@ -62,4 +62,4 @@
 
 ---
 
-**Feedback?** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
+**Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)

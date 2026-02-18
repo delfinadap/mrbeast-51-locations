@@ -23,4 +23,4 @@ What we can deduct from this:
 
 ---
 
-(Originally posted on [discord.gg/PeArHATD](https://discord.gg/PeArHATD))
+(Originally posted on [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv))

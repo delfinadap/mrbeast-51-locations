@@ -12,4 +12,4 @@
 
 ---
 
-**Feedback?** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
+**Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
