@@ -103,7 +103,7 @@
 
 | # | Location | Video | Notes | Confidence |
 |---|----------|-------|-------|------------|
-| 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" (8_aIjKi0VLM) | 5 red items → phonetic syllables: RED key (KEY) + RED jersey numbers 15,20,23 A1Z26=OTW→TOW + RED "HECK" (bear/Codey) + RED £ pound on boxer (QUID) + RED doors (DOOR) = **KEY-TOW-HECK-QUID-DOOR** → "Quito Ecuador." BeastBot confirms cow, bear, and red doors as puzzles. Multiple independent solvers across LSG and Serious. | Confirmed |
+| 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" (8_aIjKi0VLM) | 5 red items → phonetic syllables: RED key (KEY) + RED jersey numbers 15,20,23 A1Z26=OTW→TOW + RED "HECK" (bear/Codey) + RED £ pound on boxer (QUID) + RED doors (DOOR) = **KEY-TOW-HECK-QUID-DOOR** → "Quito Ecuador." BeastBot confirms cow, bear, and red doors as puzzles. Multiple independent solvers across community servers. | Confirmed |
 | 2 | ??? | Chocolate heart (XbaZ45LVzzM) | MrBeast + Amaury Gaichon. Connected to Jim/Monika heart theme. TikTok version may differ from YouTube. | Unsolved |
 
 ---
@@ -126,7 +126,7 @@
 | A1 | ??? | **Malcolm in Water** | "2 underwater" (1st) | "MALCOM" triggers BeastBot. Vigenere cipher → "CONGRATULATIONS YOU ARE ON THE RIGHT TRACK KEEP DECODING..." Connected to submarine on briefcase. | Puzzle confirmed, unsolved |
 | A2 | ??? | **Submarine Math** | "2 underwater" (2nd) | BTS video ~3:17. Independently identified by multiple teams. Details sparse. | Puzzle confirmed, unsolved |
 | A3 | YELLOWKNIFE | **Puzzle Maker** | "1 in pieces" | Slack message at 6:19 in BTS video. Confirmed solved by multiple teams. | **Confirmed** |
-| A4 | **THANE, India?** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in Maharashtra, India. Twitter @ELEPHANT85673 confirmed fake (Hint #10), but 85673 appears independently in BTS content. Multiple solvers converged (Ditto, iKnifeThings, Fire — LSG). | Probable |
+| A4 | **THANE, India?** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in Maharashtra, India. Twitter @ELEPHANT85673 confirmed fake (Hint #10), but 85673 appears independently in BTS content. Multiple solvers converged independently. | Probable |
 
 ### Group B: 3 on Large Physical Objects (Salesforce X Feed)
 
