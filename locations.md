@@ -4,7 +4,7 @@
 
 **Status:** 23 confirmed, 9 probable, 3 unconfirmed = 35 with answers, ~16 unsolved.
 
-**Last updated:** Feb 17, 2026 ~7:30 PM PT
+**Last updated:** Feb 17, 2026 ~7:35 PM PST
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -106,28 +106,53 @@
 
 ---
 
-## Category 7: Salesforce Site/Social (1–2 of 9)
+## Category 7: Salesforce Site/Social (1 of 9)
 
 *"The 9 puzzles you'll find on this site or social posts from Salesforce properties."*
 
-*Biggest gap — nobody has systematically scraped Salesforce social accounts. Note: Some puzzles (cow, bear, flamethrower) appear in BOTH YouTube shorts AND the Salesforce/BTS site — category overlap unresolved.*
+*Biggest gap in the puzzle. Hint #9 (Feb 17) gave us the definitive breakdown of where to find all 9. Only 1 solved (Yellowknife). 5 puzzles confirmed via community/Omega, 2 likely, 2 still unidentified.*
 
-| # | Location | Puzzle Name | Source | BeastBot? | Notes | Confidence |
-|---|----------|------------|--------|-----------|-------|------------|
-| 1 | CASABLANCA | Slack emoji | Slack messages | YES | Emoji spelling → CA-SA-BL-AN-CA + chess connection | Confirmed |
-| 2 | YELLOWKNIFE | Puzzle Maker | BTS video | Unknown | Confirmed solved by multiple sources. | Confirmed |
-| 3 | CHICAGO? | BTS clocks | BTS video | Unknown | Four clocks: Tokyo, London, Chicago, New York. Chicago specific or just timezones? | Unconfirmed |
-| 4 | ??? | **Cow** | YouTube Short ("Mirror Mirror") + BeastBot | YES | Cow walks door A→a carrying red key around neck. Tag "40576." May overlap with Category 6 (Shorts). | Unsolved |
-| 5 | ??? | **Bear (Codey)** | YouTube Short + Salesforce branding | YES | Salesforce mascot Codey. Bear emerges door B→b holding sign "HECK" in red. In BTS Studio C. Japanese banners translate to "bear bear humanity." | Unsolved |
-| 6 | ??? | **Malcolm in Water** | Slack (bolded text) + BTS water tank | Likely | Malcolm bolded in Slack = keyword. Cipher using MALCOLM as Vigenère key yields "CONGRATULATIONS YOU ARE ON THE RIGHT TRACK KEEP DECODING AND YOU WILL FIND THE ANSWER." Connected to submarine on briefcase. | Unsolved |
-| 7 | ??? | **Flamethrower** | BTS page (flickering video) | YES | Flickering puzzle pieces encode number sequence: 11 6 2 12 4 7 8 13 7 3 13 11 8 9 7 12 1 11 9 4. Likely indexing/substitution cipher — needs key or reference text. | Unsolved |
-| 8 | MENTONE, AL? | **E Mon Billboard** | Lone Shark social post | YES | Billboard "Where's the money" with E-M-O-N underlined. EMON+T=MENTONE → Mentone, Alabama. Weak but only theory. | Unconfirmed |
-| 9 | ??? | **FAQ** | mrbeast.salesforce.com/faq | YES | FAQ page contains puzzle. References naval signals (flag semaphore?). Direct link shared by Lone Shark Shane. | Unsolved |
-| 10 | ??? | **Lock** | Salesforce site (Verify Lock UI) | Unknown | "Verify Lock" element with numbers above/below start date. Almost entirely unexplored. | Unsolved |
-| 11 | ??? | **Salesforce Tower** | Slack messages + BTS | Likely | Slack message about Salesforce Tower appears whenever magazine shown in BTS. Chicago tower "has a lot of 3s." Ohana floor mentioned. | Unsolved |
-| 12 | ??? | **Wanna Win a Million** | Unknown (Salesforce site?) | Unknown | Listed on community master trackers but zero substantive analysis. Likely banner/social post text. | Unsolved |
+### Hint #9 Structure (confirmed):
+- **4 in BTS videos:** 2 underwater, 1 in pieces, 1 never forgets
+- **3 on large physical objects** visible on Salesforce's X feed (1 may take a while to watch)
+- **2 on this site:** 1 in a helpful video, 1 follows our advice
 
-*Note: 12 entries listed but only 9 are Salesforce puzzles per Hint #6. Some may overlap with other categories (cow/bear with Shorts) or some entries may not be Salesforce category. Exact mapping TBD.*
+### Group A: 4 in BTS Videos
+
+| # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
+|---|----------|--------|---------------|-------|------------|
+| A1 | ??? | **Malcolm in Water** | "2 underwater" (1st) | "MALCOM" triggers BeastBot. Vigenere cipher → "CONGRATULATIONS YOU ARE ON THE RIGHT TRACK KEEP DECODING..." Connected to submarine on briefcase. | Puzzle confirmed, unsolved |
+| A2 | ??? | **Submarine Math** | "2 underwater" (2nd) | BTS video ~3:17. Independently identified by multiple teams. Details sparse. | Puzzle confirmed, unsolved |
+| A3 | YELLOWKNIFE | **Puzzle Maker** | "1 in pieces" | Slack message at 6:19 in BTS video. Confirmed solved by multiple teams. | **Confirmed** |
+| A4 | ??? | **Elephant 85673** | "1 never forgets" | "Never forgets" = elephant. Twitter @ELEPHANT85673 had encoded messages. | Puzzle confirmed, unsolved |
+
+### Group B: 3 on Large Physical Objects (Salesforce X Feed)
+
+| # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
+|---|----------|--------|---------------|-------|------------|
+| B1 | ??? | **Salesforce Tower video** | "1 may take a while to watch" | 17-min video on Salesforce X — "take a while to watch" fits. | Likely puzzle, unsolved |
+| B2 | MENTONE, AL? | **Billboard** | (2nd large object) | Vault billboard on Salesforce X with numbers **04 09 13 20 21**. Also "Where's the money" billboard with **E-M-O-N** underlined. EMON+T=MENTONE theory. | Likely puzzle, location unconfirmed |
+| B3 | ??? | **???** | (3rd large object) | **Unidentified.** Multiple solvers can't find a third large physical object. Pyramid from Salesforce video suggested but uncertain. | Not found |
+
+### Group C: 2 on the Site
+
+| # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
+|---|----------|--------|---------------|-------|------------|
+| C1 | ??? | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Identified by multiple teams but unsolved. Likely the "How to Play" or similar help video on mrbeast.salesforce.com. | Puzzle confirmed, unsolved |
+| C2 | ??? | **FAQ** | "1 follows our advice" | BeastBot confirmed: "FAQs are necessarily a puzzle." Lone Shark Shane shared direct link. References naval signals (semaphore?). | Puzzle confirmed, unsolved |
+
+### Additional Candidates (not confirmed as one of the 9, may belong to other categories)
+
+| Location | Puzzle | Source | Notes | Status |
+|----------|--------|--------|-------|--------|
+| CASABLANCA | **Slack emoji** | Slack messages | Emoji → CA-SA-BL-AN-CA. BeastBot confirms. Slack is a Salesforce product, but not clearly one of Hint #9's 9. May belong to a different category. | **Confirmed** (location), category uncertain |
+| CHICAGO? | **BTS clocks** | BTS lobby photo | Four clocks: Tokyo, London, Chicago, New York. Likely set dressing — not one of the 4 BTS video puzzles per Hint #9. | Probably not a puzzle |
+| ??? | **Cow** | YouTube Short ("Mirror Mirror") + BeastBot | BeastBot confirms as clue. Cow with red key, tag "40576." Appears in YouTube Short → probably Category 6, not Category 7. | Puzzle confirmed, wrong category? |
+| ??? | **Bear (Codey)** | YouTube Short + Salesforce branding | BeastBot confirms. Salesforce mascot. Sign says "HECK." Same issue as Cow — appears in YouTube Short. | Puzzle confirmed, wrong category? |
+| ??? | **Flamethrower** | BTS page (flickering video) | BeastBot confirms. Flickering encodes: **11 6 2 12 4 7 8 13 7 3 13 11 8 9 7 12 1 11 9 4**. Could be one of the BTS video puzzles or a physical object. Category unclear. | Puzzle confirmed, category uncertain |
+| ??? | **Lock** | Salesforce site (Verify Lock UI) | "Verify Lock" with numbers. Almost entirely unexplored. Could be one of the "2 on this site." | Unconfirmed |
+| ??? | **Salesforce Tower** | Slack messages + BTS | Tower appears in Slack and BTS. Chicago tower "has a lot of 3s." May overlap with B1 (tower video). | Unconfirmed |
+| ??? | **Wanna Win a Million** | Unknown | Listed on community trackers but zero analysis. | Unconfirmed |
 
 ---
 
@@ -163,7 +188,7 @@
 | Gifts | 10 | 10 | 0 |
 | Gift unifier | 1 | 0 | 1 |
 | YouTube shorts/TikTok | 2 | 0 | 2 |
-| Salesforce site/social | 9 | 2-4 | 5-7 (puzzles identified but mostly unsolved) |
+| Salesforce site/social | 9 | 1 | 8 (5 puzzles confirmed, 2 likely, 2 unidentified; only Yellowknife solved) |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
 | **TOTAL** | **51** | **~35** | **~16** |

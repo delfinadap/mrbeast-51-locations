@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**23 confirmed, 9 probable, 3 unconfirmed = 35 with answers, ~16 unknown** | *Feb 17, 2026 ~7:30 PM PT*
+**23 confirmed, 9 probable, 3 unconfirmed = 35 with answers, ~16 unknown** | *Feb 17, 2026 ~7:35 PM PST*
 
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|
@@ -42,22 +42,21 @@
 | 36 | Gift Unifier | ??? | Unknown — not the Sudoku (Sudoku is Screen 10). Must connect the 10 gifts somehow. | Unsolved |
 | 37 | YT Short | ??? | "Mirror mirror on the wall" — Hallway with doors, cow with red key, bear with "HECK" | Unsolved |
 | 38 | YT Short | ??? | Chocolate heart — MrBeast + Amaury Gaichon | Unsolved |
-| 39 | Salesforce | CASABLANCA | Slack emoji puzzle → CA-SA-BL-AN-CA | Confirmed |
-| 40 | Salesforce | YELLOWKNIFE | Puzzle Maker — BTS video (multiple teams confirmed) | Confirmed |
-| 41 | Salesforce | **CHICAGO?** | BTS clocks show London, New York, Chicago, Tokyo. Chicago specific or just timezones? | Unconfirmed |
-| 42 | Salesforce | **MENTONE, AL?** | "EMON" underlined on billboard → EMON+T=MENTONE theory | Unconfirmed |
-| 43 | Salesforce | ??? | **Cow** — YouTube Short, red key door A→a. BeastBot confirmed. | Unsolved |
-| 44 | Salesforce | ??? | **Bear (Codey)** — Salesforce mascot, holds "HECK" sign. BeastBot confirmed. | Unsolved |
-| 45 | Salesforce | ??? | **Malcolm in Water** — Bolded in Slack. Vigenere cipher → "congratulations keep decoding." | Unsolved |
-| 46 | Salesforce | ??? | **Flamethrower** — BTS page, flickering pieces → number sequence. | Unsolved |
-| 47 | Salesforce | ??? | **FAQ** — mrbeast.salesforce.com/faq. BeastBot: "FAQs are necessarily a puzzle." | Unsolved |
-| 48 | Salesforce | ??? | **Lock** — Verify Lock on site, numbers don't follow normal padlock. | Unsolved |
-| 49 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
-| 50 | Lone Shark | ILE DE LA POSSESSION | Podcast / Hello Puzzlers anagram | Confirmed |
-| 51 | Lone Shark | ASCENSION ISLAND | BoardGameGeek — "Ascension" card game + "climbing"/"rising" acrostic | Confirmed |
+| 39 | SF: BTS (A1) | ??? | **Malcolm in Water** — "2 underwater" (1st). Vigenere cipher confirmed. | Puzzle confirmed, unsolved |
+| 40 | SF: BTS (A2) | ??? | **Submarine Math** — "2 underwater" (2nd). BTS video ~3:17. | Puzzle confirmed, unsolved |
+| 41 | SF: BTS (A3) | YELLOWKNIFE | **Puzzle Maker** — "1 in pieces." BTS video 6:19. Multiple teams confirmed. | **Confirmed** |
+| 42 | SF: BTS (A4) | ??? | **Elephant 85673** — "1 never forgets." Twitter @ELEPHANT85673 encoded messages. | Puzzle confirmed, unsolved |
+| 43 | SF: Physical (B1) | ??? | **Salesforce Tower video** — "1 may take a while to watch." 17-min video on X feed. | Likely puzzle, unsolved |
+| 44 | SF: Physical (B2) | **MENTONE, AL?** | **Billboard** — numbers 04 09 13 20 21, "EMON" underlined → EMON+T=MENTONE theory. | Likely puzzle, location unconfirmed |
+| 45 | SF: Physical (B3) | ??? | **???** — 3rd large physical object on X feed. Unidentified. | Not found |
+| 46 | SF: Site (C1) | ??? | **Dot-Dollar / "How?" video** — "1 helpful video." Multiple teams identified. | Puzzle confirmed, unsolved |
+| 47 | SF: Site (C2) | ??? | **FAQ** — "1 follows our advice." BeastBot: "FAQs are necessarily a puzzle." | Puzzle confirmed, unsolved |
+| 48 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
+| 49 | Lone Shark | ILE DE LA POSSESSION | Podcast / Hello Puzzlers anagram | Confirmed |
+| 50 | Lone Shark | ASCENSION ISLAND | BoardGameGeek — "Ascension" card game + "climbing"/"rising" acrostic | Confirmed |
 | — | Crossword | EYJAFJALLAJOKULL | 16 circled cells anagram (51st location, sets up Stage 2) | Confirmed |
 
-*Note: 51 puzzle slots above + crossword = 51 locations + 1 crossword. Some Salesforce entries may overlap with YouTube Shorts category.*
+*Note: 51 puzzle slots above + crossword = 51 locations + 1 crossword. CASABLANCA (Slack emoji) is confirmed as a location but its category slot is uncertain — Slack is a Salesforce product but not clearly one of Hint #9's 9. Other confirmed puzzles (Cow, Bear, Flamethrower, Lock) exist but their category assignment is unclear — some may be YouTube Shorts (Category 6) rather than Salesforce (Category 7).*
 
 ---
 
