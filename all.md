@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**25 confirmed, 9 probable, 2 unconfirmed = 36 with answers, ~15 unknown** | *Feb 17, 2026 ~7:44 PM PST*
+**27 confirmed, 9 probable, 2 unconfirmed = 38 with answers, ~13 unknown** | *Feb 18, 2026 ~12:15 PM PST*
 
 **Feedback?** [discord.gg/PeArHATD](https://discord.gg/PeArHATD)
 
@@ -42,14 +42,14 @@
 | 34 | Gift | ALGIERS | Airrack — 7 pictures each hide "ERIC." First letters spell A-L-G-I-E-R-S | Confirmed |
 | 35 | Gift | **VALENTINE, AZ?** | Jim & Monika — Heart-binary → "AZ" → Valentine, Arizona (Valentine's Day postmark) | Probable |
 | 36 | Gift Unifier | ??? | Unknown — not the Sudoku (Sudoku is Screen 10). Must connect the 10 gifts somehow. | Unsolved |
-| 37 | YT Short | ??? | "Mirror mirror on the wall" — Hallway with doors, cow with red key, bear with "HECK" | Unsolved |
+| 37 | YT Short | **QUITO, Ecuador** | "Mirror mirror on the wall" — 5 red items → phonetic: KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador." Multiple independent solvers. | Confirmed |
 | 38 | YT Short | ??? | Chocolate heart — MrBeast + Amaury Gaichon | Unsolved |
 | 39 | SF: BTS (A1) | ??? | **Malcolm in Water** — "2 underwater" (1st). Vigenere cipher confirmed. | Puzzle confirmed, unsolved |
 | 40 | SF: BTS (A2) | ??? | **Submarine Math** — "2 underwater" (2nd). BTS video ~3:17. | Puzzle confirmed, unsolved |
 | 41 | SF: BTS (A3) | YELLOWKNIFE | **Puzzle Maker** — "1 in pieces." BTS video 6:19. Multiple teams confirmed. | **Confirmed** |
 | 42 | SF: BTS (A4) | ??? | **Elephant 85673** — "1 never forgets." Twitter @ELEPHANT85673 encoded messages. | Puzzle confirmed, unsolved |
-| 43 | SF: Physical (B1) | ??? | **Salesforce Tower video** — "1 may take a while to watch." 17-min video on X feed. | Likely puzzle, unsolved |
-| 44 | SF: Physical (B2) | **MENTONE, AL?** | **Billboard** — numbers 04 09 13 20 21, "EMON" underlined → EMON+T=MENTONE theory. | Likely puzzle, location unconfirmed |
+| 43 | SF: Physical (B1) | **NAZARÉ, Portugal** | **Salesforce Tower LED video** — "1 may take a while to watch." Blue durations in seconds → A1Z26 = "SURF RECORD SITE WITH ARGENT HUE." Nazaré = surf record site on Portugal's Silver Coast (argent = silver). | Confirmed |
+| 44 | SF: Physical (B2) | **DIMTU, Ethiopia?** | **Billboard** — numbers 04 09 13 20 21 → A1Z26 = D-I-M-T-U. Also "EMON" underlined on separate billboard → MENTONE theory. Neither confirmed. | Unconfirmed |
 | 45 | SF: Physical (B3) | ??? | **???** — 3rd large physical object on X feed. Unidentified. | Not found |
 | 46 | SF: Site (C1) | ??? | **Dot-Dollar / "How?" video** — "1 helpful video." Multiple teams identified. | Puzzle confirmed, unsolved |
 | 47 | SF: Site (C2) | ??? | **FAQ** — "1 follows our advice." BeastBot: "FAQs are necessarily a puzzle." | Puzzle confirmed, unsolved |

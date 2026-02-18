@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 25 confirmed, 9 probable, 2 unconfirmed = 36 with answers, ~15 unsolved.
+**Status:** 27 confirmed, 9 probable, 2 unconfirmed = 38 with answers, ~13 unsolved.
 
-**Last updated:** Feb 17, 2026 ~7:44 PM PST
+**Last updated:** Feb 18, 2026 ~12:15 PM PST
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -97,22 +97,22 @@
 
 ---
 
-## Category 6: YouTube Shorts / TikTok (0 of 2)
+## Category 6: YouTube Shorts / TikTok (1 of 2)
 
 *"The 2 puzzles on YouTube shorts that aren't related to the gifts." Hint #6 updated to include TikTok.*
 
 | # | Location | Video | Notes | Confidence |
 |---|----------|-------|-------|------------|
-| 1 | ??? | "Mirror mirror on the wall" (8_aIjKi0VLM) | Hallway with doors, characters. Cow with red key, basketball teams, bear with "HECK", 6 red butler doors at end. | Unsolved |
+| 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" (8_aIjKi0VLM) | 5 red items → phonetic syllables: RED key (KEY) + RED jersey numbers 15,20,23 A1Z26=OTW→TOW + RED "HECK" (bear/Codey) + RED £ pound on boxer (QUID) + RED doors (DOOR) = **KEY-TOW-HECK-QUID-DOOR** → "Quito Ecuador." BeastBot confirms cow, bear, and red doors as puzzles. Multiple independent solvers across LSG and Serious. | Confirmed |
 | 2 | ??? | Chocolate heart (XbaZ45LVzzM) | MrBeast + Amaury Gaichon. Connected to Jim/Monika heart theme. TikTok version may differ from YouTube. | Unsolved |
 
 ---
 
-## Category 7: Salesforce Site/Social (1 of 9)
+## Category 7: Salesforce Site/Social (2 of 9)
 
 *"The 9 puzzles you'll find on this site or social posts from Salesforce properties."*
 
-*Biggest gap in the puzzle. Hint #9 (Feb 17) gave us the definitive breakdown of where to find all 9. Only 1 solved (Yellowknife). 5 puzzles confirmed via community/Omega, 2 likely, 2 still unidentified.*
+*Biggest gap in the puzzle. Hint #9 (Feb 17) gave us the definitive breakdown of where to find all 9. 2 solved (Yellowknife, Nazaré). 5 puzzles confirmed via community/Omega, 2 likely, 2 still unidentified.*
 
 ### Hint #9 Structure (confirmed):
 - **4 in BTS videos:** 2 underwater, 1 in pieces, 1 never forgets
@@ -132,8 +132,8 @@
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
-| B1 | ??? | **Salesforce Tower video** | "1 may take a while to watch" | 17-min video on Salesforce X — "take a while to watch" fits. | Likely puzzle, unsolved |
-| B2 | MENTONE, AL? | **Billboard** | (2nd large object) | Vault billboard on Salesforce X with numbers **04 09 13 20 21**. Also "Where's the money" billboard with **E-M-O-N** underlined. EMON+T=MENTONE theory. | Likely puzzle, location unconfirmed |
+| B1 | **NAZARÉ, Portugal** | **Salesforce Tower LED video** | "1 may take a while to watch" | 17-min video on Salesforce X. Tower LEDs alternate gray/blue. Blue durations in seconds → A1Z26 = **"SURF RECORD SITE WITH ARGENT HUE."** "Surf record site" = Nazaré (Guinness World Record largest wave). "Argent" = silver; Nazaré is on Portugal's Silver Coast. Gray gaps ~15s (letter space), ~30s (word break). Multiple solvers converged. | **Confirmed** |
+| B2 | DIMTU, Ethiopia? | **Billboard** | (2nd large object) | Vault billboard on Salesforce X with numbers **04 09 13 20 21** → A1Z26 = **D-I-M-T-U** → Dimtu, Ethiopia. Separately, Lone Shark "Where's the money" billboard has **E-M-O-N** underlined → MENTONE, AL theory. EMON may be a different layer. Neither confirmed by BeastBot. | Unconfirmed |
 | B3 | ??? | **???** | (3rd large object) | **Unidentified.** Multiple solvers can't find a third large physical object. Pyramid from Salesforce video suggested but uncertain. | Not found |
 
 ### Group C: 2 on the Site
