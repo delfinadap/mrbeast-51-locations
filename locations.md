@@ -81,7 +81,7 @@
 | 7 | TAMPA BAY | Sketch | "Angry Lair" → "Mad Den" → Madden 99 → BUCS HOME → Tampa Bay. Competing with DUBAI (coordinates). | Probable |
 | 8 | COPENHAGEN | Pierson | Blender food combos → missing letters spell HAFNIUM CITY → Latin for Copenhagen | Confirmed |
 | 9 | ALGIERS | Airrack | 7 pictures each hide "ERIC." First letters: A-L-G-I-E-R-S / A-L-G-E-R-I-A | Confirmed |
-| 10 | VALENTINE, AZ? | Jim & Monika | Heart hoodie — 8 hearts replace O's in romantic words. Heart-binary method: hearts as 1/0 → decodes to "AZ." Valentine, Arizona is famous for its Valentine's Day postmark (fitting for a couple's gift). Novel theory from community Discord. Not seen in other communities. | Probable |
+| 10 | VALENTINE, AZ? | Jim & Monika | Heart hoodie — 8 hearts replace O's in romantic words. Heart-binary method: hearts as 1/0 → decodes to "AZ." Valentine, Arizona is famous for its Valentine's Day postmark (fitting for a couple's gift). Novel theory from [Serious MrBeast Scavenger Hunters](https://discord.gg/PeArHATD). Not seen in other communities. | Probable |
 
 ---
 
@@ -103,7 +103,7 @@
 
 | # | Location | Video | Notes | Confidence |
 |---|----------|-------|-------|------------|
-| 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" (8_aIjKi0VLM) | 5 red items → phonetic syllables: RED key (KEY) + RED jersey numbers 15,20,23 A1Z26=OTW→TOW + RED "HECK" (bear/Codey) + RED £ pound on boxer (QUID) + RED doors (DOOR) = **KEY-TOW-HECK-QUID-DOOR** → "Quito Ecuador." BeastBot confirms cow, bear, and red doors as puzzles. Multiple independent solvers across community servers. | Confirmed |
+| 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" (8_aIjKi0VLM) | 5 red items → phonetic syllables: RED key (KEY) + RED jersey numbers 15,20,23 A1Z26=OTW→TOW + RED "HECK" (bear/Codey) + RED £ pound on boxer (QUID) + RED doors (DOOR) = **KEY-TOW-HECK-QUID-DOOR** → "Quito Ecuador." BeastBot confirms cow, bear, and red doors as puzzles. Multiple independent solvers across community servers including [Serious MrBeast Scavenger Hunters](https://discord.gg/PeArHATD). | Confirmed |
 | 2 | ??? | Chocolate heart (XbaZ45LVzzM) | MrBeast + Amaury Gaichon. Connected to Jim/Monika heart theme. TikTok version may differ from YouTube. | Unsolved |
 
 ---
