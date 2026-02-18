@@ -69,6 +69,23 @@
   .footer { margin-top: 10px; font-size: 14px; color: #888; text-align: right; }
   .footer a { color: #16c79a; text-decoration: none; }
   .footer a:hover { text-decoration: underline; }
+
+  @media (max-width: 1400px) {
+    .three-col { flex-direction: column; align-items: center; }
+    .table-pair { flex-direction: column; }
+    .grid-container { margin-bottom: 10px; }
+    .grid-row { overflow-x: auto; }
+  }
+
+  @media (max-width: 700px) {
+    body { padding: 10px; }
+    .word-label { width: 100px; font-size: 10px; }
+    .cell { width: 70px; height: 60px; font-size: 14px; }
+    .cell .country { font-size: 8px; }
+    .ref-table { font-size: 11px; }
+    .ref-table th, .ref-table td { padding: 4px 6px; }
+    .detail-panel { min-width: 280px; padding: 15px; }
+  }
 </style>
 </head>
 <body>
