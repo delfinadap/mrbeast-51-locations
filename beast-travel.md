@@ -25,7 +25,7 @@
 |------|---------|-------------|---------|-------|-------|--------|
 | Car | "A nickname for your destination / (But not its name or its translation) / To get here you can ride our free bus / Or hire a car to get each…" | BARODYNAMICS | "Join us at" | OIL CITY? → CASPER, Wyoming | pggz_UN4.png | Probable |
 | Car | | EBULLIOSCOPE | "See lovely" | ARZAMAS, Russia? (~33 churches in image; Arzamas = "city of 33 churches") | gsFk8tO8.png | Probable |
-| Car | | FURFURACEOUS | "Meet us at" | DAR ES SALAAM? (Omega: hint says "not its translation" — may be wrong) | wh2q0_Kk.png | Disputed |
+| Car | | FURFURACEOUS | "Meet us at" | DAR ES SALAAM? (H + OM + peas = "Home of Peace." Hint says "not its translation" — may be wrong) | wh2q0_Kk.png | Disputed |
 | Car | | HAPAXANTHOUS | "You'll like" | BAKU, Azerbaijan ("City of Winds" rebus). Multiple independent solvers. | HAPAXANTHOUS.png | Confirmed |
 | Car | | HEKISTOTHERM | "Get down to" | WINNIPEG, Canada ("Capital" + "Jets/Plains" rebus; coldest major city fits word) | HEKISTOTHERM.png | Probable |
 | Car | | INCLINOMETER | "Come to" | SURAT, India? — DIAMOND + ??? + "of" + INDIA = "Diamond City of India" = Surat. Multiple solvers converged. | INCLINOMETER.png | Probable |

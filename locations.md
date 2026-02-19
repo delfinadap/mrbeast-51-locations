@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 27 confirmed, 9 probable, 2 unconfirmed = 38 with answers, ~13 unsolved.
+**Status:** 26 confirmed, 10 probable, 2 unconfirmed = 38 with answers, ~13 unsolved.
 
-**Last updated:** Feb 18, 2026 ~12:15 PM PST
+**Last updated:** Feb 19, 2026 ~1:15 AM PST
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -76,7 +76,7 @@
 | 2 | BUFFALO | Botez Sisters | Chess Game 6 cipher → BUFFALO | Confirmed |
 | 3 | TIERRA DEL FUEGO | Quackity | Sword with text + Beagle Channel | Confirmed |
 | 4 | DEKALB | Hayleybaylee | Rings puzzle → DeKalb, Illinois | Confirmed |
-| 5 | NEW YORK CITY | Jimmy Fallon | Jigsaw → "JIMMYS BIRTHPLACE" — "Jimmy" = Fallon in his own gift video. Confirmed by multiple sources. | Confirmed |
+| 5 | WICHITA, KS? | Jimmy Fallon | Jigsaw → "JIMMYS BIRTHPLACE." New BeastBot hint: "Sometimes a present is more reflective of the **giver** rather than the recipient." Jimmy = MrBeast (Jimmy Donaldson), born in Wichita, KS — not Fallon. Retrocraft updated Feb 18. | Probable |
 | 6 | CAIRNS, QUEENSLAND | Chris Hemsworth | "LAND OF CAIRNS" → Queensland. US 101 road signs + first letters. Confirmed by multiple sources. | Confirmed |
 | 7 | TAMPA BAY | Sketch | "Angry Lair" → "Mad Den" → Madden 99 → BUCS HOME → Tampa Bay. Competing with DUBAI (coordinates). | Probable |
 | 8 | COPENHAGEN | Pierson | Blender food combos → missing letters spell HAFNIUM CITY → Latin for Copenhagen | Confirmed |
@@ -112,7 +112,7 @@
 
 *"The 9 puzzles you'll find on this site or social posts from Salesforce properties."*
 
-*Biggest gap in the puzzle. Hint #9 (Feb 17) gave us the definitive breakdown of where to find all 9. 2 solved (Yellowknife, Nazaré). 5 puzzles confirmed via community/Omega, 2 likely, 2 still unidentified.*
+*Biggest gap in the puzzle. Hint #9 (Feb 17) gave us the definitive breakdown of where to find all 9. 2 solved (Yellowknife, Nazaré). 5 puzzles confirmed via community, 2 likely, 2 still unidentified.*
 
 ### Hint #9 Structure (confirmed):
 - **4 in BTS videos:** 2 underwater, 1 in pieces, 1 never forgets
