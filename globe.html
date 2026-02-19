@@ -23,7 +23,6 @@
   }
   .legend-item { display: flex; align-items: center; gap: 6px; font-size: 13px; }
   .legend-dot { width: 12px; height: 12px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.3); }
-  .legend-diamond { width: 10px; height: 10px; border: 2px solid #888; background: rgba(0,0,0,0.3); }
   .filters { display: flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
   .toggle { display: flex; align-items: center; gap: 6px; font-size: 12px; color: #aaa; cursor: pointer; user-select: none; }
   .toggle input { cursor: pointer; }
@@ -48,7 +47,7 @@
   <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Unconfirmed / Disputed</div>
   <div class="legend-item" style="margin-left:8px;color:#444">|</div>
   <div class="legend-item"><div class="legend-dot" style="background:#888"></div> Stage 1 (dots)</div>
-  <div class="legend-item"><div class="legend-diamond"></div> beast.travel (squares)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:transparent;border:2px solid #888;box-shadow:0 0 4px #888"></div> beast.travel (rings)</div>
   <div class="filters">
     <label class="toggle"><input type="checkbox" checked id="fConfirmed"> <span style="color:#22c55e">Confirmed</span></label>
     <label class="toggle"><input type="checkbox" checked id="fProbable"> <span style="color:#f59e0b">Probable</span></label>
@@ -188,45 +187,32 @@ function makeLabel(d) {
     </div>`;
 }
 
-// Build globe — Stage 1 as solid dots, beast.travel as pulsing rings
+// Combine all visible locations into one array for the points layer
+function getAllVisible() {
+  return locations.filter(passesFilter);
+}
+
+// Build globe — all locations as native points (fully interactive)
 const globe = Globe()
   .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-night.jpg')
   .backgroundImageUrl('https://unpkg.com/three-globe/example/img/night-sky.png')
-  // Stage 1: solid points
-  .pointsData(getStage1())
+  .pointsData(getAllVisible())
   .pointLat('lat')
   .pointLng('lng')
   .pointColor(d => colors[d.confidence] || '#888')
-  .pointRadius(0.5)
+  .pointRadius(d => d.category === 'beast-travel' ? 0.4 : 0.5)
   .pointAltitude(0.01)
   .pointLabel(makeLabel)
-  // beast.travel: HTML overlay elements (diamonds)
-  .htmlElementsData(getBeastTravel())
-  .htmlLat('lat')
-  .htmlLng('lng')
-  .htmlAltitude(0.01)
-  .htmlElement(d => {
-    const col = colors[d.confidence] || '#888';
-    const el = document.createElement('div');
-    el.style.cssText = `width:12px;height:12px;border:2px solid ${col};background:rgba(0,0,0,0.3);cursor:pointer;`;
-    el.title = `${d.name}, ${d.country} — ${d.puzzle}`;
-    el.addEventListener('mouseenter', () => {
-      tooltip.innerHTML = makeLabel(d);
-      tooltip.style.display = 'block';
-    });
-    el.addEventListener('mouseleave', () => { tooltip.style.display = 'none'; });
-    return el;
-  })
+  // beast.travel: rings around points for visual distinction
+  .ringsData(getBeastTravel())
+  .ringLat('lat')
+  .ringLng('lng')
+  .ringColor(d => () => colors[d.confidence] || '#888')
+  .ringMaxRadius(1.2)
+  .ringPropagationSpeed(0.8)
+  .ringRepeatPeriod(2000)
+  .ringAltitude(0.01)
   (document.getElementById('globe'));
-
-// Tooltip for beast.travel HTML elements
-const tooltip = document.createElement('div');
-tooltip.style.cssText = 'position:absolute;pointer-events:none;z-index:100;display:none;';
-document.body.appendChild(tooltip);
-document.addEventListener('mousemove', e => {
-  tooltip.style.left = (e.clientX + 15) + 'px';
-  tooltip.style.top = (e.clientY + 15) + 'px';
-});
 
 // Adjust camera
 globe.pointOfView({ lat: 30, lng: 30, altitude: 2.2 });
@@ -261,8 +247,8 @@ function updateStats() {
 }
 
 function refresh() {
-  globe.pointsData(getStage1());
-  globe.htmlElementsData(getBeastTravel());
+  globe.pointsData(getAllVisible());
+  globe.ringsData(getBeastTravel());
   updateStats();
 }
 
