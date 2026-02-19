@@ -4,7 +4,7 @@
 
 **Hint 8:** "Take your 50 locations and your crossword to Beast Travel and go on many a wild vacation!"
 
-**Status:** 14 confirmed, 5 probable | *Feb 19, 2026 ~12:45 AM PST*
+**Status:** 14 confirmed, 5 probable, 1 disputed = 20/20 puzzles tracked | *Feb 19, 2026 ~12:45 AM PST*
 
 ---
 
