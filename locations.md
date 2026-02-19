@@ -259,7 +259,7 @@
 | Car | BARODYNAMICS | "Join us at" | **CASPER, Wyoming?** — "Oil City" is Casper's nickname. Rebus: OIL CAN+SICK-K+TEA = OIL CITY. | Probable |
 | Car | EBULLIOSCOPE | "See lovely" | **ARZAMAS, Russia** — image shows ~33 churches; Arzamas = "city of 33 churches." | Probable |
 | Car | FURFURACEOUS | "Meet us at" | **DAR ES SALAAM?** — "home of peace." Disputed — Hint 9 says "not its translation." | Disputed |
-| Car | HAPAXANTHOUS | "You'll like" | **BAKU, Azerbaijan** — rebus: "city" + "winds" = "City of Winds" = Baku. | Probable |
+| Car | HAPAXANTHOUS | "You'll like" | **BAKU, Azerbaijan** — rebus: "city" + "winds" = "City of Winds" = Baku. Multiple independent solvers converged. | Confirmed |
 | Car | HEKISTOTHERM | "Get down to" | **WINNIPEG, Canada** — rebus capital + jets/plains. Capital of Manitoba, Winnipeg Jets, coldest major city. | Probable |
 | Horse | ABERUNCATORS | "Vacation at" | **OKATO, New Zealand** | Confirmed |
 | Horse | DEAMBULATORY | "Find us in" | **NOVA RUSSAS, Brazil** — cryptic breakdown → W3W coordinates. | Confirmed |
