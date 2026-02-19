@@ -4,7 +4,7 @@
 
 **Hint 8:** "Take your 50 locations and your crossword to Beast Travel and go on many a wild vacation!"
 
-**Status:** 14 confirmed, 4 probable, 1 unsolved | *Feb 19, 2026 ~12:30 AM PST*
+**Status:** 14 confirmed, 5 probable | *Feb 19, 2026 ~12:45 AM PST*
 
 ---
 
@@ -28,7 +28,7 @@
 | Car | | FURFURACEOUS | "Meet us at" | DAR ES SALAAM? (Omega: hint says "not its translation" — may be wrong) | wh2q0_Kk.png | Disputed |
 | Car | | HAPAXANTHOUS | "You'll like" | BAKU, Azerbaijan ("City of Winds" rebus). Multiple independent solvers. | HAPAXANTHOUS.png | Confirmed |
 | Car | | HEKISTOTHERM | "Get down to" | WINNIPEG, Canada ("Capital" + "Jets/Plains" rebus; coldest major city fits word) | HEKISTOTHERM.png | Probable |
-| Car | | INCLINOMETER | "Come to" | Rebus: dice + calendar + S + lips + P + square + L + "of" + Indiana + Shakespeare. Unsolved. | INCLINOMETER.png | Unsolved |
+| Car | | INCLINOMETER | "Come to" | SURAT, India? — DIAMOND + ??? + "of" + INDIA = "Diamond City of India" = Surat. Multiple solvers converged. | INCLINOMETER.png | Probable |
 | Car | | MARIMBAPHONE | "Head off to" | MARQUETTE, Michigan? Crown + sit + E = "Queen City" + "of the" + compass north = "Queen City of the North." Also suggested: Santiago (Philippines), Edinburgh. | MARIMBAPHONE.png | Probable |
 | Horse | "To pinpoint every cool location / Our clues provide an explanation / We've got these places in our triptych / We think you'll love them, 'cause they're…" | ABERUNCATORS | "Vacation at" | OKATO, New Zealand | jU18fVUA.png | Confirmed |
 | Horse | | DEAMBULATORY | "Find us in" | NOVA RUSSAS, Brazil | 2IEfeT_Q.png | Confirmed |

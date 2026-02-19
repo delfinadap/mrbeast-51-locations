@@ -261,7 +261,7 @@
 | Car | FURFURACEOUS | "Meet us at" | **DAR ES SALAAM?** — "home of peace." Disputed — Hint 9 says "not its translation." | Disputed |
 | Car | HAPAXANTHOUS | "You'll like" | **BAKU, Azerbaijan** — rebus: "city" + "winds" = "City of Winds" = Baku. Multiple independent solvers converged. | Confirmed |
 | Car | HEKISTOTHERM | "Get down to" | **WINNIPEG, Canada** — rebus capital + jets/plains. Capital of Manitoba, Winnipeg Jets, coldest major city. | Probable |
-| Car | INCLINOMETER | "Come to" | Rebus: dice + calendar + S + lips + P + square + L + "of" + Indiana + Shakespeare. Unsolved. | Unsolved |
+| Car | INCLINOMETER | "Come to" | **SURAT, India?** — DIAMOND + ??? + "of" + INDIA = "Diamond City of India" = Surat. Multiple solvers converged. | Probable |
 | Car | MARIMBAPHONE | "Head off to" | **MARQUETTE, Michigan?** — rebus: crown + sit + E = "Queen City" + "of the" + compass north = "Queen City of the North." Also suggested: Santiago (Philippines), Edinburgh. | Probable |
 | Horse | ABERUNCATORS | "Vacation at" | **OKATO, New Zealand** | Confirmed |
 | Horse | DEAMBULATORY | "Find us in" | **NOVA RUSSAS, Brazil** — cryptic breakdown → W3W coordinates. | Confirmed |
