@@ -47,7 +47,7 @@
   <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div> Unconfirmed / Disputed</div>
   <div class="legend-item" style="margin-left:8px;color:#444">|</div>
   <div class="legend-item"><div class="legend-dot" style="background:#888"></div> Stage 1 (dots)</div>
-  <div class="legend-item"><div style="width:10px;height:10px;background:#888;border-radius:1px;border:1px solid rgba(255,255,255,0.3)"></div> beast.travel (squares)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:transparent;border:2px solid #888;box-shadow:0 0 4px #888"></div> beast.travel (rings)</div>
   <div class="filters">
     <label class="toggle"><input type="checkbox" checked id="fConfirmed"> <span style="color:#22c55e">Confirmed</span></label>
     <label class="toggle"><input type="checkbox" checked id="fProbable"> <span style="color:#f59e0b">Probable</span></label>
@@ -192,30 +192,25 @@ function getAllVisible() {
   return locations.filter(passesFilter);
 }
 
-// Build globe — all locations as points, beast.travel gets Saturn-like ring halos
-function getAllVisible() {
-  return locations.filter(passesFilter);
-}
-
+// Build globe — all locations as native points (fully interactive)
 const globe = Globe()
   .globeImageUrl('https://unpkg.com/three-globe/example/img/earth-night.jpg')
   .backgroundImageUrl('https://unpkg.com/three-globe/example/img/night-sky.png')
-  // All locations: interactive dots
   .pointsData(getAllVisible())
   .pointLat('lat')
   .pointLng('lng')
   .pointColor(d => colors[d.confidence] || '#888')
-  .pointRadius(0.5)
+  .pointRadius(d => d.category === 'beast-travel' ? 0.4 : 0.5)
   .pointAltitude(0.01)
   .pointLabel(makeLabel)
-  // beast.travel: static-looking ring halos (Saturn style)
+  // beast.travel: rings around points for visual distinction
   .ringsData(getBeastTravel())
   .ringLat('lat')
   .ringLng('lng')
   .ringColor(d => () => colors[d.confidence] || '#888')
-  .ringMaxRadius(1.8)
-  .ringPropagationSpeed(0.2)
-  .ringRepeatPeriod(300)
+  .ringMaxRadius(1.2)
+  .ringPropagationSpeed(0.8)
+  .ringRepeatPeriod(2000)
   .ringAltitude(0.01)
   (document.getElementById('globe'));
 
