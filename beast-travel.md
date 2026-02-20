@@ -6,7 +6,7 @@
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
 
-**Status:** 28 confirmed, 9 probable, 4 unconfirmed = 41/42+ puzzles tracked | *Feb 20, 2026*
+**Status:** 28 confirmed, 9 probable, 4 unconfirmed = 41 with answers, ~2 undiscovered | *Feb 20, 2026*
 
 ---
 
@@ -54,9 +54,9 @@
 | LACHRYMIFORM | "Now booking" | driven.hint.improving | **CHRISTCHURCH, New Zealand** | Confirmed |
 | LAEVODUCTION | "Ride out to" | dusts.enigma.desks | **CASTELO BRANCO, Portugal** | Confirmed |
 | OLERICULTURE | NEW | calibrate.charted.nuzzle | **SOKODE, Togo**.| Confirmed |
-| SCAFFMASTERS | NEW | quiz.delivers.equality | **CURICÓ, Chile** — full cryptic decode by wagna1. | Probable |
+| SCAFFMASTERS | NEW | quiz.delivers.equality | **CURICÓ, Chile**. | Probable |
 | UNDERBRIDGES | NEW | cryptically.packaging.bathrooms | **MONKEY BAY, Malawi**.| Confirmed |
-| WINDCHEATERS | NEW | sticky.rejected.jigsaw | **ANTALYA, Turkey** — two independent solvers. | Probable |
+| WINDCHEATERS | NEW | sticky.rejected.jigsaw | **ANTALYA, Turkey**. | Probable |
 
 ---
 
