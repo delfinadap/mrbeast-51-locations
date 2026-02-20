@@ -25,18 +25,18 @@
 | Destination | Caption | Nickname Decoded | Solve | Status |
 |-------------|---------|-----------------|-------|--------|
 | BARODYNAMICS | "Join us at" | "Oil City" | **CASPER, Wyoming** — "The Oil City." Hint 11: take literally. | Probable |
-| EBULLIOSCOPE | "See lovely" | "City of 33 Churches" | **ARZAMAS, Russia** — image shows ~33 Orthodox churches. Omega ⦿. | Probable |
+| EBULLIOSCOPE | "See lovely" | "City of 33 Churches" | **ARZAMAS, Russia** — image shows ~33 Orthodox churches. | Probable |
 | FURFURACEOUS | "Meet us at" | "Home of Peace" | **MAIDUGURI, Nigeria** — Borno State's official nickname, on every license plate. Dar es Salaam ruled out (Hint 11: "not its translation"). | Unconfirmed |
 | HAPAXANTHOUS | "You'll like" | "City of Winds" | **BAKU, Azerbaijan** — multiple solvers converged. | Confirmed |
 | HEKISTOTHERM | "Get down to" | "Capital of ___" + jets/plains | **WINNIPEG, Canada** — Capital of Manitoba, Winnipeg Jets. Alt: Fort Morgan, CO ("Capital of the Plains"). | Probable |
-| INCLINOMETER | "Come to" | "Diamond City of India" | **SURAT, India** — processes 90% of world's diamonds. Omega ⬤. | Confirmed |
-| MARIMBAPHONE | "Head off to" | "Queen City of the North" | **MARQUETTE, MI** — official nickname. Omega ⦾. | Probable |
-| NEBULOPHOBIA | "Return to" | "Gateway to Death Valley" | **BEATTY, Nevada** — Omega ⬤. | Confirmed |
-| OCHROLEUCOUS | "Drop in on" | "Pearl of the North" (Arabic) | **MOSUL, Iraq** — only Arabic-speaking "Pearl of the North." Omega ⬤. | Confirmed |
-| RECEPTACULAR | "Stay at" | "City of Roses" + "City of Ruins" | **VISBY, Sweden** — Gotland island. Omega ⬤. | Confirmed |
-| RISORGIMENTO | "Take in" | "City on Two Continents" | **ISTANBUL, Turkey** — Omega ⦿. | Probable |
-| SALAMANDROID | "Stop off at" | "Lady of the Sea" | **NANTUCKET, MA** — "The Little Grey Lady of the Sea." Omega ⦾. | Unconfirmed |
-| SCAPULOMANCY | "Relax at" | "Island of ___" (partial) | **POVEGLIA, Italy** — "Island of Death." Omega ⦾. | Unconfirmed |
+| INCLINOMETER | "Come to" | "Diamond City of India" | **SURAT, India** — processes 90% of world's diamonds. | Confirmed |
+| MARIMBAPHONE | "Head off to" | "Queen City of the North" | **MARQUETTE, MI** — official nickname. | Probable |
+| NEBULOPHOBIA | "Return to" | "Gateway to Death Valley" | **BEATTY, Nevada**.| Confirmed |
+| OCHROLEUCOUS | "Drop in on" | "Pearl of the North" (Arabic) | **MOSUL, Iraq** — only Arabic-speaking "Pearl of the North." | Confirmed |
+| RECEPTACULAR | "Stay at" | "City of Roses" + "City of Ruins" | **VISBY, Sweden** — Gotland island. | Confirmed |
+| RISORGIMENTO | "Take in" | "City on Two Continents" | **ISTANBUL, Turkey**.| Probable |
+| SALAMANDROID | "Stop off at" | "Lady of the Sea" | **NANTUCKET, MA** — "The Little Grey Lady of the Sea." | Unconfirmed |
+| SCAPULOMANCY | "Relax at" | "Island of ___" (partial) | **POVEGLIA, Italy** — "Island of Death." | Unconfirmed |
 | THEANTHROPIC | "Encounter" | "Motherland of Cherry" | **GIRESUN, Turkey** — official city website: "Motherland of Cherry." Ancient name Kerasus = root of "cherry." | Probable |
 | ULTRAMONTANE | "Hop over to" | "Valley of the Rouge" | **L'ASCENSION, Quebec** — known as "La Vallée de la Rouge." CanCon = Canadian Content. | Unconfirmed |
 
@@ -53,9 +53,9 @@
 | FISSICOSTATE | "Have fun at" | towers.decoder.models | **ČESKÉ BUDĚJOVICE, Czechia** | Confirmed |
 | LACHRYMIFORM | "Now booking" | driven.hint.improving | **CHRISTCHURCH, New Zealand** | Confirmed |
 | LAEVODUCTION | "Ride out to" | dusts.enigma.desks | **CASTELO BRANCO, Portugal** | Confirmed |
-| OLERICULTURE | NEW | calibrate.charted.nuzzle | **SOKODE, Togo** — Omega ⬤. | Confirmed |
+| OLERICULTURE | NEW | calibrate.charted.nuzzle | **SOKODE, Togo**.| Confirmed |
 | SCAFFMASTERS | NEW | quiz.delivers.equality | **CURICÓ, Chile** — full cryptic decode by wagna1. | Probable |
-| UNDERBRIDGES | NEW | cryptically.packaging.bathrooms | **MONKEY BAY, Malawi** — Omega ⬤. | Confirmed |
+| UNDERBRIDGES | NEW | cryptically.packaging.bathrooms | **MONKEY BAY, Malawi**.| Confirmed |
 | WINDCHEATERS | NEW | sticky.rejected.jigsaw | **ANTALYA, Turkey** — two independent solvers. | Probable |
 
 ---
@@ -74,7 +74,7 @@
 | EXSANGUINOUS | "You'll love" | **MANAUS, Brazil** | Confirmed |
 | LAMPADEPHORE | "Go to" | **PUNE, India** | Confirmed |
 | LIGNIPERDOUS | "Now enjoy" | **HASIK, Oman** | Confirmed |
-| MACHAIRODONT | NEW | **VELINGRAD, Bulgaria** — Omega ⬤. | Confirmed |
+| MACHAIRODONT | NEW | **VELINGRAD, Bulgaria**.| Confirmed |
 | NARRISCHKEIT | NEW | **MARRAKESH, Morocco** — YSL Museum. | Confirmed |
 | ODORIVECTORS | NEW | **ORLANDO, Florida** — Airport entrance. | Confirmed |
 | SAPONIFIABLE | NEW | **CHARLOTTE, NC** — NASCAR HoF. | Confirmed |
@@ -82,7 +82,7 @@
 | SNALLYGASTER | NEW | **VLADIVOSTOK, Russia** — Golden Horn Bay. | Confirmed |
 | TERAMORPHOUS | NEW | **COCHABAMBA, Bolivia** — Christ of the Concord. | Confirmed |
 | WINTERBOURNE | NEW | **TACURONG, Philippines** — Talakudong Rotunda. | Confirmed |
-| ??? | ??? | 2 more undiscovered per Omega | Undiscovered |
+| ??? | ??? | 2 more undiscovered | Undiscovered |
 
 ---
 

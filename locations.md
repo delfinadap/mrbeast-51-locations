@@ -4,9 +4,9 @@
 
 **Status:** 35 confirmed, 5 probable, 3 unconfirmed = 43 with answers, 8 unsolved/denied.
 
-**Last updated:** Feb 20, 2026 — Full audit against Omega doc (200K chars, Feb 20 refresh).
+**Last updated:** Feb 20, 2026.
 
-*Confidence tiers: Confirmed = clean decode + multiple sources or Omega ⬤. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
+*Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -31,17 +31,17 @@
 | Screen | Location | Screen Content | Bank Clue | Decode | Confidence |
 |--------|----------|---------------|-----------|--------|------------|
 | 1 | BENIN CITY? | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | "Marc Benioff" = "mark BENI off" — scribbled section on screen is literally marking BENI off — visible N remains → BENIN. BeastBot hints: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." Backwards J = recade staff (Kingdom of Benin royal symbol) → points to **Benin City, Nigeria** rather than country. Multiple solvers converge independently. | Unconfirmed |
-| 2 | **SEOUL** | Trench coat pieces | Calendar dates | BeastBot: "coat has a name with 8 letters that can be rearranged." Coat = RAINCOAT → anagram → **CROATIAN**. "Mrs. Maybelle isn't from around here" = use Croatian calendar (month names). Index circled dates (DD/MM) into Croatian month names → S-e-o-u-l → **SEOUL**. Multiple independent solvers. Omega ⬤. | Confirmed |
+| 2 | **SEOUL** | Trench coat pieces | Calendar dates | BeastBot: "coat has a name with 8 letters that can be rearranged." Coat = RAINCOAT → anagram → **CROATIAN**. "Mrs. Maybelle isn't from around here" = use Croatian calendar (month names). Index circled dates (DD/MM) into Croatian month names → S-e-o-u-l → **SEOUL**. Multiple independent solvers. | Confirmed |
 | 3 | CAIRO | Can+Dylan+D rebus | Feastables shirt | Candyland color indexing on Feastables hoodie slogan → CAIRO. Community "certain." | Confirmed |
-| 4 | **UPPER HUTT, NZ** | Sine wave | Withdrawal slip (routing 650283979, acct 5480234354, Feb 5) | BeastBot: "sine waves go up and down in a regular pattern" + "there are no 1's... typical for this puzzle type. But there are 0's, which would normally be highly problematic." Apply cosine pattern (−1,+1,...) to digits → no 0s/1s. **T9 phone keypad decode → UPPER HUTT NEW ZEALAND.** BeastBot "no 0s/1s" hint directly supports T9 keypad. Omega ⬤ in location list. | Probable |
+| 4 | **UPPER HUTT, NZ** | Sine wave | Withdrawal slip (routing 650283979, acct 5480234354, Feb 5) | BeastBot: "sine waves go up and down in a regular pattern" + "there are no 1's... typical for this puzzle type. But there are 0's, which would normally be highly problematic." Apply cosine pattern (−1,+1,...) to digits → no 0s/1s. **T9 phone keypad decode → UPPER HUTT NEW ZEALAND.** BeastBot "no 0s/1s" hint directly supports T9 keypad. | Probable |
 | 5 | **ANKARA** | Spider + Ballerina | Parking ticket + "No Parking Your Tank at the Bank" signs | BeastBot hint: "look for what words have in common." Ballerina in **ARABESQUE** + spider = **ARACHNID** → shared = **ARA**. Signs say **TANK** at the **BANK** → shared = **ANK**. ARA+ANK = **ANKARA**. | Confirmed |
 | 6 | **TBILISI?** | Bird on wire | Coffee cup / bird toy | Screen birds use **bird cipher** → spells **DINAMO**. Bank bird toy points to coffee cup showing "Macon Coffee" with **outline of Georgia** — Georgia the country, not US state. DINAMO + Georgia → **FC Dinamo Tbilisi**. Two puzzle elements converge from multiple sources. Weakness: Dinamo Batumi is also Georgian. | Probable |
-| 7 | **TOAD SUCK, AR** | Ear with T crossed out (5 blanks, T in pos 2 X'd) | IPESIT plate / "Talk Like a Pirate Day" sign | BeastBot: "this puzzle is in three parts, each using a different puzzle type" — "addition, deletion, and homophone." (1) Tank "towed" → homophone → **TOAD**. (2) IPESIT = "I Paid Everyone Stuck In Traffic" (MrBeast video) → **STUCK** → delete T → **SUCK**. (3) "Arrrr" (pirate) + Kansas → **ARKANSAS**. = **TOAD SUCK, ARKANSAS** (real place!). Omega ⬤. | Confirmed |
+| 7 | **TOAD SUCK, AR** | Ear with T crossed out (5 blanks, T in pos 2 X'd) | IPESIT plate / "Talk Like a Pirate Day" sign | BeastBot: "this puzzle is in three parts, each using a different puzzle type" — "addition, deletion, and homophone." (1) Tank "towed" → homophone → **TOAD**. (2) IPESIT = "I Paid Everyone Stuck In Traffic" (MrBeast video) → **STUCK** → delete T → **SUCK**. (3) "Arrrr" (pirate) + Kansas → **ARKANSAS**. = **TOAD SUCK, ARKANSAS** (real place!). | Confirmed |
 | 8 | TIJUANA | Caesar busts (1,7,7,1,1,4,2,7,6,5,3) | "Best Bank" poster | Caesar bust numbers play **Slack Boop Plus** ringtone → Slack message → "THE BEST BANK" poster → Caesar cipher = **"SALAD ORIGIN"** → origin of **Caesar salad** = **Tijuana, Mexico**. Triple Caesar pun. Multiple independent solvers. | Confirmed |
 | 9 | ??? | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | **Genuinely unsolved.** All carousel words start with **SW** — confirmed by Lone Shark Facebook post with underlined S+W. | Unsolved |
 | 10 | ??? | 10⁵ (0 underlined) | Sudoku (onemil.xyz) | **Genuinely unsolved — likely collaboration-gated.** Case #271829 = e × 10⁵ (Euler's number). BeastBot: "likely a wordoku." Hint #7: "you need friends, maybe a million of them." | Unsolved |
 | 11 | ??? (not Lincoln) | Top hat on weight (22.493 lbs) | Penny jar | **BeastBot DENIED Lincoln:** "Lincoln's too simple an answer, even at that latitude. You need to take it one more step." Latitude 40.81° validated but Lincoln is NOT the final answer. | **Denied / Unsolved** |
-| 12 | MOSCOW | n³ = n² | Red Rubik's cube | n=0 or n=1 (binary). Red + Cube = Red Square, Moscow. BeastBot: "83.33% atypical" (5/6 faces non-standard). Omega ⬤. | Confirmed |
+| 12 | MOSCOW | n³ = n² | Red Rubik's cube | n=0 or n=1 (binary). Red + Cube = Red Square, Moscow. BeastBot: "83.33% atypical" (5/6 faces non-standard). | Confirmed |
 
 ---
 
@@ -59,7 +59,7 @@
 | LIMA | Belt wire colors | Color code 12-7-13-1 = L-I-M-A | Confirmed |
 | TASHKENT | Marked bills / Cash Pile | Red-rimmed bills → "CASH TENT." BeastBot references Reverend Spooner. Spoonerism of "Cash Tent" → "Tash Kent" → **TASHKENT**. | Confirmed |
 | TALLINN | Subtitles / transcript | Hyphens adjacent to letters spell "Seven Letter Big Lodge" → "big lodge" = "tall inn" = TALLINN | Confirmed |
-| NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. Omega says <50% confidence — not in their confirmed list. | Unconfirmed |
+| NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. | Unconfirmed |
 | **YELLOWSTONE?** | Smoke grenade | BeastBot: "Grenades demand to be taken literally" + "SMOKE is just a type, the other letters matter" + "4 parts." + "We don't just color text on grenades randomly." Text "1+1=?" is in YELLOW. **YELLOW** + **S** + **T** + **ONE** = **YELLOWSTONE**. Community convergence. Weakness: Yellowstone is a park, not a city. | Unconfirmed |
 | ??? | Camel/llama | BeastBot confirms, points to Saudi Arabia/BEASTLAND. No location extracted. | Unsolved |
 | ??? | *Unidentified* | 12th commercial puzzle not yet found. | Unsolved |
@@ -75,12 +75,12 @@
 | # (poster) | Location | Recipient | Decode | Confidence |
 |---|----------|-----------|--------|------------|
 | 1 | ALGIERS | Airrack | 7 pictures each hide "ERIC." First letters: A-L-G-I-E-R-S | Confirmed |
-| 2 | TAMPA | Sketch | "Angry Lair" → "Mad Den" → Madden 99 → BUCS HOME → Tampa Bay. Omega ⬤. | Confirmed |
-| 3 | **WICHITA** | Jimmy Fallon | Jigsaw → "JIMMYS BIRTHPLACE." BeastBot: "present is more reflective of the giver" = MrBeast born in Wichita, KS. Omega ⬤. | Confirmed |
+| 2 | TAMPA | Sketch | "Angry Lair" → "Mad Den" → Madden 99 → BUCS HOME → Tampa Bay. | Confirmed |
+| 3 | **WICHITA** | Jimmy Fallon | Jigsaw → "JIMMYS BIRTHPLACE." BeastBot: "present is more reflective of the giver" = MrBeast born in Wichita, KS. | Confirmed |
 | 4 | TIERRA DEL FUEGO | Quackity | Sword with text + Beagle Channel | Confirmed |
 | 5 | DEKALB | Hayleybaylee | Rings puzzle → DeKalb, Illinois | Confirmed |
-| 6 | **MONTREAL** | Jim & Monika | Heart hoodie uses **MAD Magazine fold-in** mechanism. BeastBot: "positively MAD." Fold text inward → edge letters spell **MONTREAL, CANADA**. Omega ⬤. | Confirmed |
-| 7 | CAIRNS, QUEENSLAND | Chris Hemsworth | "LAND OF CAIRNS" → Queensland. Omega ⬤. | Confirmed |
+| 6 | **MONTREAL** | Jim & Monika | Heart hoodie uses **MAD Magazine fold-in** mechanism. BeastBot: "positively MAD." Fold text inward → edge letters spell **MONTREAL, CANADA**. | Confirmed |
+| 7 | CAIRNS, QUEENSLAND | Chris Hemsworth | "LAND OF CAIRNS" → Queensland. | Confirmed |
 | 8 | DIVO | Jack McKenna | Card trick → DIVO, Côte d'Ivoire | Confirmed |
 | 9 | COPENHAGEN | Pierson | Blender food combos → missing letters spell HAFNIUM CITY → Latin for Copenhagen | Confirmed |
 | 10 | BUFFALO | Botez Sisters | Chess Game 6 cipher → BUFFALO | Confirmed |
@@ -121,25 +121,25 @@
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
-| A1 | **MALÉ, Maldives?** | **Malcolm in Water** | "2 underwater" (1st) | BeastBot: "Who is in the water? A name might appear more than once here. This can be read as a sentence: adjective, proper noun, verb." → **"Male Mal dives"** = MALÉ, MALDIVES. Omega ⦿. | Probable |
-| A2 | **ITURUP** | **Submarine Math** | "2 underwater" (2nd) | BTS video ~3:17 shows grid with numbers + empty squares. Fill with subscriber count, do math, convert to ASCII → **ITURUP** (Kuril Islands). Omega ⬤. | Confirmed |
-| A3 | YELLOWKNIFE | **Puzzle Maker** | "1 in pieces" | Slack message at 6:19 in BTS video. Omega ⬤. | **Confirmed** |
-| A4 | **THANE, India?** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in India. Omega ⦿. | Probable |
+| A1 | **MALÉ, Maldives?** | **Malcolm in Water** | "2 underwater" (1st) | BeastBot: "Who is in the water? A name might appear more than once here. This can be read as a sentence: adjective, proper noun, verb." → **"Male Mal dives"** = MALÉ, MALDIVES. | Probable |
+| A2 | **ITURUP** | **Submarine Math** | "2 underwater" (2nd) | BTS video ~3:17 shows grid with numbers + empty squares. Fill with subscriber count, do math, convert to ASCII → **ITURUP** (Kuril Islands). | Confirmed |
+| A3 | YELLOWKNIFE | **Puzzle Maker** | "1 in pieces" | Slack message at 6:19 in BTS video. | **Confirmed** |
+| A4 | **THANE, India?** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in India. | Probable |
 
 ### Group B: 3 on Large Physical Objects (Salesforce X Feed)
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
-| B1 | **NAZARÉ, Portugal** | **Salesforce Tower LED video** | "1 may take a while to watch" | 17-min video on Salesforce X. Blue durations → A1Z26 = **"SURF RECORD SITE WITH ARGENT HUE."** Nazaré = surf record site on Portugal's Silver Coast (argent = silver). Omega ⬤. | **Confirmed** |
-| B2 | **NOME, Alaska** | **Billboard (letters)** | (same billboard, 1st puzzle) | "e mon" underlined, read backwards → NOME. BeastBot: "two puzzles on this object." Omega ⬤. | **Confirmed** |
-| B3 | **DIMTU, Ethiopia** | **Billboard (numbers)** | (same billboard, 2nd puzzle) | Lock numbers 04 09 13 20 21 → A1Z26 = D-I-M-T-U. Omega ⬤. | **Confirmed** |
+| B1 | **NAZARÉ, Portugal** | **Salesforce Tower LED video** | "1 may take a while to watch" | 17-min video on Salesforce X. Blue durations → A1Z26 = **"SURF RECORD SITE WITH ARGENT HUE."** Nazaré = surf record site on Portugal's Silver Coast (argent = silver). | **Confirmed** |
+| B2 | **NOME, Alaska** | **Billboard (letters)** | (same billboard, 1st puzzle) | "e mon" underlined, read backwards → NOME. BeastBot: "two puzzles on this object." | **Confirmed** |
+| B3 | **DIMTU, Ethiopia** | **Billboard (numbers)** | (same billboard, 2nd puzzle) | Lock numbers 04 09 13 20 21 → A1Z26 = D-I-M-T-U. | **Confirmed** |
 
 ### Group C: 2 on the Site
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
 | C1 | ??? | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Identified but unsolved. Likely the "How to Play" video on mrbeast.salesforce.com. | Puzzle confirmed, unsolved |
-| C2 | **BABYLON?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate = babble → BABBLE ON → **BABYLON**. Omega ⦿. | Probable |
+| C2 | **BABYLON?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate = babble → BABBLE ON → **BABYLON**. | Probable |
 
 ### Additional Candidates
 
