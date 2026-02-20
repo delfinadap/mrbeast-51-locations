@@ -97,7 +97,7 @@
 
 <h1>beast.travel IATA Airport Code Grid</h1>
 <div class="subtitle">Each destination word on beast.travel splits into 3-letter chunks — many of them are real IATA airport codes.</div>
-<div class="subtitle">20 destination words × 4 trigrams = 80 codes</div>
+<div class="subtitle">40 destination words × 4 trigrams = 160 codes</div>
 
 <div class="legend">
   <div class="legend-item"><div class="legend-dot valid"></div> Valid IATA code (69)</div>
@@ -139,125 +139,245 @@
 <script>
 const data = [
   { word: "BARODYNAMICS", page: "Car", solve: "CASPER, WY?", codes: [
-    { code: "BAR", valid: true, airport: "Baker AAF", city: "Baker", country: "United States", lat: 30.508, lon: -86.523 },
-    { code: "ODY", valid: true, airport: "Oudomxay Airport", city: "Viangxai", country: "Laos", lat: 20.683, lon: 101.994 },
-    { code: "NAM", valid: true, airport: "Namlea Airport", city: "Namlea", country: "Indonesia", lat: -3.236, lon: 127.099 },
-    { code: "ICS", valid: true, airport: "Cascade Airport", city: "Cascade, Idaho", country: "United States", lat: 44.494, lon: -116.016 }
+    { code: "BAR", valid: true, airport: "Qionghai Bo'ao Airport", city: "Qionghai (Basuo)", country: "CN", lat: 19.140951, lon: 110.452766 },
+    { code: "ODY", valid: true, airport: "Oudomsay Airport", city: "Oudomsay", country: "LA", lat: 20.68269920349121, lon: 101.99400329589844 },
+    { code: "NAM", valid: true, airport: "Namniwel Airport", city: "Namniwel", country: "ID", lat: -3.143159, lon: 126.976469 },
+    { code: "ICS", valid: true, airport: "Cascade Airport", city: "Cascade", country: "US", lat: 44.4938011169, lon: -116.01599884 },
   ]},
   { word: "EBULLIOSCOPE", page: "Car", solve: "ARZAMAS, RU?", codes: [
-    { code: "EBU", valid: true, airport: "Bouthéon Airport", city: "Saint-Étienne", country: "France", lat: 45.541, lon: 4.296 },
-    { code: "LLI", valid: true, airport: "Lalibela Airport", city: "Lalibela", country: "Ethiopia", lat: 11.975, lon: 38.980 },
-    { code: "OSC", valid: true, airport: "Wurtsmith AFB", city: "Oscoda, MI", country: "United States", lat: 44.452, lon: -83.394 },
-    { code: "OPE", valid: false }
+    { code: "EBU", valid: true, airport: "Saint-Étienne-Bouthéon Airport", city: "Andrézieux-Bouthéon, Loire", country: "FR", lat: 45.5406, lon: 4.29639 },
+    { code: "LLI", valid: true, airport: "Lalibela Airport", city: "Girany Amba", country: "ET", lat: 11.975225, lon: 38.980198 },
+    { code: "OSC", valid: true, airport: "Oscoda Wurtsmith Airport", city: "Oscoda", country: "US", lat: 44.451599, lon: -83.394096 },
+    { code: "OPE", valid: false },
   ]},
-  { word: "FURFURACEOUS", page: "Car", solve: "DAR ES SALAAM?", codes: [
+  { word: "FURFURACEOUS", page: "Car", solve: "MAIDUGURI, NG?", codes: [
     { code: "FUR", valid: false },
     { code: "FUR", valid: false, dup: true },
-    { code: "ACE", valid: true, airport: "Lanzarote Airport", city: "Tías", country: "Spain", lat: 28.945, lon: -13.605 },
-    { code: "OUS", valid: true, airport: "Ourinhos Airport", city: "Ourinhos", country: "Brazil", lat: -22.967, lon: -49.912 }
+    { code: "ACE", valid: true, airport: "César Manrique-Lanzarote Airport", city: "San Bartolomé", country: "ES", lat: 28.945499, lon: -13.6052 },
+    { code: "OUS", valid: true, airport: "Jornalista Benedito Pimentel Airport", city: "Ourinhos", country: "BR", lat: -22.966598, lon: -49.912049 },
   ]},
   { word: "HAPAXANTHOUS", page: "Car", solve: "BAKU", codes: [
-    { code: "HAP", valid: true, airport: "Long Island Airport", city: "Long Island", country: "Papua New Guinea", lat: -5.467, lon: 148.067 },
-    { code: "AXA", valid: true, airport: "Wallblake Airport", city: "The Valley", country: "Anguilla", lat: 18.205, lon: -63.055 },
+    { code: "HAP", valid: true, airport: "Happy Bay Helipad", city: "Long Island", country: "AU", lat: -20.3358, lon: 148.8525 },
+    { code: "AXA", valid: true, airport: "Clayton J. Lloyd International Airport", city: "The Valley", country: "AI", lat: 18.204773, lon: -63.05383 },
     { code: "NTH", valid: false },
-    { code: "OUS", valid: true, airport: "Ourinhos Airport", city: "Ourinhos", country: "Brazil", lat: -22.967, lon: -49.912 }
+    { code: "OUS", valid: true, airport: "Jornalista Benedito Pimentel Airport", city: "Ourinhos", country: "BR", lat: -22.966598, lon: -49.912049 },
   ]},
   { word: "HEKISTOTHERM", page: "Car", solve: "WINNIPEG, CA?", codes: [
-    { code: "HEK", valid: true, airport: "Heihe Airport", city: "Heihe", country: "China", lat: 50.172, lon: 127.309 },
-    { code: "IST", valid: true, airport: "Istanbul Airport", city: "Istanbul", country: "Turkey", lat: 41.262, lon: 28.728 },
-    { code: "OTH", valid: true, airport: "Southwest Oregon Regional", city: "North Bend, OR", country: "United States", lat: 43.417, lon: -124.246 },
-    { code: "ERM", valid: true, airport: "Erechim Airport", city: "Erechim", country: "Brazil", lat: -27.662, lon: -52.269 }
+    { code: "HEK", valid: true, airport: "Heihe Aihui Airport", city: "Heihe", country: "CN", lat: 50.171621, lon: 127.308884 },
+    { code: "IST", valid: true, airport: "İstanbul Airport", city: "Istanbul", country: "TR", lat: 41.274874, lon: 28.732136 },
+    { code: "OTH", valid: true, airport: "Southwest Oregon Regional Airport", city: "North Bend", country: "US", lat: 43.41709899902344, lon: -124.24600219726562 },
+    { code: "ERM", valid: true, airport: "Erechim Airport", city: "Erechim", country: "BR", lat: -27.663614, lon: -52.271489 },
   ]},
-  { word: "INCLINOMETER", page: "Car", solve: "SURAT, IN?", codes: [
-    { code: "INC", valid: true, airport: "Yinchuan Hedong Intl", city: "Yinchuan", country: "China", lat: 38.322, lon: 106.393 },
-    { code: "LIN", valid: true, airport: "Milan Linate Airport", city: "Milan", country: "Italy", lat: 45.449, lon: 9.278 },
-    { code: "OME", valid: true, airport: "Nome Airport", city: "Nome, AK", country: "United States", lat: 64.512, lon: -165.445 },
-    { code: "TER", valid: true, airport: "Lajes Airport", city: "Terceira Island", country: "Portugal (Azores)", lat: 38.762, lon: -27.091 }
+  { word: "INCLINOMETER", page: "Car", solve: "SURAT, IN", codes: [
+    { code: "INC", valid: true, airport: "Yinchuan Hedong International Airport", city: "Yinchuan", country: "CN", lat: 38.322758, lon: 106.393214 },
+    { code: "LIN", valid: true, airport: "Milano Linate Airport", city: "Segrate (MI)", country: "IT", lat: 45.445099, lon: 9.27674 },
+    { code: "OME", valid: true, airport: "Nome Airport", city: "Nome", country: "US", lat: 64.51219940185547, lon: -165.44500732421875 },
+    { code: "TER", valid: true, airport: "Lajes Airport", city: "Praia da Vitória", country: "PT", lat: 38.761799, lon: -27.090799 },
   ]},
   { word: "MARIMBAPHONE", page: "Car", solve: "MARQUETTE, MI?", codes: [
-    { code: "MAR", valid: true, airport: "La Chinita Intl", city: "Maracaibo", country: "Venezuela", lat: 10.558, lon: -71.728 },
-    { code: "IMB", valid: true, airport: "Imbaimadai Airport", city: "Imbaimadai", country: "Guyana", lat: 5.708, lon: -60.289 },
-    { code: "APH", valid: true, airport: "A.P. Hill AAF", city: "Bowling Green, VA", country: "United States", lat: 38.069, lon: -77.318 },
-    { code: "ONE", valid: false }
+    { code: "MAR", valid: true, airport: "La Chinita International Airport", city: "Maracaibo", country: "VE", lat: 10.557542, lon: -71.729307 },
+    { code: "IMB", valid: true, airport: "Imbaimadai Airport", city: "Imbaimadai", country: "GY", lat: 5.70811, lon: -60.294201 },
+    { code: "APH", valid: true, airport: "Mary Walker LZ Airport", city: "Bowling Green", country: "US", lat: 38.068631, lon: -77.319318 },
+    { code: "ONE", valid: false },
+  ]},
+  { word: "NEBULOPHOBIA", page: "Car", solve: "BEATTY, NV", codes: [
+    { code: "NEB", valid: false },
+    { code: "ULO", valid: true, airport: "Ulaangom Airport", city: "Ulaangom", country: "MN", lat: 50.066588, lon: 91.938273 },
+    { code: "PHO", valid: true, airport: "Point Hope Airport", city: "Point Hope", country: "US", lat: 68.348801, lon: -166.798996 },
+    { code: "BIA", valid: true, airport: "Bastia-Poretta International airport", city: "Bastia", country: "FR", lat: 42.5527, lon: 9.48373 },
+  ]},
+  { word: "OCHROLEUCOUS", page: "Car", solve: "MOSUL, IQ", codes: [
+    { code: "OCH", valid: true, airport: "A L Mangham Jr. Regional Airport", city: "Nacogdoches", country: "US", lat: 31.57799911, lon: -94.70950317 },
+    { code: "ROL", valid: true, airport: "Roosevelt Municipal Airport", city: "Roosevelt", country: "US", lat: 40.278301, lon: -110.051003 },
+    { code: "EUC", valid: true, airport: "Eucla Airport", city: "", country: "AU", lat: -31.707084, lon: 128.877243 },
+    { code: "OUS", valid: true, airport: "Jornalista Benedito Pimentel Airport", city: "Ourinhos", country: "BR", lat: -22.966598, lon: -49.912049 },
+  ]},
+  { word: "RECEPTACULAR", page: "Car", solve: "VISBY, SE", codes: [
+    { code: "REC", valid: true, airport: "Recife/Guararapes - Gilberto Freyre International ", city: "Recife", country: "BR", lat: -8.12747, lon: -34.922961 },
+    { code: "EPT", valid: true, airport: "Eliptamin Airport", city: "Eliptamin", country: "PG", lat: -5.0412, lon: 141.6779 },
+    { code: "ACU", valid: true, airport: "Achutupu Airport", city: "Mamitupu", country: "PA", lat: 9.188481, lon: -77.994153 },
+    { code: "LAR", valid: true, airport: "Laramie Regional Airport", city: "Laramie", country: "US", lat: 41.31209945678711, lon: -105.67500305175781 },
+  ]},
+  { word: "RISORGIMENTO", page: "Car", solve: "ISTANBUL, TR?", codes: [
+    { code: "RIS", valid: true, airport: "Rishiri Airport", city: "Rishiri", country: "JP", lat: 45.2420005798, lon: 141.186004639 },
+    { code: "ORG", valid: true, airport: "Zorg en Hoop Airport", city: "Paramaribo", country: "SR", lat: 5.811131, lon: -55.1913 },
+    { code: "IME", valid: false },
+    { code: "NTO", valid: true, airport: "Agostinho Neto Airport", city: "Ponta do Sol", country: "CV", lat: 17.202800750732422, lon: -25.090599060058594 },
+  ]},
+  { word: "SALAMANDROID", page: "Car", solve: "NANTUCKET, MA?", codes: [
+    { code: "SAL", valid: true, airport: "El Salvador International Airport Saint Óscar Arnu", city: "San Salvador (San Luis Talpa)", country: "SV", lat: 13.44447, lon: -89.055784 },
+    { code: "AMA", valid: true, airport: "Rick Husband Amarillo International Airport", city: "Amarillo", country: "US", lat: 35.217857, lon: -101.706444 },
+    { code: "NDR", valid: true, airport: "Nador Al Aaroui International Airport", city: "Al Aaroui", country: "MA", lat: 34.9888, lon: -3.02821 },
+    { code: "OID", valid: false },
+  ]},
+  { word: "SCAPULOMANCY", page: "Car", solve: "POVEGLIA, IT?", codes: [
+    { code: "SCA", valid: true, airport: "Santa Catalina Airport", city: "Santa Catalina", country: "CO", lat: 8.5, lon: -76.175 },
+    { code: "PUL", valid: true, airport: "Port of Poulsbo Marina Moorage Seaplane Base", city: "Poulsbo", country: "US", lat: 47.734001159668, lon: -122.64700317383 },
+    { code: "OMA", valid: true, airport: "Eppley Airfield", city: "Omaha", country: "US", lat: 41.3032, lon: -95.894096 },
+    { code: "NCY", valid: true, airport: "Annecy Meythet airport", city: "Annecy", country: "FR", lat: 45.928947, lon: 6.0987 },
+  ]},
+  { word: "THEANTHROPIC", page: "Car", solve: "GIRESUN, TR?", codes: [
+    { code: "THE", valid: true, airport: "Senador Petrônio Portela Airport", city: "Teresina", country: "BR", lat: -5.06025, lon: -42.823712 },
+    { code: "ANT", valid: true, airport: "Sankt Anton am Arlberg Heliport", city: "Sankt Anton am Arlberg", country: "AT", lat: 47.119621, lon: 10.240524 },
+    { code: "HRO", valid: true, airport: "Boone County Airport", city: "Harrison", country: "US", lat: 36.26150131225586, lon: -93.15470123291016 },
+    { code: "PIC", valid: true, airport: "Pine Cay Airport", city: "Pine Cay", country: "TC", lat: 21.874661, lon: -72.090573 },
+  ]},
+  { word: "ULTRAMONTANE", page: "Car", solve: "L'ASCENSION, QC?", codes: [
+    { code: "ULT", valid: false },
+    { code: "RAM", valid: true, airport: "Ramingining Airport", city: "", country: "AU", lat: -12.356399536132812, lon: 134.8979949951172 },
+    { code: "ONT", valid: true, airport: "Ontario International Airport", city: "Ontario", country: "US", lat: 34.056, lon: -117.600998 },
+    { code: "ANE", valid: true, airport: "Angers Marcé airport", city: "Angers", country: "FR", lat: 47.560299, lon: -0.312222 },
   ]},
   { word: "ABERUNCATORS", page: "Horse", solve: "ŌKATO, NZ", codes: [
-    { code: "ABE", valid: true, airport: "Lehigh Valley Intl", city: "Allentown, PA", country: "United States", lat: 40.652, lon: -75.443 },
-    { code: "RUN", valid: true, airport: "Roland Garros Airport", city: "Sainte-Marie", country: "Réunion (France)", lat: -20.890, lon: 55.519 },
-    { code: "CAT", valid: true, airport: "Cascais Municipal", city: "Lisbon", country: "Portugal", lat: 38.725, lon: -9.355 },
-    { code: "ORS", valid: false }
+    { code: "ABE", valid: true, airport: "Lehigh Valley International Airport", city: "Allentown/Bethlehem", country: "US", lat: 40.651773, lon: -75.442797 },
+    { code: "RUN", valid: true, airport: "Roland Garros Airport", city: "Sainte-Marie", country: "RE", lat: -20.890087, lon: 55.518894 },
+    { code: "CAT", valid: true, airport: "Cascais Airport", city: "Cascais", country: "PT", lat: 38.724998, lon: -9.35523 },
+    { code: "ORS", valid: false },
   ]},
   { word: "DEAMBULATORY", page: "Horse", solve: "NOVA RUSSAS, BR", codes: [
-    { code: "DEA", valid: true, airport: "Dera Ghazi Khan Airport", city: "Dera Ghazi Khan", country: "Pakistan", lat: 29.961, lon: 70.486 },
-    { code: "MBU", valid: true, airport: "Babanakira Airport", city: "Mbambanakira", country: "Solomon Islands", lat: -9.748, lon: 159.839 },
+    { code: "DEA", valid: true, airport: "Dera Ghazi Khan Airport", city: "Dera Ghazi Khan", country: "PK", lat: 29.961000442504883, lon: 70.48590087890625 },
+    { code: "MBU", valid: true, airport: "Babanakira Airport", city: "Mbambanakira", country: "SB", lat: -9.7475, lon: 159.839005 },
     { code: "LAT", valid: false },
-    { code: "ORY", valid: true, airport: "Paris Orly Airport", city: "Paris", country: "France", lat: 48.723, lon: 2.379 }
+    { code: "ORY", valid: true, airport: "Paris-Orly Airport", city: "Paris (Orly, Val-de-Marne)", country: "FR", lat: 48.72333, lon: 2.37944 },
   ]},
   { word: "FISSICOSTATE", page: "Horse", solve: "ČESKÉ BUDĚJOVICE", codes: [
     { code: "FIS", valid: false },
-    { code: "SIC", valid: true, airport: "Isla Colón Intl", city: "San José Island", country: "Panama", lat: 9.340, lon: -82.260 },
-    { code: "OST", valid: true, airport: "Ostend-Bruges Intl", city: "Ostend", country: "Belgium", lat: 51.199, lon: 2.862 },
-    { code: "ATE", valid: true, airport: "Antlers Municipal", city: "Antlers, OK", country: "United States", lat: 34.193, lon: -95.650 }
+    { code: "SIC", valid: true, airport: "San José Island Airport", city: "Las Perlas", country: "PA", lat: 8.2622, lon: -79.078 },
+    { code: "OST", valid: true, airport: "Ostend-Bruges International Airport", city: "Oostende", country: "BE", lat: 51.1998, lon: 2.874673 },
+    { code: "ATE", valid: true, airport: "Antlers Municipal Airport", city: "Antlers", country: "US", lat: 34.1926002502, lon: -95.6499023438 },
   ]},
   { word: "LACHRYMIFORM", page: "Horse", solve: "CHRISTCHURCH, NZ", codes: [
-    { code: "LAC", valid: true, airport: "Layang-Layang Airport", city: "Swallow Reef", country: "Malaysia", lat: 7.372, lon: 113.844 },
-    { code: "HRY", valid: true, airport: "Henbury Airport", city: "Henbury, NT", country: "Australia", lat: -24.580, lon: 133.236 },
-    { code: "MIF", valid: true, airport: "Roy Hurd Memorial", city: "Monahans, TX", country: "United States", lat: 31.583, lon: -102.908 },
-    { code: "ORM", valid: true, airport: "Sywell Aerodrome", city: "Northampton", country: "United Kingdom", lat: 52.305, lon: -0.793 }
+    { code: "LAC", valid: true, airport: "Layang-Layang Airport", city: "Pulau Layang-Layang (Swallow R", country: "MY", lat: 7.37157, lon: 113.844002 },
+    { code: "HRY", valid: true, airport: "Henbury Airport", city: "Ghan", country: "AU", lat: -24.584, lon: 133.236 },
+    { code: "MIF", valid: true, airport: "Roy Hurd Memorial Airport", city: "Monahans", country: "US", lat: 31.582500457764, lon: -102.90899658203 },
+    { code: "ORM", valid: true, airport: "Sywell Aerodrome", city: "Northampton, Northamptonshire", country: "GB", lat: 52.305302, lon: -0.793056 },
   ]},
   { word: "LAEVODUCTION", page: "Horse", solve: "CASTELO BRANCO, PT", codes: [
-    { code: "LAE", valid: true, airport: "Nadzab Airport", city: "Lae", country: "Papua New Guinea", lat: -6.570, lon: 146.726 },
-    { code: "VOD", valid: true, airport: "Vodochody Airport", city: "Vodochody", country: "Czech Republic", lat: 50.216, lon: 14.396 },
-    { code: "UCT", valid: true, airport: "Ukhta Airport", city: "Sosnogorsk", country: "Russia", lat: 63.567, lon: 53.805 },
-    { code: "ION", valid: true, airport: "Impfondo Airport", city: "Impfondo", country: "Republic of the Congo", lat: 1.592, lon: 18.047 }
+    { code: "LAE", valid: true, airport: "Nadzab Tomodachi International Airport", city: "Lae", country: "PG", lat: -6.567995, lon: 146.726544 },
+    { code: "VOD", valid: true, airport: "Vodochody Airport", city: "Vodochody", country: "CZ", lat: 50.216599, lon: 14.3958 },
+    { code: "UCT", valid: true, airport: "Ukhta Airport", city: "Ukhta", country: "RU", lat: 63.566898, lon: 53.804699 },
+    { code: "ION", valid: true, airport: "Impfondo Airport", city: "Impfondo", country: "CG", lat: 1.589968, lon: 18.046624 },
+  ]},
+  { word: "OLERICULTURE", page: "Horse", solve: "SOKODE, TG", codes: [
+    { code: "OLE", valid: true, airport: "Cattaraugus County-Olean Airport", city: "Olean", country: "US", lat: 42.241199, lon: -78.371399 },
+    { code: "RIC", valid: true, airport: "Richmond International Airport", city: "Richmond", country: "US", lat: 37.505199, lon: -77.319702 },
+    { code: "ULT", valid: false },
+    { code: "URE", valid: true, airport: "Kuressaare Airport", city: "Kuressaare", country: "EE", lat: 58.22990036010742, lon: 22.50950050354004 },
+  ]},
+  { word: "SCAFFMASTERS", page: "Horse", solve: "CURICÓ, CL?", codes: [
+    { code: "SCA", valid: true, airport: "Santa Catalina Airport", city: "Santa Catalina", country: "CO", lat: 8.5, lon: -76.175 },
+    { code: "FFM", valid: true, airport: "Fergus Falls Municipal Airport - Einar Mickelson F", city: "Fergus Falls", country: "US", lat: 46.28440094, lon: -96.15670013 },
+    { code: "AST", valid: true, airport: "Astoria Regional Airport", city: "Astoria", country: "US", lat: 46.158000946, lon: -123.878997803 },
+    { code: "ERS", valid: true, airport: "Eros Airport", city: "Windhoek", country: "NA", lat: -22.60492, lon: 17.079002 },
+  ]},
+  { word: "UNDERBRIDGES", page: "Horse", solve: "MONKEY BAY, MW", codes: [
+    { code: "UND", valid: true, airport: "Kunduz Airport", city: "Kunduz", country: "AF", lat: 36.6651, lon: 68.910797 },
+    { code: "ERB", valid: true, airport: "Ernabella Airport", city: "", country: "AU", lat: -26.2632999420166, lon: 132.1820068359375 },
+    { code: "RID", valid: true, airport: "Richmond Municipal Airport", city: "Richmond", country: "US", lat: 39.757198, lon: -84.842796 },
+    { code: "GES", valid: true, airport: "General Santos International Airport", city: "General Santos", country: "PH", lat: 6.057208, lon: 125.096243 },
+  ]},
+  { word: "WINDCHEATERS", page: "Horse", solve: "ANTALYA, TR?", codes: [
+    { code: "WIN", valid: true, airport: "Winton Airport", city: "", country: "AU", lat: -22.36359977722168, lon: 143.08599853515625 },
+    { code: "DCH", valid: false },
+    { code: "EAT", valid: true, airport: "Pangborn Memorial Airport", city: "Wenatchee", country: "US", lat: 47.398899, lon: -120.207001 },
+    { code: "ERS", valid: true, airport: "Eros Airport", city: "Windhoek", country: "NA", lat: -22.60492, lon: 17.079002 },
   ]},
   { word: "ABOUTSLEDGES", page: "Plane", solve: "AMBANJA, MG", codes: [
-    { code: "ABO", valid: true, airport: "Aboisso Airport", city: "Aboisso", country: "Côte d'Ivoire", lat: 5.462, lon: -3.235 },
-    { code: "UTS", valid: true, airport: "Ust-Tsilma Airport", city: "Ust-Tsilma", country: "Russia", lat: 65.437, lon: 52.200 },
-    { code: "LED", valid: true, airport: "Pulkovo Airport", city: "St. Petersburg", country: "Russia", lat: 59.800, lon: 30.263 },
-    { code: "GES", valid: true, airport: "General Santos Intl", city: "General Santos", country: "Philippines", lat: 6.058, lon: 125.096 }
+    { code: "ABO", valid: true, airport: "Aboisso Airport", city: "Aboisso", country: "CI", lat: 5.461944, lon: -3.234722 },
+    { code: "UTS", valid: true, airport: "Ust-Tsylma Airport", city: "Ust-Tsylma", country: "RU", lat: 65.437294, lon: 52.200336 },
+    { code: "LED", valid: true, airport: "Pulkovo Airport", city: "St. Petersburg", country: "RU", lat: 59.800301, lon: 30.262501 },
+    { code: "GES", valid: true, airport: "General Santos International Airport", city: "General Santos", country: "PH", lat: 6.057208, lon: 125.096243 },
   ]},
   { word: "ABSQUATULATE", page: "Plane", solve: "SAINT-PIERRE, SPM", codes: [
-    { code: "ABS", valid: true, airport: "Abu Simbel Airport", city: "Abu Simbel", country: "Egypt", lat: 22.368, lon: 31.610 },
+    { code: "ABS", valid: true, airport: "Abu Simbel Airport", city: "Abu Simbel", country: "EG", lat: 22.374402, lon: 31.609881 },
     { code: "QUA", valid: false },
-    { code: "TUL", valid: true, airport: "Tulsa Intl Airport", city: "Tulsa, OK", country: "United States", lat: 36.198, lon: -95.888 },
-    { code: "ATE", valid: true, airport: "Antlers Municipal", city: "Antlers, OK", country: "United States", lat: 34.193, lon: -95.650 }
+    { code: "TUL", valid: true, airport: "Tulsa International Airport", city: "Tulsa", country: "US", lat: 36.197084, lon: -95.886225 },
+    { code: "ATE", valid: true, airport: "Antlers Municipal Airport", city: "Antlers", country: "US", lat: 34.1926002502, lon: -95.6499023438 },
   ]},
   { word: "ECTYPOGRAPHY", page: "Plane", solve: "KRASNODAR, RU", codes: [
     { code: "ECT", valid: false },
-    { code: "YPO", valid: true, airport: "Peawanuck Airport", city: "Peawanuck", country: "Canada", lat: 54.988, lon: -85.443 },
-    { code: "GRA", valid: true, airport: "Gamarra Airport", city: "Gamarra", country: "Colombia", lat: 8.329, lon: -73.728 },
-    { code: "PHY", valid: true, airport: "Phetchabun Airport", city: "Lom Sak", country: "Thailand", lat: 16.676, lon: 101.195 }
+    { code: "YPO", valid: true, airport: "Peawanuck Airport", city: "Peawanuck", country: "CA", lat: 54.987932, lon: -85.442648 },
+    { code: "GRA", valid: true, airport: "Gamarra Airport", city: "Puerto Mosquito", country: "CO", lat: 8.20199, lon: -73.7653 },
+    { code: "PHY", valid: true, airport: "Phetchabun Airport", city: "", country: "TH", lat: 16.6760005951, lon: 101.194999695 },
   ]},
   { word: "ELEEMOSYNARY", page: "Plane", solve: "TUCUMÁN, AR", codes: [
-    { code: "ELE", valid: true, airport: "El Real Airport", city: "El Real", country: "Panama", lat: 8.107, lon: -77.726 },
-    { code: "EMO", valid: true, airport: "Emo Airport", city: "Emo", country: "Papua New Guinea", lat: -7.950, lon: 148.017 },
-    { code: "SYN", valid: true, airport: "Stanton Airport", city: "Stanton, MN", country: "United States", lat: 44.468, lon: -93.017 },
-    { code: "ARY", valid: true, airport: "Ararat Airport", city: "Ararat", country: "Australia", lat: -37.310, lon: 142.989 }
+    { code: "ELE", valid: true, airport: "EL Real Airport", city: "El Real de Santa María", country: "PA", lat: 8.107235, lon: -77.725545 },
+    { code: "EMO", valid: true, airport: "Emo River Airstrip", city: "Emo Mission", country: "PG", lat: -9.1234, lon: 148.0415 },
+    { code: "SYN", valid: true, airport: "Stanton Airfield", city: "Dennison", country: "US", lat: 44.475579, lon: -93.016756 },
+    { code: "ARY", valid: true, airport: "Ararat Airport", city: "Ararat", country: "AU", lat: -37.309978, lon: 142.988688 },
   ]},
-  { word: "EPANOSTROPHE", page: "Plane", solve: "DERBY, AU", codes: [
-    { code: "EPA", valid: true, airport: "Palo Alto Airport", city: "Palo Alto, CA", country: "United States", lat: 37.461, lon: -122.115 },
-    { code: "NOS", valid: true, airport: "Nosara Airport", city: "Nosara", country: "Costa Rica", lat: 9.977, lon: -85.653 },
-    { code: "TRO", valid: true, airport: "Tromsø Airport", city: "Tromsø", country: "Norway", lat: 69.683, lon: 18.919 },
-    { code: "PHE", valid: true, airport: "Port Hedland Intl", city: "Port Hedland", country: "Australia", lat: -20.383, lon: 118.630 }
+  { word: "EPANASTROPHE", page: "Plane", solve: "DERBY, AU", codes: [
+    { code: "EPA", valid: true, airport: "El Palomar Airport", city: "El Palomar", country: "AR", lat: -34.6099, lon: -58.6126 },
+    { code: "NAS", valid: true, airport: "Lynden Pindling International Airport", city: "Nassau", country: "BS", lat: 25.039, lon: -77.466202 },
+    { code: "TRO", valid: true, airport: "Taree Airport", city: "Taree", country: "AU", lat: -31.888599, lon: 152.514008 },
+    { code: "PHE", valid: true, airport: "Port Hedland International Airport", city: "Port Hedland", country: "AU", lat: -20.382787, lon: 118.629789 },
   ]},
   { word: "EXSANGUINOUS", page: "Plane", solve: "MANAUS, BR", codes: [
     { code: "EXS", valid: false },
-    { code: "ANG", valid: true, airport: "Angoulême Airport", city: "Angoulême", country: "France", lat: 45.729, lon: 0.221 },
-    { code: "UIN", valid: true, airport: "Quincy Regional", city: "Quincy, IL", country: "United States", lat: 39.943, lon: -91.195 },
-    { code: "OUS", valid: true, airport: "Ourinhos Airport", city: "Ourinhos", country: "Brazil", lat: -22.967, lon: -49.912 }
+    { code: "ANG", valid: true, airport: "Angoulême Brie-Champniers airport", city: "Angoulême", country: "FR", lat: 45.729198, lon: 0.221456 },
+    { code: "UIN", valid: true, airport: "Quincy Regional Airport Baldwin Field", city: "Quincy", country: "US", lat: 39.942699, lon: -91.194603 },
+    { code: "OUS", valid: true, airport: "Jornalista Benedito Pimentel Airport", city: "Ourinhos", country: "BR", lat: -22.966598, lon: -49.912049 },
   ]},
   { word: "LAMPADEPHORE", page: "Plane", solve: "PUNE, IN", codes: [
-    { code: "LAM", valid: true, airport: "Los Alamos Airport", city: "Los Alamos, NM", country: "United States", lat: 35.880, lon: -106.269 },
-    { code: "PAD", valid: true, airport: "Paderborn Lippstadt", city: "Paderborn", country: "Germany", lat: 51.614, lon: 8.616 },
-    { code: "EPH", valid: true, airport: "Ephrata Municipal", city: "Ephrata, WA", country: "United States", lat: 47.308, lon: -119.516 },
-    { code: "ORE", valid: true, airport: "Orléans Airport", city: "Orléans", country: "France", lat: 47.898, lon: 2.163 }
+    { code: "LAM", valid: true, airport: "Los Alamos Airport", city: "Los Alamos", country: "US", lat: 35.8797988892, lon: -106.268997192 },
+    { code: "PAD", valid: true, airport: "Paderborn Lippstadt Airport", city: "Büren", country: "DE", lat: 51.612527, lon: 8.617459 },
+    { code: "EPH", valid: true, airport: "Ephrata Municipal Airport", city: "Ephrata", country: "US", lat: 47.307598, lon: -119.515999 },
+    { code: "ORE", valid: true, airport: "Orléans–Saint-Denis-de-l'Hôtel Airport", city: "Saint-Denis-de-l'Hôtel, Loiret", country: "FR", lat: 47.897758, lon: 2.164478 },
   ]},
   { word: "LIGNIPERDOUS", page: "Plane", solve: "HASIK, OM", codes: [
-    { code: "LIG", valid: true, airport: "Limoges Airport", city: "Limoges", country: "France", lat: 45.862, lon: 1.179 },
-    { code: "NIP", valid: true, airport: "NAS Jacksonville", city: "Jacksonville, FL", country: "United States", lat: 30.236, lon: -81.681 },
-    { code: "ERD", valid: true, airport: "Berdyansk Airport", city: "Berdyansk", country: "Ukraine", lat: 46.815, lon: 36.758 },
-    { code: "OUS", valid: true, airport: "Ourinhos Airport", city: "Ourinhos", country: "Brazil", lat: -22.967, lon: -49.912 }
-  ]}
+    { code: "LIG", valid: true, airport: "Limoges Airport", city: "Limoges/Bellegarde", country: "FR", lat: 45.862801, lon: 1.17944 },
+    { code: "NIP", valid: true, airport: "Jacksonville Naval Air Station (Towers Field)", city: "Jacksonville", country: "US", lat: 30.2358, lon: -81.680603 },
+    { code: "ERD", valid: true, airport: "Berdyansk Airport", city: "Berdyansk", country: "UA", lat: 46.814999, lon: 36.758099 },
+    { code: "OUS", valid: true, airport: "Jornalista Benedito Pimentel Airport", city: "Ourinhos", country: "BR", lat: -22.966598, lon: -49.912049 },
+  ]},
+  { word: "MACHAIRODONT", page: "Plane", solve: "VELINGRAD, BG", codes: [
+    { code: "MAC", valid: true, airport: "Macon Downtown Airport", city: "Macon", country: "US", lat: 32.82210159, lon: -83.56199646 },
+    { code: "HAI", valid: true, airport: "Three Rivers Municipal Dr Haines Airport", city: "Three Rivers", country: "US", lat: 41.959801, lon: -85.593399 },
+    { code: "ROD", valid: true, airport: "Robertson Airport", city: "Robertson", country: "ZA", lat: -33.812199, lon: 19.9028 },
+    { code: "ONT", valid: true, airport: "Ontario International Airport", city: "Ontario", country: "US", lat: 34.056, lon: -117.600998 },
+  ]},
+  { word: "NARRISCHKEIT", page: "Plane", solve: "MARRAKESH, MA", codes: [
+    { code: "NAR", valid: true, airport: "Puerto Nare Airport", city: "Armenia", country: "CO", lat: 6.21002, lon: -74.5906 },
+    { code: "RIS", valid: true, airport: "Rishiri Airport", city: "Rishiri", country: "JP", lat: 45.2420005798, lon: 141.186004639 },
+    { code: "CHK", valid: true, airport: "Chickasha Municipal Airport", city: "Chickasha", country: "US", lat: 35.09740067, lon: -97.96769714 },
+    { code: "EIT", valid: false },
+  ]},
+  { word: "ODORIVECTORS", page: "Plane", solve: "ORLANDO, FL", codes: [
+    { code: "ODO", valid: true, airport: "Bodaybo Airport", city: "Bodaybo", country: "RU", lat: 57.866100311299995, lon: 114.242996216 },
+    { code: "RIV", valid: true, airport: "March Air Reserve Base", city: "Riverside", country: "US", lat: 33.880699, lon: -117.259003 },
+    { code: "ECT", valid: false },
+    { code: "ORS", valid: false },
+  ]},
+  { word: "SAPONIFIABLE", page: "Plane", solve: "CHARLOTTE, NC", codes: [
+    { code: "SAP", valid: true, airport: "Ramón Villeda Morales International Airport", city: "San Pedro Sula", country: "HN", lat: 15.4526, lon: -87.923599 },
+    { code: "ONI", valid: true, airport: "Moanamani Airport", city: "Moanamani", country: "ID", lat: -4.00659, lon: 136.037704 },
+    { code: "FIA", valid: false },
+    { code: "BLE", valid: true, airport: "Dala Airport", city: "Borlange", country: "SE", lat: 60.422001, lon: 15.5152 },
+  ]},
+  { word: "SERPENTICIDE", page: "Plane", solve: "EDMONTON, CA", codes: [
+    { code: "SER", valid: true, airport: "Freeman Municipal Airport", city: "Seymour", country: "US", lat: 38.923599243164, lon: -85.907402038574 },
+    { code: "PEN", valid: true, airport: "Penang International Airport", city: "Penang", country: "MY", lat: 5.296303, lon: 100.276185 },
+    { code: "TIC", valid: true, airport: "Tinak Airport", city: "Arno Atoll", country: "MH", lat: 7.121768, lon: 171.911584 },
+    { code: "IDE", valid: false },
+  ]},
+  { word: "SNALLYGASTER", page: "Plane", solve: "VLADIVOSTOK, RU", codes: [
+    { code: "SNA", valid: true, airport: "John Wayne Orange County International Airport", city: "Santa Ana", country: "US", lat: 33.675063, lon: -117.869281 },
+    { code: "LLY", valid: true, airport: "South Jersey Regional Airport", city: "Lumberton", country: "US", lat: 39.942902, lon: -74.845703 },
+    { code: "GAS", valid: true, airport: "Garissa Airport", city: "Garissa", country: "KE", lat: -0.463508, lon: 39.6483 },
+    { code: "TER", valid: true, airport: "Lajes Airport", city: "Praia da Vitória", country: "PT", lat: 38.761799, lon: -27.090799 },
+  ]},
+  { word: "TERAMORPHOUS", page: "Plane", solve: "COCHABAMBA, BO", codes: [
+    { code: "TER", valid: true, airport: "Lajes Airport", city: "Praia da Vitória", country: "PT", lat: 38.761799, lon: -27.090799 },
+    { code: "AMO", valid: true, airport: "Mao Airport", city: "Mao", country: "TD", lat: 14.1456, lon: 15.3144 },
+    { code: "RPH", valid: false },
+    { code: "OUS", valid: true, airport: "Jornalista Benedito Pimentel Airport", city: "Ourinhos", country: "BR", lat: -22.966598, lon: -49.912049 },
+  ]},
+  { word: "WINTERBOURNE", page: "Plane", solve: "TACURONG, PH", codes: [
+    { code: "WIN", valid: true, airport: "Winton Airport", city: "", country: "AU", lat: -22.36359977722168, lon: 143.08599853515625 },
+    { code: "TER", valid: true, airport: "Lajes Airport", city: "Praia da Vitória", country: "PT", lat: 38.761799, lon: -27.090799 },
+    { code: "BOU", valid: true, airport: "Bourges airport", city: "Bourges", country: "FR", lat: 47.060158, lon: 2.369633 },
+    { code: "RNE", valid: true, airport: "Roanne-Renaison Airport", city: "Saint-Léger-sur-Roanne", country: "FR", lat: 46.053818, lon: 3.999023 },
+  ]},
 ];
 
 const grid = document.getElementById('grid');
