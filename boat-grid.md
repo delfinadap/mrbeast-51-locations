@@ -86,7 +86,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 35 | 10+7 | Gold-Boat | **E** | Copenhagen, Denmark | Confirmed |
 | 36 | 7+7 | Green-Boat | **S** | Algiers, Algeria | Confirmed |
 | 37 | 4+7 | Yellow-Car | **U** | ??? | Unknown |
-| 38 | 5+5+9 | Purple-Plane | **L** | ??? | Unknown |
+| 38 | 5+5+9 | Purple-Plane | **L** | Derby Wharf, Australia | Unconfirmed |
 | 39 | 5+7 | Purple-Boat | **T** | Quito, Ecuador | Confirmed |
 | 40 | 5+6 | Green-Boat | **S** | Arles, France | Confirmed |
 | 41 | 8+6 | Red-Car | **I** | Istanbul, Turkey | Probable |
@@ -118,9 +118,9 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
 | 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Probable |
 | 69 | 11+6 | Purple-Plane | **L** | Vladivostok, Russia | Confirmed |
-| 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois / Nazaré, Portugal | Unconfirmed | Note: if beast.travel uses "NAZARE COAST PORTUGAL" (6+5+8), Nazaré could fit row 72 instead (pos 11=T ✓), freeing this row for DeKalb. |
+| 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois | Unconfirmed |
 | 71 | 4+4+8 | Green-Boat | **S** | Toad Suck, Arkansas | Confirmed |
-| 72 | 6+5+8 | Purple-Boat | **T** | ??? | Unknown |
+| 72 | 6+5+8 | Purple-Boat | **T** | Nazaré Coast, Portugal | Unconfirmed |
 | 73 | 12 | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
 | 74 | 10+9 | Brown-Boat | **A** | ??? | Unknown |
 | 75 | 5+4+7 | Silver-Boat | **R** | ??? (Benin City ruled out — cipher conflict) | Unknown |
