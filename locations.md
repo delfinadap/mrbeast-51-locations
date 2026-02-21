@@ -30,7 +30,7 @@
 
 | Screen | Location | Screen Content | Bank Clue | Decode | Confidence |
 |--------|----------|---------------|-----------|--------|------------|
-| 1 | BENIN CITY? | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | "Marc Benioff" = "mark BENI off" — scribbled section on screen is literally marking BENI off — visible N remains → BENIN. BeastBot hints: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." Backwards J = recade staff (Kingdom of Benin royal symbol) → points to **Benin City, Nigeria** rather than country. Multiple solvers converge independently. | Unconfirmed |
+| 1 | BENIN CITY? | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | "Marc Benioff" = "mark BENI off" — scribbled section on screen is literally marking BENI off — visible N remains → BENIN. BeastBot hints: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." Backwards J = recade staff (Kingdom of Benin royal symbol) → points to **Benin City, Nigeria** rather than country. Multiple solvers converge independently. **⚠️ beast.travel cipher conflict:** Row 75 (5+4+7, Silver-Boat) requires letter R at pos 8, but BENIN CITY NIGERIA gives T. | Unconfirmed |
 | 2 | **SEOUL** | Trench coat pieces | Calendar dates | BeastBot: "coat has a name with 8 letters that can be rearranged." Coat = RAINCOAT → anagram → **CROATIAN**. "Mrs. Maybelle isn't from around here" = use Croatian calendar (month names). Index circled dates (DD/MM) into Croatian month names → S-e-o-u-l → **SEOUL**. | Confirmed |
 | 3 | CAIRO | Can+Dylan+D rebus | Feastables shirt | Candyland color indexing on Feastables hoodie slogan → CAIRO. Community "certain." | Confirmed |
 | 4 | **UPPER HUTT, NZ** | Sine wave | Withdrawal slip (routing 650283979, acct 5480234354, Feb 5) | BeastBot: "sine waves go up and down in a regular pattern" + "there are no 1's... typical for this puzzle type. But there are 0's, which would normally be highly problematic." Apply cosine pattern (−1,+1,...) to digits → no 0s/1s. **T9 phone keypad decode → UPPER HUTT NEW ZEALAND.** BeastBot "no 0s/1s" hint directly supports T9 keypad. | Probable |
@@ -75,7 +75,7 @@
 | # (poster) | Location | Recipient | Decode | Confidence |
 |---|----------|-----------|--------|------------|
 | 1 | ALGIERS | Airrack | 7 pictures each hide "ERIC." First letters: A-L-G-I-E-R-S | Confirmed |
-| 2 | TAMPA | Sketch | "Angry Lair" → "Mad Den" → Madden 99 → BUCS HOME → Tampa Bay. | Confirmed |
+| 2 | **TAMPA BAY** | Sketch | "Angry Lair" → "Mad Den" → Madden 99 → BUCS HOME → Tampa Bay. **beast.travel confirms "Tampa Bay" (5+3+7) at row 63, not "Tampa" (5+7).** Cipher: Silver-Boat=R, pos 12 of FLORIDA = R. ✓ | Confirmed |
 | 3 | **WICHITA** | Jimmy Fallon | Jigsaw → "JIMMYS BIRTHPLACE." BeastBot: "present is more reflective of the giver" = MrBeast born in Wichita, KS. | Confirmed |
 | 4 | TIERRA DEL FUEGO | Quackity | Sword with text + Beagle Channel | Confirmed |
 | 5 | DEKALB | Hayleybaylee | Rings puzzle → DeKalb, Illinois | Confirmed |
@@ -139,7 +139,7 @@
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
 | C1 | ??? | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Identified but unsolved. Likely the "How to Play" video on mrbeast.salesforce.com. | Puzzle confirmed, unsolved |
-| C2 | **BABYLON?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate = babble → BABBLE ON → **BABYLON**. | Probable |
+| C2 | **BABYLON?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate = babble → BABBLE ON → **BABYLON**. **⚠️ beast.travel grid has no 7+4 row anywhere — BABYLON IRAQ doesn't fit any pattern.** | Probable |
 
 ### Additional Candidates
 
@@ -195,6 +195,31 @@ These things are **NOT** puzzles: four clocks, Mike's bat shirt, tank insignia, 
 
 ### Hint #11 (Feb 19)
 For beast.travel car trips: "Take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname (not the phrase as its name or translation)."
+
+---
+
+---
+
+## beast.travel — Decoded Message (Vehicle-Color Cipher)
+
+The boat page (91 rows) contains a **substitution cipher**: each vehicle icon (color + type) always replaces the same letter. This was verified across 50 of 51 confirmed destination rows with zero exceptions.
+
+**Full decoded message (91 letters):**
+
+> IN JIMMY'S VAULT, FIRST PART STICKS ROAMY RESULTS IN BETWEEN STAGE ONE ANSWER PAIRS. LAST PART HE SHOWED AT START.
+
+**Interpretation:**
+1. **FIRST PART:** Interleave ("stick") the beast.travel ("Roamy") results in between Stage One answer pairs
+2. **LAST PART:** Something "he showed at the start" (beginning of commercial/video)
+
+**Cipher key (26 vehicle-color combos → letters):**
+- Boats: Brown=A, Gold=E, Green=S, Purple=T, Silver=R
+- Cars: Black=Y, Blue=C, Green=B, Purple=M, Red=I, Yellow=U
+- Horses: Black=K, Blue=D, Green=V, Purple=G, Red=H, Yellow=W
+- Planes: Blue=J, Green=N, Purple=L, Red=O, Yellow=P
+- Black-Plane=F (inferred)
+
+**Status:** 50/51 confirmed rows match cipher perfectly. Only row 16 (7+7, Silver-Boat=R) has no known destination.
 
 ---
 

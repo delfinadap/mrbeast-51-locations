@@ -6,7 +6,7 @@
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
 
-**Status:** 28 confirmed, 9 probable, 4 unconfirmed = 41 with answers, ~2 undiscovered | *Feb 20, 2026*
+**Status:** 28 confirmed, 9 probable, 4 unconfirmed = 41 destinations + boat page (91-row grid, cipher decoded) | *Feb 21, 2026*
 
 ---
 
@@ -14,7 +14,7 @@
 
 - **Main tagline:** "We're the winning combination / For your worldwide vacation!"
 - **Sub-tagline:** "We're opening a new stage to our fine organizations. / Here is but a sample of our brand-new destinations!"
-- **Boat mode teased:** "A NEW WAY TO TRAVEL COMING SOON!" on every page.
+- **Boat page:** NOW LIVE — 91 rows, each with colored vehicle icons that encode letters via substitution cipher.
 
 ---
 
@@ -83,6 +83,55 @@
 | TERAMORPHOUS | NEW | **COCHABAMBA, Bolivia** — Christ of the Concord. | Confirmed |
 | WINTERBOURNE | NEW | **TACURONG, Philippines** — Talakudong Rotunda. | Confirmed |
 | ??? | ??? | 2 more undiscovered | Undiscovered |
+
+---
+
+## Photo Puzzle (separate layer)
+
+Car photo puzzle → **REGINA, Saskatchewan, Canada**. Horse and Plane photo puzzles unsolved.
+
+---
+
+## Boat (91 rows — vehicle-color substitution cipher)
+
+*"You can fill in all the spaces / And take a boat to all these places / You'll find our transports shown within / They'll give you all you need to win"*
+
+The boat page shows 91 rows of white squares with occasional colored vehicle icons (boats, cars, horses, planes). Each row represents a Stage 1 location in "City Country" format (or state/province for US/Canada). The vehicle icons replace specific letters.
+
+### Vehicle-Color Cipher
+
+**Discovery:** Each (color, vehicle) combination *always* replaces the same letter — a simple substitution cipher. Verified across 50/51 confirmed rows with zero exceptions.
+
+| Vehicle | Brown | Gold | Green | Purple | Silver | Black | Blue | Red | Yellow |
+|---------|-------|------|-------|--------|--------|-------|------|-----|--------|
+| **Boat** | A | E | S | T | R | — | — | — | — |
+| **Car** | — | — | B | M | — | Y | C | I | U |
+| **Horse** | — | — | V | G | — | K | D | H | W |
+| **Plane** | — | — | N | L | — | F | J | O | P |
+
+### Decoded Message (91 letters)
+
+Reading the cipher letter from each row in order spells:
+
+> **IN JIMMY'S VAULT, FIRST PART STICKS ROAMY RESULTS IN BETWEEN STAGE ONE ANSWER PAIRS. LAST PART HE SHOWED AT START.**
+
+**Interpretation:**
+1. **FIRST PART:** Interleave ("stick") the beast.travel ("Roamy") results in between Stage One answer pairs
+2. **LAST PART:** Something "he showed at the start" (beginning of commercial/video)
+
+### Grid Status
+
+- **91 total rows:** 15 Car + 9 Horse + 16 Plane + 51 Boat
+- **52 rows** matched to known Stage 1 destinations
+- **39 rows** letter known from cipher only (destination unknown)
+- **50/51** confirmed destinations match their cipher letter perfectly
+- **1 exception:** Row 16 (7+7, Silver-Boat=R) — no known destination fits
+
+### Notable Cipher Findings
+
+- **Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 — Silver-Boat at pos 12 of FLORIDA = R. ✓ Previously assumed "TAMPA FLORIDA" (5+7) at row 17, which conflicted with cipher (Green-Boat=S ≠ T).
+- **Benin City conflict:** Row 75 (5+4+7) requires R at pos 8, but BENIN CITY NIGERIA gives T. Location may be wrong.
+- **Babylon no-fit:** No 7+4 pattern exists anywhere on the grid. BABYLON IRAQ has no home.
 
 ---
 

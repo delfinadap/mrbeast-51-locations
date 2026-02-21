@@ -7,7 +7,7 @@
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|
 | 1 | Playlist | MAPUTO | First letters of "Missing A Playlist? Use This One:" | Confirmed |
-| 2 | Screen 1 + Bank | **BENIN CITY?** | "Mark BENI off" from Benioff. Backwards-J = recade (Benin symbol). | Unconfirmed |
+| 2 | Screen 1 + Bank | **BENIN CITY?** | "Mark BENI off" from Benioff. ⚠️ Cipher conflict at row 75 (needs R, gets T). | Unconfirmed |
 | 3 | Screen 2 + Bank | **SEOUL** | RAINCOAT → anagram → CROATIAN. Croatian calendar month names + circled dates (DD/MM) → SEOUL. | Confirmed |
 | 4 | Screen 3 + Bank | CAIRO | Candyland rebus + Feastables shirt. | Confirmed |
 | 5 | Screen 4 + Bank | **UPPER HUTT** | Cosine pattern removes 0s/1s → T9 keypad → UPPER HUTT NEW ZEALAND. | Probable |
@@ -32,7 +32,7 @@
 | 24 | Commercial | ??? | Camel/Llama (BeastBot confirmed, "BEASTLAND" = Saudi Arabia) | Unsolved |
 | 25 | Commercial | ??? | 12th commercial puzzle — not yet identified | Unsolved |
 | 26 | Gift | ALGIERS | Airrack — 7 pictures hide "ERIC." First letters A-L-G-I-E-R-S | Confirmed |
-| 27 | Gift | TAMPA | Sketch — Madden 99 → BUCS HOME. | Confirmed |
+| 27 | Gift | **TAMPA BAY** | Sketch — Madden 99 → BUCS HOME. beast.travel confirms 5+3+7 format. | Confirmed |
 | 28 | Gift | **WICHITA** | Fallon — "JIMMYS BIRTHPLACE" = MrBeast born Wichita. | Confirmed |
 | 29 | Gift | TIERRA DEL FUEGO | Quackity — Sword + Beagle Channel | Confirmed |
 | 30 | Gift | DEKALB | Hayleybaylee — Rings → DeKalb, Illinois | Confirmed |
@@ -52,7 +52,7 @@
 | 44 | SF: Physical (B2) | **NOME** | Billboard letters — "e mon" backwards. | Confirmed |
 | 45 | SF: Physical (B3) | **DIMTU** | Billboard numbers — 04 09 13 20 21 → DIMTU. | Confirmed |
 | 46 | SF: Site (C1) | ??? | Dot-Dollar / "How?" video — unsolved | Unsolved |
-| 47 | SF: Site (C2) | **BABYLON?** | FAQ — "PRATE OR THIS" → babble on → BABYLON. | Probable |
+| 47 | SF: Site (C2) | **BABYLON?** | FAQ — "PRATE OR THIS" → babble on → BABYLON. ⚠️ No 7+4 row on grid. | Probable |
 | 48 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
 | 49 | Lone Shark | ILE DE LA POSSESSION | Podcast anagram | Confirmed |
 | 50 | Lone Shark | ASCENSION ISLAND | BoardGameGeek acrostic | Confirmed |
