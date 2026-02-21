@@ -148,7 +148,7 @@ Car photo puzzle → **REGINA, Saskatchewan, Canada**. Horse and Plane photo puz
 - **Lords of Vegas carousel:** 6 colors (Black, Red, Yellow, Green, Blue, Purple) cycle on each page. Function unknown — may relate to ordering.
 - **Image captions vary** — "Join us at," "See lovely," "Meet us at," etc. Could be extraction keys.
 - **"Winning combination"** — homepage tagline. May signal combinatorial puzzle mechanic.
-- **Boat names (unverified):** THE SPHINX (yellow), THE PIONEER (brown), THE VEGA (green), THE ALBION (purple), + 1 unreadable (white).
+- **Boat names:** THE SPHINX (yellow), THE PIONEER (brown), THE VEGA (green), THE ALBION (purple), THE TIVOLI (white/silver). Last one identified by will.i.ham (Feb 20).
 
 ---
 
