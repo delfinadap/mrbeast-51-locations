@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**35 confirmed, 4 probable, 5 unconfirmed = 44 with answers, 7 unsolved/denied** | *Feb 21, 2026*
+**35 confirmed, 6 probable, 4 unconfirmed = 45 with answers, 6 unsolved/denied** | *Feb 21, 2026*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -41,7 +41,7 @@
 | 33 | Gift | DIVO | McKenna — Card trick → Divo, Côte d'Ivoire | Confirmed |
 | 34 | Gift | COPENHAGEN | Pierson — Blender → HAFNIUM CITY | Confirmed |
 | 35 | Gift | BUFFALO | Botez — Chess Game 6 cipher | Confirmed |
-| 36 | Gift Unifier | ??? | Golden Present Matrix — 10 numbered squares with (x,y) pairs. | Unsolved |
+| 36 | Gift Unifier | **SUCRE, Bolivia** | Golden Present Matrix → "A NICE SUGAR" → Nice (France) + sugar (French) = Sucre | Probable |
 | 37 | YT Short | **QUITO, Ecuador** | Mirror video — KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador" | Confirmed |
 | 38 | YT Short | **SOUTH POLE?** | Chocolate heart — community intel (Feb 21) says South Pole, replaces Alofi Niue at grid row 54 | Unconfirmed |
 | 39 | SF: BTS (A1) | **MALÉ, Maldives?** | Malcolm — "Male Mal dives." | Probable |

@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 35 confirmed, 4 probable, 5 unconfirmed = 44 with answers, 7 unsolved/denied.
+**Status:** 35 confirmed, 6 probable, 4 unconfirmed = 45 with answers, 6 unsolved/denied.
 
-**Last updated:** Feb 21, 2026. South Pole added for Short #2 (replaces Alofi Niue). titanichoop.com added to crossword.
+**Last updated:** Feb 21, 2026. Sucre Bolivia = Gift Unifier (Probable). Yellowstone promoted to Probable. South Pole for Short #2. Heard Island → row 29. titanichoop.com in crossword.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -87,13 +87,13 @@
 
 ---
 
-## Category 5: Gift Unifier (0 of 1)
+## Category 5: Gift Unifier (1 of 1) ✅
 
 *"The 1 puzzle that unites them."*
 
 | # | Location | Puzzle | Decode | Confidence |
 |---|----------|--------|--------|------------|
-| 1 | ??? | **Golden Present Matrix** | Golden present image on BTS page has 10 numbered squares with (x,y) pairs. Y values likely index into location names. No extraction cracked yet. | Unsolved |
+| 1 | **SUCRE, Bolivia** | **Golden Present Matrix** | Index y values into gift location names → "A NICE SUGAR" → Nice (France) → sugar in French = Sucre → Sucre, Bolivia. Multiple solvers (SarahB, SelvyTheBlasphemer, Josiah). Fits boat grid row 17 (5+7, S at pos 1 ✓). | Probable |
 
 ---
 
@@ -179,12 +179,12 @@
 | Screen + Bank (paired) | 12 | 9 | 3 (Screen 9 unsolved, Screen 10 unsolved, Screen 11 denied) |
 | Non-screen commercial | 12 | 10 | 2 (camel/llama unsolved, 12th puzzle unidentified) |
 | Gifts | 10 | 10 | 0 |
-| Gift unifier | 1 | 0 | 1 |
-| YouTube shorts/TikTok | 2 | 1 | 1 (chocolate heart unsolved) |
+| Gift unifier | 1 | 1 | 0 |
+| YouTube shorts/TikTok | 2 | 2 | 0 |
 | Salesforce site/social | 9 | 8 | 1 (dot-dollar unsolved) |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~43** | **~8** |
+| **TOTAL** | **51** | **~45** | **~6** |
 
 ---
 
