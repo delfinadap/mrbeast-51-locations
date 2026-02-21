@@ -102,7 +102,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 51 | 6+10 | Purple-Boat | **T** | Maputo, Mozambique | Confirmed |
 | 52 | 6+6 | Brown-Boat | **A** | Ankara, Turkey | Confirmed |
 | 53 | 7+6+8 | Purple-Horse | **G** | Castelo Branco, Portugal | Confirmed |
-| 54 | 5+4 | Gold-Boat | **E** | **Alofi, Niue** | Probable |
+| 54 | 5+4 | Gold-Boat | **E** | **South Pole? / Alofi, Niue?** | Unconfirmed |
 | 55 | 9+7 | Red-Plane | **O** | Marrakesh, Morocco | Confirmed |
 | 56 | 8+7 | Green-Plane | **N** | Edmonton, Alberta | Confirmed |
 | 57 | 5+5 | Gold-Boat | **E** | ??? (no known dest gives E at pos 7) | Unknown |
@@ -175,7 +175,7 @@ These destinations have been identified but **don't fit any row** on the grid:
 
 ## Notable Deductions
 
-- **Row 54 = Alofi, Niue:** NIUE is the only 4-letter country/state/province ending in E. ALOFI (capital, pop. ~600) is the most notable 5-letter city. Near-certain from grid constraint alone — Stage 1 puzzle source unknown.
+- **Row 54 = South Pole? (was Alofi, Niue):** Community intel (Feb 21) says South Pole from YouTube Short #2 (chocolate heart) replaces Alofi. Both fit 5+4 ending in E. South Pole has a known puzzle source; Alofi was deduced from grid pattern only.
 - **Row 57 = undiscovered location:** Must be 5+5 with E at position 7 (2nd letter of word 2). No known Stage 1 destination fits. This is likely one of the ~8 unsolved Stage 1 puzzles.
 - **Row 63 = Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 with Silver-Boat=R at pos 12 (R in FLORIDA). Previously assumed "TAMPA FLORIDA" (5+7) which conflicted.
 - **Seoul = row 28:** Format is "SEOUL SOUTH KOREA" (5+5+5), not "SEOUL KOREA" (5+5). Grid pattern change on Feb 20 confirmed this.

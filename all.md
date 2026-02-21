@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**35 confirmed, 4 probable, 4 unconfirmed = 43 with answers, 8 unsolved/denied** | *Feb 20, 2026*
+**35 confirmed, 4 probable, 5 unconfirmed = 44 with answers, 7 unsolved/denied** | *Feb 21, 2026*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -43,7 +43,7 @@
 | 35 | Gift | BUFFALO | Botez — Chess Game 6 cipher | Confirmed |
 | 36 | Gift Unifier | ??? | Golden Present Matrix — 10 numbered squares with (x,y) pairs. | Unsolved |
 | 37 | YT Short | **QUITO, Ecuador** | Mirror video — KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador" | Confirmed |
-| 38 | YT Short | ??? | Chocolate heart — MrBeast + Amaury Gaichon | Unsolved |
+| 38 | YT Short | **SOUTH POLE?** | Chocolate heart — community intel (Feb 21) says South Pole, replaces Alofi Niue at grid row 54 | Unconfirmed |
 | 39 | SF: BTS (A1) | **MALÉ, Maldives?** | Malcolm — "Male Mal dives." | Probable |
 | 40 | SF: BTS (A2) | **ITURUP** | Submarine Math — grid + subscriber count → ASCII. | Confirmed |
 | 41 | SF: BTS (A3) | YELLOWKNIFE | Puzzle Maker — BTS video 6:19. | Confirmed |

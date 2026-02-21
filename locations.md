@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 35 confirmed, 4 probable, 4 unconfirmed = 43 with answers, 8 unsolved/denied.
+**Status:** 35 confirmed, 4 probable, 5 unconfirmed = 44 with answers, 7 unsolved/denied.
 
-**Last updated:** Feb 20, 2026.
+**Last updated:** Feb 21, 2026. South Pole added for Short #2 (replaces Alofi Niue). titanichoop.com added to crossword.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -104,7 +104,7 @@
 | # | Location | Video | Notes | Confidence |
 |---|----------|-------|-------|------------|
 | 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" | 5 red items → phonetic: KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador." BeastBot confirms cow, bear, and red doors. | Confirmed |
-| 2 | ??? | Chocolate heart (XbaZ45LVzzM) | MrBeast + Amaury Gaichon. Connected to Jim/Monika heart theme. | Unsolved |
+| 2 | **SOUTH POLE?** | Chocolate heart (XbaZ45LVzzM) | MrBeast + Amaury Gaichon. Community intel (Feb 21): South Pole for this short, replacing Alofi Niue at boat grid row 54 (5+4, ends in E ✓). | Unconfirmed |
 
 ---
 
@@ -167,7 +167,7 @@
 
 | # | Location | Decode | Confidence |
 |---|----------|--------|------------|
-| 1 | EYJAFJALLAJOKULL | 16 circled cells anagram. 1A = ICELAND supports it. | Confirmed |
+| 1 | EYJAFJALLAJOKULL | 16 circled cells anagram. 1A = ICELAND supports it. **titanichoop.com** (registered same day as beast.travel) shows AI image of Titanic + erupting volcano — confirms TITANIC HOOP + EYJAFJALLAJOKULL link. | Confirmed |
 
 ---
 
