@@ -2,7 +2,7 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 35 confirmed, 5 probable, 3 unconfirmed = 43 with answers, 8 unsolved/denied.
+**Status:** 35 confirmed, 4 probable, 4 unconfirmed = 43 with answers, 8 unsolved/denied.
 
 **Last updated:** Feb 20, 2026.
 
@@ -139,7 +139,7 @@
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
 | C1 | ??? | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Identified but unsolved. Likely the "How to Play" video on mrbeast.salesforce.com. | Puzzle confirmed, unsolved |
-| C2 | **BABYLON?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate = babble → BABBLE ON → **BABYLON**. **⚠️ beast.travel grid has no 7+4 row anywhere — BABYLON IRAQ doesn't fit any pattern.** | Probable |
+| C2 | **BABYLON?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate = babble → BABBLE ON → **BABYLON**. **⚠️ beast.travel grid has no 7+4 row anywhere — BABYLON IRAQ doesn't fit any pattern.** | Unconfirmed |
 
 ### Additional Candidates
 

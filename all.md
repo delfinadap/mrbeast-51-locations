@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**35 confirmed, 5 probable, 3 unconfirmed = 43 with answers, 8 unsolved/denied** | *Feb 20, 2026*
+**35 confirmed, 4 probable, 4 unconfirmed = 43 with answers, 8 unsolved/denied** | *Feb 20, 2026*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -52,7 +52,7 @@
 | 44 | SF: Physical (B2) | **NOME** | Billboard letters — "e mon" backwards. | Confirmed |
 | 45 | SF: Physical (B3) | **DIMTU** | Billboard numbers — 04 09 13 20 21 → DIMTU. | Confirmed |
 | 46 | SF: Site (C1) | ??? | Dot-Dollar / "How?" video — unsolved | Unsolved |
-| 47 | SF: Site (C2) | **BABYLON?** | FAQ — "PRATE OR THIS" → babble on → BABYLON. ⚠️ No 7+4 row on grid. | Probable |
+| 47 | SF: Site (C2) | **BABYLON?** | FAQ — "PRATE OR THIS" → babble on → BABYLON. ⚠️ No 7+4 row on grid. | Unconfirmed |
 | 48 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
 | 49 | Lone Shark | ILE DE LA POSSESSION | Podcast anagram | Confirmed |
 | 50 | Lone Shark | ASCENSION ISLAND | BoardGameGeek acrostic | Confirmed |
