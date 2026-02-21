@@ -65,7 +65,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 14 | 5+10+4 | Black-Plane | **F** | ??? | Unknown |
 | 15 | 4+10 | Red-Car | **I** | Baku, Azerbaijan | Confirmed |
 | 16 | 7+7 | Silver-Boat | **R** | ??? | Unknown |
-| 17 | 5+7 | Green-Boat | **S** | ??? (needs S at pos 1) | Unknown |
+| 17 | 5+7 | Green-Boat | **S** | Sucre, Bolivia | Unconfirmed |
 | 18 | 5+5 | Purple-Boat | **T** | Cairo, Egypt | Confirmed |
 | 19 | 4+5 | Yellow-Plane | **P** | Pune, India | Confirmed |
 | 20 | 7+3+4 | Brown-Boat | **A** | Buffalo, New York | Confirmed |
