@@ -118,7 +118,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
 | 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Probable |
 | 69 | 11+6 | Purple-Plane | **L** | Vladivostok, Russia | Confirmed |
-| 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois | Confirmed |
+| 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois / Nazaré, Portugal | Confirmed |
 | 71 | 4+4+8 | Green-Boat | **S** | Toad Suck, Arkansas | Confirmed |
 | 72 | 6+5+8 | Purple-Boat | **T** | ??? | Unknown |
 | 73 | 12 | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
