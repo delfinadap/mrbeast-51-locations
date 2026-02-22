@@ -6,7 +6,7 @@
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
 
-**Status:** 28 confirmed, 8 probable, 5 unconfirmed = 41 destinations + boat page (91-row grid, cipher decoded) | *Feb 21, 2026*
+**Status:** 28 confirmed, 10 probable, 2 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 22, 2026 ~12:53 PM PT*
 
 ---
 
@@ -35,7 +35,7 @@
 | OCHROLEUCOUS | "Drop in on" | "Pearl of the North" (Arabic) | **MOSUL, Iraq** — only Arabic-speaking "Pearl of the North." | Confirmed |
 | RECEPTACULAR | "Stay at" | "City of Roses" + "City of Ruins" | **VISBY, Sweden** — Gotland island. | Confirmed |
 | RISORGIMENTO | "Take in" | "City on Two Continents" | **ISTANBUL, Turkey**.| Probable |
-| SALAMANDROID | "Stop off at" | "Lady of the Sea" | **NANTUCKET, MA?** — "The Little Grey Lady of the Sea." ⚠️ Grid conflict: 9+13 fits no car row. Row 7 (5+5) needs this puzzle — Genoa Italy fits grid but not nickname. | Unconfirmed |
+| SALAMANDROID | "Stop off at" | "Lady of the Sea" | **GENOA, Italy** — Genoa is widely called "Lady of the Sea" (italysegreta.com, tamarathiessen.com). **Grid fit: Row 7 (5+5), Black-Car=Y at pos 10 → ITALY[5]=Y ✓.** Nantucket MA (9+13) fits no grid row. | Probable |
 | SCAPULOMANCY | "Relax at" | "Island of Death" | **MAYOTTE, France** — derives from Arabic "Island of Death" (Mawt). | Probable |
 | THEANTHROPIC | "Encounter" | "Motherland of Cherry" | **GIRESUN, Turkey** — official city website: "Motherland of Cherry." Ancient name Kerasus = root of "cherry." | Probable |
 | ULTRAMONTANE | "Hop over to" | "Valley of the Rouge" | **L'ASCENSION, Quebec** — known as "La Vallée de la Rouge." CanCon = Canadian Content. | Unconfirmed |
@@ -132,7 +132,7 @@ Reading the cipher letter from each row in order spells:
 - **Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 — Silver-Boat at pos 12 of FLORIDA = R. ✓ Previously assumed "TAMPA FLORIDA" (5+7) at row 17, which conflicted with cipher (Green-Boat=S ≠ T).
 - **Kandi, Benin conflict:** Row 75 (5+4+7) requires R at pos 8, but KANDI BENIN gives uncertain fit. Location may be wrong.
 - **~~Babylon no-fit~~:** Superseded — FAQ answer is now Gaborone, Botswana (8+8 → row 8, S ✓). Babylon had no grid fit.
-- **4 car cities don't fit:** Maiduguri (9+7), Winnipeg (8+8), Nantucket (9+13), Mayotte (7+6) match no car row. 4 car rows remain open: Row 6 (7, M@1), Row 7 (5+5, Y@10), Row 32 (5+9, M@1), Row 37 (4+7, U@2).
+- **2 car cities don't fit:** Maiduguri (9+7), Winnipeg (8+8) match no car row. Resolved: Mayotte → Row 6, Genoa Italy → Row 7, Moora Australia → Row 32, Mubi Nigeria → Row 37.
 - **3 plane format issues:** Derby (5+9), Hasik (5+4), Tacurong (8+11) don't match open plane rows 14 (5+10+4), 38 (5+5+9), 64 (8+3+11). GeoGuessr locations confirmed but beast.travel name format uncertain.
 
 ---
