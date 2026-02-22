@@ -85,12 +85,6 @@
 
 ---
 
-## Photo Puzzle (separate layer)
-
-Car photo puzzle → **REGINA, Saskatchewan, Canada**. Horse and Plane photo puzzles unsolved.
-
----
-
 ## Boat (91 rows — vehicle-color substitution cipher)
 
 *"You can fill in all the spaces / And take a boat to all these places / You'll find our transports shown within / They'll give you all you need to win"*
@@ -133,12 +127,6 @@ Reading the cipher letter from each row in order spells:
 - **~~Babylon no-fit~~:** Superseded — FAQ answer is now Gaborone, Botswana (8+8 → row 8, S ✓). Babylon had no grid fit.
 - **2 car cities don't fit:** Maiduguri (9+7), Winnipeg (8+8) match no car row. Resolved: Mayotte → Row 6, Genoa Italy → Row 7, Moora Australia → Row 32, Mubi Nigeria → Row 37.
 - **3 plane format issues:** Derby (5+9), Hasik (5+4), Tacurong (8+11) don't match open plane rows 14 (5+10+4), 38 (5+5+9), 64 (8+3+11). GeoGuessr locations confirmed but beast.travel name format uncertain.
-
----
-
-## Photo Puzzle (separate layer)
-
-Car photo puzzle → **REGINA, Saskatchewan, Canada**. Horse and Plane photo puzzles unsolved.
 
 ---
 
