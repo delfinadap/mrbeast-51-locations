@@ -138,8 +138,8 @@
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
-| C1 | ??? | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Identified but unsolved. Likely the "How to Play" video on mrbeast.salesforce.com. | Puzzle confirmed, unsolved |
-| C2 | **BABYLON?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate = babble → BABBLE ON → **BABYLON**. **⚠️ beast.travel grid has no 7+4 row anywhere — BABYLON IRAQ doesn't fit any pattern.** | Unconfirmed |
+| C1 | **ANTANANARIVO, MG?** | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Nick's dot puzzle solve → Antananarivo, Madagascar. BeastBot confirmed. Grid row 86 (12+10), Purple-Boat=T at pos 3 → T ✓. | Probable |
+| C2 | **GABORONE, BW?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate synonym = **GABS** = nickname for **Gaborone**, Botswana. Grid row 8 (8+8), Green-Boat=S at pos 12 → S ✓. Supersedes Babylon theory (no grid fit). | Probable |
 
 ### Additional Candidates
 

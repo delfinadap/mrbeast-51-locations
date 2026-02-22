@@ -131,7 +131,7 @@ Reading the cipher letter from each row in order spells:
 
 - **Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 — Silver-Boat at pos 12 of FLORIDA = R. ✓ Previously assumed "TAMPA FLORIDA" (5+7) at row 17, which conflicted with cipher (Green-Boat=S ≠ T).
 - **Benin City conflict:** Row 75 (5+4+7) requires R at pos 8, but BENIN CITY NIGERIA gives T. Location may be wrong.
-- **Babylon no-fit:** No 7+4 pattern exists anywhere on the grid. BABYLON IRAQ has no home.
+- **~~Babylon no-fit~~:** Superseded — FAQ answer is now Gaborone, Botswana (8+8 → row 8, S ✓). Babylon had no grid fit.
 - **4 car cities don't fit:** Maiduguri (9+7), Winnipeg (8+8), Nantucket (9+13), Poveglia (8+5) match no car row. 4 car rows remain open: Row 6 (7, M@1), Row 7 (5+5, Y@10), Row 32 (5+9, M@1), Row 37 (4+7, U@2).
 - **3 plane format issues:** Derby (5+9), Hasik (5+4), Tacurong (8+11) don't match open plane rows 14 (5+10+4), 38 (5+5+9), 64 (8+3+11). GeoGuessr locations confirmed but beast.travel name format uncertain.
 

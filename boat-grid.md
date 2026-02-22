@@ -169,7 +169,7 @@ These destinations have been identified but **don't fit any row** on the grid:
 | City | Row | Problem |
 |------|-----|---------|
 | ~~Benin City, Nigeria~~ | 75 | Cipher says R at pos 8, but Benin City gives T. Ruled out. |
-| Babylon, Iraq | — | No 7+4 row exists anywhere on the grid. |
+| ~~Babylon, Iraq~~ | — | No 7+4 row exists. Superseded by Gaborone, Botswana (8+8 → row 8). |
 
 ---
 

@@ -51,8 +51,8 @@
 | 43 | SF: Physical (B1) | **NAZARÉ** | Tower LED video — "SURF RECORD SITE WITH ARGENT HUE." | Confirmed |
 | 44 | SF: Physical (B2) | **NOME** | Billboard letters — "e mon" backwards. | Confirmed |
 | 45 | SF: Physical (B3) | **DIMTU** | Billboard numbers — 04 09 13 20 21 → DIMTU. | Confirmed |
-| 46 | SF: Site (C1) | ??? | Dot-Dollar / "How?" video — unsolved | Unsolved |
-| 47 | SF: Site (C2) | **BABYLON?** | FAQ — "PRATE OR THIS" → babble on → BABYLON. ⚠️ No 7+4 row on grid. | Unconfirmed |
+| 46 | SF: Site (C1) | **ANTANANARIVO?** | Dot-Dollar / "How?" video — Nick's dot solve, BeastBot confirmed. Grid row 86 (12+10) ✓. | Probable |
+| 47 | SF: Site (C2) | **GABORONE?** | FAQ — "PRATE OR THIS" → prate synonym = GABS = Gaborone, Botswana. Grid row 8 (8+8) ✓. | Probable |
 | 48 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
 | 49 | Lone Shark | ILE DE LA POSSESSION | Podcast anagram | Confirmed |
 | 50 | Lone Shark | ASCENSION ISLAND | BoardGameGeek acrostic | Confirmed |
