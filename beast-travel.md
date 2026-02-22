@@ -60,7 +60,7 @@
 
 ---
 
-## Plane (17 destinations — GeoGuessr)
+## Plane (16 destinations — GeoGuessr)
 
 *"For all our favorite travel nerds / A picture's worth a thousand words / To find these spots will be no stressor / If you think like a…"*
 
@@ -82,7 +82,6 @@
 | SNALLYGASTER | NEW | **VLADIVOSTOK, Russia** — Golden Horn Bay. | Confirmed |
 | TERAMORPHOUS | NEW | **COCHABAMBA, Bolivia** — Christ of the Concord. | Confirmed |
 | WINTERBOURNE | NEW | **TACURONG, Philippines** — Talakudong Rotunda. ⚠️ Format conflict: 8+11 doesn't match row 64 (8+3+11). | Confirmed |
-| ??? | ??? | 2 more undiscovered | Undiscovered |
 
 ---
 
