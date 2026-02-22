@@ -7,7 +7,7 @@
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|
 | 1 | Playlist | MAPUTO | First letters of "Missing A Playlist? Use This One:" | Confirmed |
-| 2 | Screen 1 + Bank | **KANDI, BENIN?** | >J> backwards = KJI → K AND I = KANDI + Benioff → BENIN. Grid row 57 (5+5) ✓. | Unconfirmed |
+| 2 | Screen 1 + Bank | **KANDI, BENIN?** | >J> backwards = KJI → K AND I = KANDI + Benioff → BENIN. Grid row 57 (5+5) ✓. | Probable |
 | 3 | Screen 2 + Bank | **SEOUL** | RAINCOAT → anagram → CROATIAN. Croatian calendar month names + circled dates (DD/MM) → SEOUL. | Confirmed |
 | 4 | Screen 3 + Bank | CAIRO | Candyland rebus + Feastables shirt. | Confirmed |
 | 5 | Screen 4 + Bank | **UPPER HUTT** | Cosine pattern removes 0s/1s → T9 keypad → UPPER HUTT NEW ZEALAND. | Probable |

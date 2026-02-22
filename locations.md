@@ -2,7 +2,7 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 37 confirmed, 6 probable, 4 unconfirmed = 47 with answers, 4 unsolved/denied.
+**Status:** 37 confirmed, 7 probable, 3 unconfirmed = 47 with answers, 4 unsolved/denied.
 
 **Last updated:** Feb 21, 2026 ~8:21 PM PT. Antananarivo → Confirmed. Screen 9: Windsor ON? (Unconfirmed) + new BeastBot semaphore hint. Yellowstone → Confirmed. Kandi Benin (Probable). Mayotte replaces Poveglia (Probable).
 
