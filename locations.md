@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 37 confirmed, 7 probable, 3 unconfirmed = 47 with answers, 4 unsolved/denied.
+**Status:** 39 confirmed, 6 probable, 3 unconfirmed = 48 with answers, 3 unsolved.
 
-**Last updated:** Feb 21, 2026 ~8:21 PM PT. Antananarivo → Confirmed. Screen 9: Windsor ON? (Unconfirmed) + new BeastBot semaphore hint. Yellowstone → Confirmed. Kandi Benin (Probable). Mayotte replaces Poveglia (Probable).
+**Last updated:** Feb 22, 2026 09:33 AM PT. Lower Hutt confirmed (was Upper Hutt). Doha Qatar confirmed for Screen 11. Moora Australia → Row 32 (HEKISTOTHERM). Mubi Nigeria → Row 37 (FURFURACEOUS). Mayotte → Row 6 (SCAPULOMANCY).
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -33,14 +33,14 @@
 | 1 | **KANDI, BENIN** | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | NaughtyKatsuragi (Feb 22): `>J>` read backwards alphabetically = K, J, I → swap J for "and" → **K AND I** → **KANDI**. "Marc Benioff" → **BENIN**. BeastBot: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." **Grid fit: Row 57 (5+5), Gold-Boat=E at pos 7 → BENIN[2]=E ✓.** Supersedes Benin City (had no valid grid fit). | Probable |
 | 2 | **SEOUL** | Trench coat pieces | Calendar dates | BeastBot: "coat has a name with 8 letters that can be rearranged." Coat = RAINCOAT → anagram → **CROATIAN**. "Mrs. Maybelle isn't from around here" = use Croatian calendar (month names). Index circled dates (DD/MM) into Croatian month names → S-e-o-u-l → **SEOUL**. | Confirmed |
 | 3 | CAIRO | Can+Dylan+D rebus | Feastables shirt | Candyland color indexing on Feastables hoodie slogan → CAIRO. Community "certain." | Confirmed |
-| 4 | **UPPER HUTT, NZ** | Sine wave | Withdrawal slip (routing 650283979, acct 5480234354, Feb 5) | BeastBot: "sine waves go up and down in a regular pattern" + "there are no 1's... typical for this puzzle type. But there are 0's, which would normally be highly problematic." Apply cosine pattern (−1,+1,...) to digits → no 0s/1s. **T9 phone keypad decode → UPPER HUTT NEW ZEALAND.** BeastBot "no 0s/1s" hint directly supports T9 keypad. | Probable |
+| 4 | **LOWER HUTT, NZ** | Sine wave | Withdrawal slip (routing 650283979, acct 5480234354, Feb 5) | BeastBot: "sine waves go up and down in a regular pattern" + "there are no 1's... typical for this puzzle type. But there are 0's, which would normally be highly problematic." Apply cosine pattern (−1,+1,...) to digits → no 0s/1s. T9 phone keypad decode. **BeastBot confirmed "its lower hutt"** (Feb 22). | Confirmed |
 | 5 | **ANKARA** | Spider + Ballerina | Parking ticket + "No Parking Your Tank at the Bank" signs | BeastBot hint: "look for what words have in common." Ballerina in **ARABESQUE** + spider = **ARACHNID** → shared = **ARA**. Signs say **TANK** at the **BANK** → shared = **ANK**. ARA+ANK = **ANKARA**. | Confirmed |
 | 6 | **TBILISI?** | Bird on wire | Coffee cup / bird toy | Screen birds use **bird cipher** → spells **DINAMO**. Bank bird toy points to coffee cup showing "Macon Coffee" with **outline of Georgia** — Georgia the country, not US state. DINAMO + Georgia → **FC Dinamo Tbilisi**. Two puzzle elements converge from multiple sources. Weakness: Dinamo Batumi is also Georgian. | Probable |
 | 7 | **TOAD SUCK, AR** | Ear with T crossed out (5 blanks, T in pos 2 X'd) | IPESIT plate / "Talk Like a Pirate Day" sign | BeastBot: "this puzzle is in three parts, each using a different puzzle type" — "addition, deletion, and homophone." (1) Tank "towed" → homophone → **TOAD**. (2) IPESIT = "I Paid Everyone Stuck In Traffic" (MrBeast video) → **STUCK** → delete T → **SUCK**. (3) "Arrrr" (pirate) + Kansas → **ARKANSAS**. = **TOAD SUCK, ARKANSAS** (real place!). | Confirmed |
 | 8 | TIJUANA | Caesar busts (1,7,7,1,1,4,2,7,6,5,3) | "Best Bank" poster | Caesar bust numbers play **Slack Boop Plus** ringtone → Slack message → "THE BEST BANK" poster → Caesar cipher = **"SALAD ORIGIN"** → origin of **Caesar salad** = **Tijuana, Mexico**. Triple Caesar pun. | Confirmed |
 | 9 | **WINDSOR, ON?** | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All images start with **SW** (Lone Shark confirmed). BeastBot (Feb 22): "The pictures create directional lines which can pair with the lines that start in the middle of the crosswalk." → semaphore mechanism. Windsor, Ontario proposed but solve method doesn't yet use crosswalk. Grid row 16 (7+7), R at pos 7 ✓. | Unconfirmed |
 | 10 | ??? | 10⁵ (0 underlined) | Sudoku (onemil.xyz) | **Genuinely unsolved — likely collaboration-gated.** Case #271829 = e × 10⁵ (Euler's number). BeastBot: "likely a wordoku." Hint #7: "you need friends, maybe a million of them." | Unsolved |
-| 11 | ??? (not Lincoln) | Top hat on weight (22.493 lbs) | Penny jar | **BeastBot DENIED Lincoln:** "Lincoln's too simple an answer, even at that latitude. You need to take it one more step." Latitude 40.81° validated but Lincoln is NOT the final answer. | **Denied / Unsolved** |
+| 11 | **DOHA, QATAR** | Top hat on weight (22.493 lbs) | Penny jar | 22.493 lbs pennies ≈ lat 40.81. BeastBot denied Lincoln: "take it one more step." **BeastBot confirmed DOHA, QATAR** (multiple community members, Feb 22). Grid row 76 (4+5), Purple-Boat=T at pos 7 → QATAR[3]=T ✓. | Confirmed |
 | 12 | MOSCOW | n³ = n² | Red Rubik's cube | n=0 or n=1 (binary). Red + Cube = Red Square, Moscow. BeastBot: "83.33% atypical" (5/6 faces non-standard). | Confirmed |
 
 ---
@@ -176,7 +176,7 @@
 | Category | Total | Found | Missing |
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 1 | 0 |
-| Screen + Bank (paired) | 12 | 10 | 2 (Screen 9 = Windsor? unconfirmed, Screen 10 unsolved, Screen 11 denied) |
+| Screen + Bank (paired) | 12 | 11 | 1 (Screen 9 = Windsor? unconfirmed, Screen 10 unsolved) |
 | Non-screen commercial | 12 | 10 | 2 (camel/llama unsolved, 12th puzzle unidentified) |
 | Gifts | 10 | 10 | 0 |
 | Gift unifier | 1 | 1 | 0 |

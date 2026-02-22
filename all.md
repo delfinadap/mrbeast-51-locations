@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**37 confirmed, 7 probable, 3 unconfirmed = 47 with answers, 4 unsolved/denied** | *Feb 21, 2026 ~8:35 PM PT*
+**39 confirmed, 6 probable, 3 unconfirmed = 48 with answers, 3 unsolved** | *Feb 22, 2026 09:33 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -10,14 +10,14 @@
 | 2 | Screen 1 + Bank | **KANDI, BENIN?** | >J> backwards = KJI → K AND I = KANDI + Benioff → BENIN. Grid row 57 (5+5) ✓. | Probable |
 | 3 | Screen 2 + Bank | **SEOUL** | RAINCOAT → anagram → CROATIAN. Croatian calendar month names + circled dates (DD/MM) → SEOUL. | Confirmed |
 | 4 | Screen 3 + Bank | CAIRO | Candyland rebus + Feastables shirt. | Confirmed |
-| 5 | Screen 4 + Bank | **UPPER HUTT** | Cosine pattern removes 0s/1s → T9 keypad → UPPER HUTT NEW ZEALAND. | Probable |
+| 5 | Screen 4 + Bank | **LOWER HUTT** | Cosine pattern removes 0s/1s → T9 keypad → LOWER HUTT NEW ZEALAND. BeastBot confirmed "its lower hutt." | Confirmed |
 | 6 | Screen 5 + Bank | **ANKARA** | ARABESQUE/ARACHNID → ARA. TANK/BANK → ANK. ARA+ANK = ANKARA. | Confirmed |
 | 7 | Screen 6 + Bank | **TBILISI?** | Bird cipher → DINAMO. Coffee cup → Georgia outline. DINAMO + Georgia → FC Dinamo Tbilisi. | Probable |
 | 8 | Screen 7 + Bank | **TOAD SUCK, AR** | 3-part decode: "towed"→TOAD, IPESIT→STUCK−T→SUCK, "arrrr"+Kansas→ARKANSAS. | Confirmed |
 | 9 | Screen 8 + Bank | TIJUANA | Caesar busts → Slack ringtone → "THE BEST BANK" → Caesar cipher → "SALAD ORIGIN" → Tijuana. | Confirmed |
 | 10 | Screen 9 + Bank | **WINDSOR, ON?** | SW images + crosswalk. BeastBot: "directional lines pair with crosswalk lines." Semaphore mechanism. Grid row 16 (7+7) ✓. | Unconfirmed |
 | 11 | Screen 10 + Bank | ??? | 10⁵ + Sudoku. Case #271829 = e×10⁵. Collaboration-gated. | Unsolved |
-| 12 | Screen 11 + Bank | ??? | BeastBot **denied** Lincoln. "Take it one more step." | Denied |
+| 12 | Screen 11 + Bank | **DOHA, QATAR** | 22.493 lbs pennies ≈ lat 40.81 → "one more step" → Doha. BeastBot confirmed. Grid row 76 (4+5) ✓. | Confirmed |
 | 13 | Screen 12 + Bank | **MOSCOW** | Red + Cube = Red Square. BeastBot: "83.33% atypical." | Confirmed |
 | 14 | Commercial | ACCRA | Vault door Scrabble tiles → "last Scrabble Championship" site | Confirmed |
 | 15 | Commercial | KABUL | Morse code light flashes backwards | Confirmed |

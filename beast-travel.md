@@ -26,9 +26,9 @@
 |-------------|---------|-----------------|-------|--------|
 | BARODYNAMICS | "Join us at" | "Oil City" | **CASPER, Wyoming** — "The Oil City." Hint 11: take literally. | Probable |
 | EBULLIOSCOPE | "See lovely" | "City of 33 Churches" | **ARZAMAS, Russia** — image shows ~33 Orthodox churches. | Probable |
-| FURFURACEOUS | "Meet us at" | "Home of Peace" | **MAIDUGURI, Nigeria** — Borno State's official nickname, on every license plate. Dar es Salaam ruled out (Hint 11: "not its translation"). ⚠️ Grid conflict: 9+7 fits no car row. Alt grid candidate: **Miren, Slovenija** (5+9) fits Row 32 (Purple-Car=M ✓). "Miren" = "peaceful" in Slovenian; area has WWI peace memorials. Nickname evidence weak but grid fit strong. | Unconfirmed |
+| FURFURACEOUS | "Meet us at" | "Home/City of Peace" | **MUBI, Nigeria** — DW article: "In Nigeria, Mubi is known as the city of peace." **Grid fit: Row 37 (4+7), Yellow-Car=U at pos 2 → MUBI[2]=U ✓.** Previous: Maiduguri (strong nickname, no grid fit). | Unconfirmed |
 | HAPAXANTHOUS | "You'll like" | "City of Winds" | **BAKU, Azerbaijan** — multiple solvers converged. | Confirmed |
-| HEKISTOTHERM | "Get down to" | "Capital of ___" + jets/plains | **WINNIPEG, Canada?** — Capital of Manitoba, Winnipeg Jets. Alt: Fort Morgan, CO ("Capital of the Plains"). ⚠️ Grid conflict: Winnipeg (8+8 or 8+6) fits no car row. City likely wrong. Alt grid candidate: **Nuuk, Denmark** (4+7) fits Row 37 (Yellow-Car=U, pos 2 ✓). Nickname: "Capital of the Northern Lights." Tromsø (Norway) is more widely known by that title, but doesn't fit grid. HEKISTOTHERM (cold-adapted plants) fits Arctic Nuuk thematically. | Unconfirmed |
+| HEKISTOTHERM | "Get down to" | "Capital of the Plains" | **MOORA, Australia** — Official Shire of Moora website: "Moora was being referred to as the 'Capital of the Plains.'" Exact nickname match per Hint 11. **Grid fit: Row 32 (5+9), Purple-Car=M at pos 1 → MOORA[1]=M ✓.** mpeg (Serious, Feb 22): "pretty unambiguous." | Probable |
 | INCLINOMETER | "Come to" | "Diamond City of India" | **SURAT, India** — processes 90% of world's diamonds. | Confirmed |
 | MARIMBAPHONE | "Head off to" | "Queen City of the North" | **MARQUETTE, MI** — official nickname. | Probable |
 | NEBULOPHOBIA | "Return to" | "Gateway to Death Valley" | **BEATTY, Nevada**.| Confirmed |
