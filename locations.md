@@ -30,7 +30,7 @@
 
 | Screen | Location | Screen Content | Bank Clue | Decode | Confidence |
 |--------|----------|---------------|-----------|--------|------------|
-| 1 | **KANDI, BENIN?** | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | NaughtyKatsuragi (Feb 22): `>J>` read backwards alphabetically = K, J, I → swap J for "and" → **K AND I** → **KANDI**. "Marc Benioff" → **BENIN**. BeastBot: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." **Grid fit: Row 57 (5+5), Gold-Boat=E at pos 7 → BENIN[2]=E ✓.** Supersedes Benin City (had no valid grid fit). | Unconfirmed |
+| 1 | **KANDI, BENIN** | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | NaughtyKatsuragi (Feb 22): `>J>` read backwards alphabetically = K, J, I → swap J for "and" → **K AND I** → **KANDI**. "Marc Benioff" → **BENIN**. BeastBot: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." **Grid fit: Row 57 (5+5), Gold-Boat=E at pos 7 → BENIN[2]=E ✓.** Supersedes Benin City (had no valid grid fit). | Probable |
 | 2 | **SEOUL** | Trench coat pieces | Calendar dates | BeastBot: "coat has a name with 8 letters that can be rearranged." Coat = RAINCOAT → anagram → **CROATIAN**. "Mrs. Maybelle isn't from around here" = use Croatian calendar (month names). Index circled dates (DD/MM) into Croatian month names → S-e-o-u-l → **SEOUL**. | Confirmed |
 | 3 | CAIRO | Can+Dylan+D rebus | Feastables shirt | Candyland color indexing on Feastables hoodie slogan → CAIRO. Community "certain." | Confirmed |
 | 4 | **UPPER HUTT, NZ** | Sine wave | Withdrawal slip (routing 650283979, acct 5480234354, Feb 5) | BeastBot: "sine waves go up and down in a regular pattern" + "there are no 1's... typical for this puzzle type. But there are 0's, which would normally be highly problematic." Apply cosine pattern (−1,+1,...) to digits → no 0s/1s. **T9 phone keypad decode → UPPER HUTT NEW ZEALAND.** BeastBot "no 0s/1s" hint directly supports T9 keypad. | Probable |
@@ -60,7 +60,7 @@
 | TASHKENT | Marked bills / Cash Pile | Red-rimmed bills → "CASH TENT." BeastBot references Reverend Spooner. Spoonerism of "Cash Tent" → "Tash Kent" → **TASHKENT**. | Confirmed |
 | TALLINN | Subtitles / transcript | Hyphens adjacent to letters spell "Seven Letter Big Lodge" → "big lodge" = "tall inn" = TALLINN | Confirmed |
 | NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. | Unconfirmed |
-| **YELLOWSTONE** | Smoke grenade | BeastBot: "Grenades demand to be taken literally" + "SMOKE is just a type, the other letters matter" + "4 parts." + "We don't just color text on grenades randomly." Text "1+1=?" is in YELLOW. **YELLOW** + **S** + **T** + **ONE** = **YELLOWSTONE**. Community convergence. Cross-confirmed by boat grid row 83 (only 11-letter word, Gold-Boat=E ✓). | Probable |
+| **YELLOWSTONE** | Smoke grenade | BeastBot: "Grenades demand to be taken literally" + "SMOKE is just a type, the other letters matter" + "4 parts." + "We don't just color text on grenades randomly." Text "1+1=?" is in YELLOW. **YELLOW** + **S** + **T** + **ONE** = **YELLOWSTONE**. Community convergence. Cross-confirmed by boat grid row 83 (only 11-letter word, Gold-Boat=E ✓). | Confirmed |
 | ??? | Camel/llama | BeastBot confirms, points to Saudi Arabia/BEASTLAND. No location extracted. | Unsolved |
 | ??? | *Unidentified* | 12th commercial puzzle not yet found. | Unsolved |
 

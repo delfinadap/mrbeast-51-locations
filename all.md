@@ -28,7 +28,7 @@
 | 20 | Commercial | TASHKENT | Marked bills → "CASH TENT" → Spoonerism → TASHKENT | Confirmed |
 | 21 | Commercial | TALLINN | Subtitles hyphens → "Seven Letter Big Lodge" → tall inn | Confirmed |
 | 22 | Commercial | **NEW ORLEANS?** | Tank numbers + ice cream video. | Unconfirmed |
-| 23 | Commercial | **YELLOWSTONE** | Smoke grenade: YELLOW+S+T+ONE. BeastBot: "color text matters." Grid row 83 cross-confirms. | Probable |
+| 23 | Commercial | **YELLOWSTONE** | Smoke grenade: YELLOW+S+T+ONE. BeastBot: "color text matters." Grid row 83 cross-confirms. | Confirmed |
 | 24 | Commercial | ??? | Camel/Llama (BeastBot confirmed, "BEASTLAND" = Saudi Arabia) | Unsolved |
 | 25 | Commercial | ??? | 12th commercial puzzle — not yet identified | Unsolved |
 | 26 | Gift | ALGIERS | Airrack — 7 pictures hide "ERIC." First letters A-L-G-I-E-R-S | Confirmed |

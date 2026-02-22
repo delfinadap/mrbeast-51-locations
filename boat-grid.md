@@ -123,7 +123,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 72 | 6+5+8 | Purple-Boat | **T** | Nazaré Coast, Portugal | Unconfirmed |
 | 73 | 12 | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
 | 74 | 10+9 | Brown-Boat | **A** | ??? | Unknown |
-| 75 | 5+4+7 | Silver-Boat | **R** | ??? (Benin City ruled out — cipher conflict) | Unknown |
+| 75 | 5+4+7 | Silver-Boat | **R** | ??? (Kandi ruled out — cipher conflict) | Unknown |
 | 76 | 4+5 | Purple-Boat | **T** | ??? | Unknown |
 | 77 | 5+10+7 | Red-Horse | **H** | České Budějovice, Czechia | Confirmed |
 | 78 | 11+9+11 | Gold-Boat | **E** | Yellowknife, Northwest Territories | Confirmed |
@@ -131,7 +131,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 80 | 6+5 | Red-Horse | **H** | Curicó, Chile | Probable |
 | 81 | 10+7 | Red-Plane | **O** | Cochabamba, Bolivia | Confirmed |
 | 82 | 5+3+7 | Yellow-Horse | **W** | Ōkato, New Zealand | Confirmed |
-| 83 | 11 | Gold-Boat | **E** | Yellowstone | Probable |
+| 83 | 11 | Gold-Boat | **E** | Yellowstone | Confirmed |
 | 84 | 6+4 | Blue-Horse | **D** | Sokodé, Togo | Confirmed |
 | 85 | 5+5 | Brown-Boat | **A** | Accra, Ghana | Confirmed |
 | 86 | 12+10 | Purple-Boat | **T** | Antananarivo, Madagascar | Probable |
@@ -154,7 +154,7 @@ These destinations have been identified but **don't fit any row** on the grid:
 | FURFURACEOUS | Maiduguri, Nigeria | 9+7 | No 9+7 car row | Row 6 (7, M@1), Row 7 (5+5, Y@10), Row 32 (5+9, M@1), or Row 37 (4+7, U@2) |
 | HEKISTOTHERM | Winnipeg, Canada | 8+8 | No 8+8 car row | (same 4 open rows) |
 | SALAMANDROID | Nantucket, MA | 9+13 | No 9+13 car row | Row 7 most likely (Genoa Italy fits grid but not nickname) |
-| SCAPULOMANCY | Poveglia, Italy | 8+5 | No 8+5 car row | (same 4 open rows) |
+| SCAPULOMANCY | Mayotte, France | 7+6 | No 7+6 car row | (same 4 open rows) |
 
 ### Plane format issues (3 — GeoGuessr confirmed but name format uncertain)
 
@@ -168,7 +168,7 @@ These destinations have been identified but **don't fit any row** on the grid:
 
 | City | Row | Problem |
 |------|-----|---------|
-| ~~Benin City, Nigeria~~ | 75 | Cipher says R at pos 8, but Benin City gives T. Ruled out. |
+| ~~Kandi, Benin~~ | 75 | Cipher says R at pos 8, but Kandi gives I. Ruled out. |
 | ~~Babylon, Iraq~~ | — | No 7+4 row exists. Superseded by Gaborone, Botswana (8+8 → row 8). |
 
 ---
