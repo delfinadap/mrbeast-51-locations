@@ -105,7 +105,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 54 | 5+4 | Gold-Boat | **E** | **South Pole? / Alofi, Niue?** | Unconfirmed |
 | 55 | 9+7 | Red-Plane | **O** | Marrakesh, Morocco | Confirmed |
 | 56 | 8+7 | Green-Plane | **N** | Edmonton, Alberta | Confirmed |
-| 57 | 5+5 | Gold-Boat | **E** | ??? (no known dest gives E at pos 7) | Unknown |
+| 57 | 5+5 | Gold-Boat | **E** | Kandi, Benin | Unconfirmed |
 | 58 | 6+9 | Brown-Boat | **A** | Kupang, Indonesia | Confirmed |
 | 59 | 7+7 | Green-Plane | **N** | Orlando, Florida | Confirmed |
 | 60 | 6+8 | Green-Boat | **S** | Lahore, Pakistan | Confirmed |
