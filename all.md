@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**35 confirmed, 6 probable, 4 unconfirmed = 45 with answers, 6 unsolved/denied** | *Feb 21, 2026*
+**37 confirmed, 7 probable, 3 unconfirmed = 47 with answers, 4 unsolved/denied** | *Feb 21, 2026 ~8:35 PM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
