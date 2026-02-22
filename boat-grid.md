@@ -56,7 +56,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 5 | 6+7 | Purple-Car | **M** | Casper, Wyoming | Probable |
 | 6 | 7 | Purple-Car | **M** | ??? | Unknown |
 | 7 | 5+5 | Black-Car | **Y** | ??? | Unknown |
-| 8 | 8+8 | Green-Boat | **S** | Gaborone, Botswana | Unconfirmed |
+| 8 | 8+8 | Green-Boat | **S** | Gaborone, Botswana | Probable |
 | 9 | 4+6+6 | Green-Horse | **V** | Nova Russas, Brazil | Confirmed |
 | 10 | 5+11 | Brown-Boat | **A** | Kabul, Afghanistan | Confirmed |
 | 11 | 7+6 | Yellow-Car | **U** | Giresun, Turkey | Probable |
