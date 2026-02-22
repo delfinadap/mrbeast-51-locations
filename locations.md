@@ -2,7 +2,7 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 40 confirmed (incl. crossword), 6 probable, 3 unconfirmed = 49 with answers, 2 unsolved.
+**Status:** 39 confirmed, 6 probable, 3 unconfirmed = 48 with answers, 3 unsolved.
 
 **Last updated:** Feb 22, 2026 09:33 AM PT. Lower Hutt confirmed (was Upper Hutt). Doha Qatar confirmed for Screen 11. Moora Australia → Row 32 (HEKISTOTHERM). Mubi Nigeria → Row 37 (FURFURACEOUS). Mayotte → Row 6 (SCAPULOMANCY).
 
