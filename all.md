@@ -15,7 +15,7 @@
 | 7 | Screen 6 + Bank | **TBILISI?** | Bird cipher → DINAMO. Coffee cup → Georgia outline. DINAMO + Georgia → FC Dinamo Tbilisi. | Probable |
 | 8 | Screen 7 + Bank | **TOAD SUCK, AR** | 3-part decode: "towed"→TOAD, IPESIT→STUCK−T→SUCK, "arrrr"+Kansas→ARKANSAS. | Confirmed |
 | 9 | Screen 8 + Bank | TIJUANA | Caesar busts → Slack ringtone → "THE BEST BANK" → Caesar cipher → "SALAD ORIGIN" → Tijuana. | Confirmed |
-| 10 | Screen 9 + Bank | ??? | All images start with SW (confirmed by Lone Shark). Genuinely unsolved. | Unsolved |
+| 10 | Screen 9 + Bank | **WINDSOR, ON?** | SW images + crosswalk. BeastBot: "directional lines pair with crosswalk lines." Semaphore mechanism. Grid row 16 (7+7) ✓. | Unconfirmed |
 | 11 | Screen 10 + Bank | ??? | 10⁵ + Sudoku. Case #271829 = e×10⁵. Collaboration-gated. | Unsolved |
 | 12 | Screen 11 + Bank | ??? | BeastBot **denied** Lincoln. "Take it one more step." | Denied |
 | 13 | Screen 12 + Bank | **MOSCOW** | Red + Cube = Red Square. BeastBot: "83.33% atypical." | Confirmed |
@@ -51,7 +51,7 @@
 | 43 | SF: Physical (B1) | **NAZARÉ** | Tower LED video — "SURF RECORD SITE WITH ARGENT HUE." | Confirmed |
 | 44 | SF: Physical (B2) | **NOME** | Billboard letters — "e mon" backwards. | Confirmed |
 | 45 | SF: Physical (B3) | **DIMTU** | Billboard numbers — 04 09 13 20 21 → DIMTU. | Confirmed |
-| 46 | SF: Site (C1) | **ANTANANARIVO?** | Dot-Dollar / "How?" video — Nick's dot solve, BeastBot confirmed. Grid row 86 (12+10) ✓. | Probable |
+| 46 | SF: Site (C1) | **ANTANANARIVO** | Dot-Dollar / "How?" video — Nick's dot solve, BeastBot confirmed. Grid row 86 (12+10) ✓. | Confirmed |
 | 47 | SF: Site (C2) | **GABORONE?** | FAQ — "PRATE OR THIS" → prate synonym = GABS = Gaborone, Botswana. Grid row 8 (8+8) ✓. | Probable |
 | 48 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
 | 49 | Lone Shark | ILE DE LA POSSESSION | Podcast anagram | Confirmed |

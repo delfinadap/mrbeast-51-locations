@@ -134,7 +134,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 83 | 11 | Gold-Boat | **E** | Yellowstone | Confirmed |
 | 84 | 6+4 | Blue-Horse | **D** | Sokodé, Togo | Confirmed |
 | 85 | 5+5 | Brown-Boat | **A** | Accra, Ghana | Confirmed |
-| 86 | 12+10 | Purple-Boat | **T** | Antananarivo, Madagascar | Probable |
+| 86 | 12+10 | Purple-Boat | **T** | Antananarivo, Madagascar | Confirmed |
 | 87 | 8+10 | Green-Boat | **S** | Tashkent, Uzbekistan | Confirmed |
 | 88 | 5+8 | Purple-Boat | **T** | Dimtu, Ethiopia | Confirmed |
 | 89 | 7+6 | Brown-Boat | **A** | Tijuana, Mexico | Confirmed |

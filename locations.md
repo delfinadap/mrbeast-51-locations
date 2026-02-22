@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 35 confirmed, 6 probable, 4 unconfirmed = 45 with answers, 6 unsolved/denied.
+**Status:** 37 confirmed, 6 probable, 4 unconfirmed = 47 with answers, 4 unsolved/denied.
 
-**Last updated:** Feb 21, 2026. Sucre Bolivia = Gift Unifier (Probable). Yellowstone promoted to Probable. South Pole for Short #2. Heard Island → row 29. titanichoop.com in crossword.
+**Last updated:** Feb 21, 2026 ~8:21 PM PT. Antananarivo → Confirmed. Screen 9: Windsor ON? (Unconfirmed) + new BeastBot semaphore hint. Yellowstone → Confirmed. Kandi Benin (Probable). Mayotte replaces Poveglia (Probable).
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -38,7 +38,7 @@
 | 6 | **TBILISI?** | Bird on wire | Coffee cup / bird toy | Screen birds use **bird cipher** → spells **DINAMO**. Bank bird toy points to coffee cup showing "Macon Coffee" with **outline of Georgia** — Georgia the country, not US state. DINAMO + Georgia → **FC Dinamo Tbilisi**. Two puzzle elements converge from multiple sources. Weakness: Dinamo Batumi is also Georgian. | Probable |
 | 7 | **TOAD SUCK, AR** | Ear with T crossed out (5 blanks, T in pos 2 X'd) | IPESIT plate / "Talk Like a Pirate Day" sign | BeastBot: "this puzzle is in three parts, each using a different puzzle type" — "addition, deletion, and homophone." (1) Tank "towed" → homophone → **TOAD**. (2) IPESIT = "I Paid Everyone Stuck In Traffic" (MrBeast video) → **STUCK** → delete T → **SUCK**. (3) "Arrrr" (pirate) + Kansas → **ARKANSAS**. = **TOAD SUCK, ARKANSAS** (real place!). | Confirmed |
 | 8 | TIJUANA | Caesar busts (1,7,7,1,1,4,2,7,6,5,3) | "Best Bank" poster | Caesar bust numbers play **Slack Boop Plus** ringtone → Slack message → "THE BEST BANK" poster → Caesar cipher = **"SALAD ORIGIN"** → origin of **Caesar salad** = **Tijuana, Mexico**. Triple Caesar pun. | Confirmed |
-| 9 | ??? | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | **Genuinely unsolved.** All carousel words start with **SW** — confirmed by Lone Shark Facebook post with underlined S+W. | Unsolved |
+| 9 | **WINDSOR, ON?** | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All images start with **SW** (Lone Shark confirmed). BeastBot (Feb 22): "The pictures create directional lines which can pair with the lines that start in the middle of the crosswalk." → semaphore mechanism. Windsor, Ontario proposed but solve method doesn't yet use crosswalk. Grid row 16 (7+7), R at pos 7 ✓. | Unconfirmed |
 | 10 | ??? | 10⁵ (0 underlined) | Sudoku (onemil.xyz) | **Genuinely unsolved — likely collaboration-gated.** Case #271829 = e × 10⁵ (Euler's number). BeastBot: "likely a wordoku." Hint #7: "you need friends, maybe a million of them." | Unsolved |
 | 11 | ??? (not Lincoln) | Top hat on weight (22.493 lbs) | Penny jar | **BeastBot DENIED Lincoln:** "Lincoln's too simple an answer, even at that latitude. You need to take it one more step." Latitude 40.81° validated but Lincoln is NOT the final answer. | **Denied / Unsolved** |
 | 12 | MOSCOW | n³ = n² | Red Rubik's cube | n=0 or n=1 (binary). Red + Cube = Red Square, Moscow. BeastBot: "83.33% atypical" (5/6 faces non-standard). | Confirmed |
@@ -138,7 +138,7 @@
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
-| C1 | **ANTANANARIVO, MG?** | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Nick's dot puzzle solve → Antananarivo, Madagascar. BeastBot confirmed. Grid row 86 (12+10), Purple-Boat=T at pos 3 → T ✓. | Probable |
+| C1 | **ANTANANARIVO, MG** | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Nick's dot puzzle solve → Antananarivo, Madagascar. BeastBot confirmed. Grid row 86 (12+10), Purple-Boat=T at pos 3 → T ✓. | Confirmed |
 | C2 | **GABORONE, BW?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate synonym = **GABS** = nickname for **Gaborone**, Botswana. Grid row 8 (8+8), Green-Boat=S at pos 12 → S ✓. Supersedes Babylon theory (no grid fit). | Probable |
 
 ### Additional Candidates
@@ -176,15 +176,15 @@
 | Category | Total | Found | Missing |
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 1 | 0 |
-| Screen + Bank (paired) | 12 | 9 | 3 (Screen 9 unsolved, Screen 10 unsolved, Screen 11 denied) |
+| Screen + Bank (paired) | 12 | 10 | 2 (Screen 9 = Windsor? unconfirmed, Screen 10 unsolved, Screen 11 denied) |
 | Non-screen commercial | 12 | 10 | 2 (camel/llama unsolved, 12th puzzle unidentified) |
 | Gifts | 10 | 10 | 0 |
 | Gift unifier | 1 | 1 | 0 |
 | YouTube shorts/TikTok | 2 | 2 | 0 |
-| Salesforce site/social | 9 | 8 | 1 (dot-dollar unsolved) |
+| Salesforce site/social | 9 | 9 | 0 |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~45** | **~6** |
+| **TOTAL** | **51** | **~47** | **~4** |
 
 ---
 
