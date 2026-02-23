@@ -74,7 +74,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 23 | 4+6 | Green-Boat | **S** | Nome, Alaska | Confirmed |
 | 24 | 7+7 | Purple-Boat | **T** | Tallinn, Estonia | Confirmed |
 | 25 | 5+5 | Red-Car | **I** | Surat, India | Confirmed |
-| 26 | 11+6 | Blue-Car | **C** | L'Ascension, Quebec | Unconfirmed |
+| 26 | 11+6 | Blue-Car | **C** | L'Ascension, Quebec | Probable |
 | 27 | 7+6 | Black-Horse | **K** | Antalya, Turkey | Probable |
 | 28 | 5+5+5 | Green-Boat | **S** | Seoul, South Korea | Confirmed |
 | 29 | 5+6 | Silver-Boat | **R** | Heard Island | Confirmed |
