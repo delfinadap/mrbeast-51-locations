@@ -4,7 +4,7 @@
 
 **Status:** 46 confirmed, 1 probable, 2 unconfirmed = 49 with answers, 2 unsolved.
 
-**Last updated:** Feb 23, 2026 11:08 AM PT. Bulk confidence sync across all pages. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
+**Last updated:** Feb 23, 2026 11:19 AM PT. Bulk confidence sync across all pages. Mubi reverted to Unconfirmed. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 

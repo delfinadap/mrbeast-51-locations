@@ -2,6 +2,8 @@
 
 **URL:** [beast.travel](https://beast.travel/) — "© NOT A REAL TRAVEL COMPANY" / Made by Lone Shark Games
 
+*Updated: Feb 23, 2026 11:19 AM PT*
+
 **Hint 8:** "Take your 50 locations and your crossword to Beast Travel and go on many a wild vacation!"
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
