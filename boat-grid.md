@@ -116,7 +116,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 65 | 5+5 | Brown-Boat | **A** | Thane, India | Probable |
 | 66 | 9+8 | Red-Car | **I** | Marquette, Michigan | Probable |
 | 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
-| 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Probable |
+| 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Confirmed |
 | 69 | 11+6 | Purple-Plane | **L** | Vladivostok, Russia | Confirmed |
 | 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois | Unconfirmed |
 | 71 | 4+4+8 | Green-Boat | **S** | Toad Suck, Arkansas | Confirmed |
