@@ -62,7 +62,7 @@
 | NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. | Unconfirmed |
 | **YELLOWSTONE** | Smoke grenade | BeastBot: "Grenades demand to be taken literally" + "SMOKE is just a type, the other letters matter" + "4 parts." + "We don't just color text on grenades randomly." Text "1+1=?" is in YELLOW. **YELLOW** + **S** + **T** + **ONE** = **YELLOWSTONE**. Community convergence. Cross-confirmed by boat grid row 83 (only 11-letter word, Gold-Boat=E ✓). | Confirmed |
 | ??? | Camel/llama | BeastBot confirms, points to Saudi Arabia/BEASTLAND. No location extracted. | Unsolved |
-| ??? | *Unidentified* | 12th commercial puzzle not yet found. | Unsolved |
+| ??? | **Lab screens (12 screens connected)** | BeastBot confirms all 12 screens form a unified puzzle (Elle Strycharz, Feb 23). Loading bar colors likely encode a location. Active work — RGB ternary, hex, hue approaches tried, no location yet. | Unsolved |
 
 ---
 
@@ -177,7 +177,7 @@
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 1 | 0 |
 | Screen + Bank (paired) | 12 | 11 | 1 (Screen 9 = Windsor? unconfirmed, Screen 10 unsolved) |
-| Non-screen commercial | 12 | 10 | 2 (camel/llama unsolved, 12th puzzle unidentified) |
+| Non-screen commercial | 12 | 10 | 2 (camel/llama unsolved, lab screens unsolved) |
 | Gifts | 10 | 10 | 0 |
 | Gift unifier | 1 | 1 | 0 |
 | YouTube shorts/TikTok | 2 | 2 | 0 |

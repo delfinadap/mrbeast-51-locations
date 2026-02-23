@@ -30,7 +30,7 @@
 | 22 | Commercial | **NEW ORLEANS?** | Tank numbers + ice cream video. | Unconfirmed |
 | 23 | Commercial | **YELLOWSTONE** | Smoke grenade: YELLOW+S+T+ONE. BeastBot: "color text matters." Grid row 83 cross-confirms. | Confirmed |
 | 24 | Commercial | ??? | Camel/Llama (BeastBot confirmed, "BEASTLAND" = Saudi Arabia) | Unsolved |
-| 25 | Commercial | ??? | 12th commercial puzzle — not yet identified | Unsolved |
+| 25 | Commercial | ??? | **Lab screens (12 screens connected)** — BeastBot confirms unified puzzle. Loading bar colors encode location. Unsolved. | Unsolved |
 | 26 | Gift | ALGIERS | Airrack — 7 pictures hide "ERIC." First letters A-L-G-I-E-R-S | Confirmed |
 | 27 | Gift | **TAMPA BAY** | Sketch — Madden 99 → BUCS HOME. beast.travel confirms 5+3+7 format. | Confirmed |
 | 28 | Gift | **WICHITA** | Fallon — "JIMMYS BIRTHPLACE" = MrBeast born Wichita. | Confirmed |
