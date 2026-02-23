@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**Status:** 73 rows placed, 18 unknown | *Feb 21, 2026*
+**Status:** 75 rows placed, 16 unknown | *Feb 23, 2026*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -55,7 +55,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 4 | 7+6 | Red-Car | **I** | Arzamas, Russia | Probable |
 | 5 | 6+7 | Purple-Car | **M** | Casper, Wyoming | Probable |
 | 6 | 7 | Purple-Car | **M** | Mayotte | Probable |
-| 7 | 5+5 | Black-Car | **Y** | ??? | Unknown |
+| 7 | 5+5 | Black-Car | **Y** | Genoa, Italy | Probable |
 | 8 | 8+8 | Green-Boat | **S** | Gaborone, Botswana | Probable |
 | 9 | 4+6+6 | Green-Horse | **V** | Nova Russas, Brazil | Confirmed |
 | 10 | 5+11 | Brown-Boat | **A** | Kabul, Afghanistan | Confirmed |
@@ -112,7 +112,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 61 | 6+3+6 | Yellow-Horse | **W** | Monkey Bay, Malawi | Confirmed |
 | 62 | 3+2+2+10 | Gold-Boat | **E** | Île de la Possession | Confirmed |
 | 63 | 5+3+7 | Silver-Boat | **R** | Tampa Bay, Florida | Confirmed |
-| 64 | 8+3+11 | Yellow-Plane | **P** | ??? | Unknown |
+| 64 | 8+3+11 | Yellow-Plane | **P** | Tacurong, The Philippines | Probable |
 | 65 | 5+5 | Brown-Boat | **A** | Thane, India | Probable |
 | 66 | 9+8 | Red-Car | **I** | Marquette, Michigan | Probable |
 | 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
@@ -162,7 +162,7 @@ These destinations have been identified but **don't fit any row** on the grid:
 |--------|-------------|---------|------------|
 | EPANASTROPHE | Derby, W. Australia | 5+9 or 5+7+9 | Row 14 (5+10+4)? Row 38 (5+5+9)? |
 | LIGNIPERDOUS | Hasik, Oman | 5+4 | No match |
-| WINTERBOURNE | Tacurong, Philippines | 8+11 | Row 64 (8+3+11) — could fit as "Tacurong The Philippines" |
+| ~~WINTERBOURNE~~ | ~~Tacurong, Philippines~~ | ~~8+11~~ | ~~Resolved: Row 64 as "Tacurong, The Philippines" (8+3+11)~~ |
 
 ### Stage 1 conflicts
 
