@@ -53,10 +53,10 @@
 | FISSICOSTATE | "Have fun at" | towers.decoder.models | **ČESKÉ BUDĚJOVICE, Czechia** | Confirmed |
 | LACHRYMIFORM | "Now booking" | driven.hint.improving | **CHRISTCHURCH, New Zealand** | Confirmed |
 | LAEVODUCTION | "Ride out to" | dusts.enigma.desks | **CASTELO BRANCO, Portugal** | Confirmed |
-| OLERICULTURE | NEW | calibrate.charted.nuzzle | **SOKODE, Togo**.| Confirmed |
-| SCAFFMASTERS | NEW | quiz.delivers.equality | **CURICÓ, Chile**. | Probable |
-| UNDERBRIDGES | NEW | cryptically.packaging.bathrooms | **MONKEY BAY, Malawi**.| Confirmed |
-| WINDCHEATERS | NEW | sticky.rejected.jigsaw | **ANTALYA, Turkey**. | Probable |
+| OLERICULTURE | "Swing by" | calibrate.charted.nuzzle | **SOKODE, Togo**.| Confirmed |
+| SCAFFMASTERS | "Holiday in" | quiz.delivers.equality | **CURICÓ, Chile**. | Probable |
+| UNDERBRIDGES | "Revisit" | cryptically.packaging.bathrooms | **MONKEY BAY, Malawi**.| Confirmed |
+| WINDCHEATERS | "Time for" | sticky.rejected.jigsaw | **ANTALYA, Turkey**. | Probable |
 
 ---
 
@@ -74,14 +74,14 @@
 | EXSANGUINOUS | "You'll love" | **MANAUS, Brazil** | Confirmed |
 | LAMPADEPHORE | "Go to" | **PUNE, India** | Confirmed |
 | LIGNIPERDOUS | "Now enjoy" | **HASIK, Oman** — ⚠️ Format conflict: 5+4 fits no open plane row. | Confirmed |
-| MACHAIRODONT | NEW | **VELINGRAD, Bulgaria**.| Confirmed |
-| NARRISCHKEIT | NEW | **MARRAKESH, Morocco** — YSL Museum. | Confirmed |
-| ODORIVECTORS | NEW | **ORLANDO, Florida** — Airport entrance. | Confirmed |
-| SAPONIFIABLE | NEW | **CHARLOTTE, NC** — NASCAR HoF. | Confirmed |
-| SERPENTICIDE | NEW | **EDMONTON, Canada** — Muttart Conservatory. | Confirmed |
-| SNALLYGASTER | NEW | **VLADIVOSTOK, Russia** — Golden Horn Bay. | Confirmed |
-| TERAMORPHOUS | NEW | **COCHABAMBA, Bolivia** — Christ of the Concord. | Confirmed |
-| WINTERBOURNE | NEW | **TACURONG, The Philippines** — Talakudong Rotunda. **Grid fit: Row 64 (8+3+11), PHILIPPINES[6]=P ✓.** beast.travel uses "The Philippines." | Confirmed |
+| MACHAIRODONT | "Jet on into" | **VELINGRAD, Bulgaria**.| Confirmed |
+| NARRISCHKEIT | "Next stop:" | **MARRAKESH, Morocco** — YSL Museum. | Confirmed |
+| ODORIVECTORS | "Rest up at" | **ORLANDO, Florida** — Airport entrance. | Confirmed |
+| SAPONIFIABLE | "We suggest" | **CHARLOTTE, NC** — NASCAR HoF. | Confirmed |
+| SERPENTICIDE | "Stop in at" | **EDMONTON, Canada** — Muttart Conservatory. | Confirmed |
+| SNALLYGASTER | "We dream of" | **VLADIVOSTOK, Russia** — Golden Horn Bay. | Confirmed |
+| TERAMORPHOUS | "So nice at" | **COCHABAMBA, Bolivia** — Christ of the Concord. | Confirmed |
+| WINTERBOURNE | "Pop into" | **TACURONG, The Philippines** — Talakudong Rotunda. **Grid fit: Row 64 (8+3+11), PHILIPPINES[6]=P ✓.** beast.travel uses "The Philippines." | Confirmed |
 
 ---
 
