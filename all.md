@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**47 confirmed, 0 probable, 2 unconfirmed = 49 with answers, 2 unsolved** | *Feb 23, 2026 11:38 AM PT*
+**47 confirmed, 1 probable, 1 unconfirmed = 49 with answers, 2 unsolved** | *Feb 23, 2026 2:15 PM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -27,7 +27,7 @@
 | 19 | Commercial | LIMA | Belt wire colors 12-7-13-1 | Confirmed |
 | 20 | Commercial | TASHKENT | Marked bills → "CASH TENT" → Spoonerism → TASHKENT | Confirmed |
 | 21 | Commercial | TALLINN | Subtitles hyphens → "Seven Letter Big Lodge" → tall inn | Confirmed |
-| 22 | Commercial | **NEW ORLEANS?** | Tank numbers + ice cream video. | Unconfirmed |
+| 22 | Commercial | **NEW ORLEANS?** | Tank numbers + ice cream video. BeastBot hint points to banana foster origin. | Probable |
 | 23 | Commercial | **YELLOWSTONE** | Smoke grenade: YELLOW+S+T+ONE. BeastBot: "color text matters." Grid row 83 cross-confirms. | Confirmed |
 | 24 | Commercial | **CASABLANCA** | Slack emojis in SB ad: 🎠CA-rousel 🦕SA-uropod 🌼BL-ossom ⚓AN-chor 🏕️CA-mping. First 2 letters of each Slack name. Grid row 50 (10+7) ✓. | Confirmed |
 | 25 | Commercial | ??? | **Lab screens (12 screens connected)** — BeastBot confirms unified puzzle. Loading bar colors encode location. Unsolved. | Unsolved |

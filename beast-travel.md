@@ -2,13 +2,13 @@
 
 **URL:** [beast.travel](https://beast.travel/) — "© NOT A REAL TRAVEL COMPANY" / Made by Lone Shark Games
 
-*Updated: Feb 23, 2026 11:38 AM PT*
+*Updated: Feb 23, 2026 2:15 PM PT*
 
 **Hint 8:** "Take your 50 locations and your crossword to Beast Travel and go on many a wild vacation!"
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
 
-**Status:** 38 confirmed, 1 probable, 1 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 23, 2026 11:38 AM PT*
+**Status:** 38 confirmed, 1 probable, 1 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 23, 2026 2:15 PM PT*
 
 ---
 

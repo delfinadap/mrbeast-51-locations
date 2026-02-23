@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 47 confirmed, 0 probable, 2 unconfirmed = 49 with answers, 2 unsolved.
+**Status:** 47 confirmed, 1 probable, 1 unconfirmed = 49 with answers, 2 unsolved.
 
-**Last updated:** Feb 23, 2026 11:38 AM PT. Bulk confidence sync across all pages. Mubi reverted to Unconfirmed. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
+**Last updated:** Feb 23, 2026 2:15 PM PT. Bulk confidence sync across all pages. Mubi reverted to Unconfirmed. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -59,7 +59,7 @@
 | LIMA | Belt wire colors | Color code 12-7-13-1 = L-I-M-A | Confirmed |
 | TASHKENT | Marked bills / Cash Pile | Red-rimmed bills → "CASH TENT." BeastBot references Reverend Spooner. Spoonerism of "Cash Tent" → "Tash Kent" → **TASHKENT**. | Confirmed |
 | TALLINN | Subtitles / transcript | Hyphens adjacent to letters spell "Seven Letter Big Lodge" → "big lodge" = "tall inn" = TALLINN | Confirmed |
-| NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. | Unconfirmed |
+| NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. BeastBot hint points to banana foster origin (screenshot, Feb 23). | Probable |
 | **YELLOWSTONE** | Smoke grenade | BeastBot: "Grenades demand to be taken literally" + "SMOKE is just a type, the other letters matter" + "4 parts." + "We don't just color text on grenades randomly." Text "1+1=?" is in YELLOW. **YELLOW** + **S** + **T** + **ONE** = **YELLOWSTONE**. Community convergence. Cross-confirmed by boat grid row 83 (only 11-letter word, Gold-Boat=E ✓). | Confirmed |
 | **CASABLANCA** | Slack emojis in commercial | Five emojis on Slack screen in SB ad: 🎠**CA**rousel + 🦕**SA**uropod + 🌼**BL**ossom + ⚓**AN**chor + 🏕️**CA**mping = **CASABLANCA**. Solved by Matt (LSG, Feb 12). Grid row 50 (10+7), CASABLANCA[3]=S ✓. | Confirmed |
 | ??? | **Lab screens (12 screens connected)** | BeastBot confirms all 12 screens form a unified puzzle (Elle Strycharz). Loading bar colors likely encode a location. Active work — RGB ternary, hex, hue approaches tried, no location yet. | Unsolved |

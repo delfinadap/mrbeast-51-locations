@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**85 confirmed, 1 probable, 3 unconfirmed = 89 rows placed, 2 unknown** | *Feb 23, 2026 11:38 AM PT*
+**85 confirmed, 2 probable, 2 unconfirmed = 89 rows placed, 2 unknown** | *Feb 23, 2026 2:15 PM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -95,7 +95,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 44 | 9+6 | Gold-Boat | **E** | Ascension Island | Confirmed |
 | 45 | 6+6 | Purple-Boat | **T** | Iturup, Russia | Confirmed |
 | 46 | 12+3+7 | Yellow-Horse | **W** | Christchurch, New Zealand | Confirmed |
-| 47 | 3+7+9 | Gold-Boat | **E** | New Orleans, Louisiana | Unconfirmed |
+| 47 | 3+7+9 | Gold-Boat | **E** | New Orleans, Louisiana | Probable |
 | 48 | 4+8 | Gold-Boat | **E** | Malé, Maldives | Confirmed |
 | 49 | 9+8 | Green-Plane | **N** | Velingrad, Bulgaria | Confirmed |
 | 50 | 10+7 | Green-Boat | **S** | Casablanca, Morocco | Confirmed |
