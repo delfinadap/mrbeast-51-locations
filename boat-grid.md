@@ -160,8 +160,8 @@ These destinations have been identified but **don't fit any row** on the grid:
 
 | Puzzle | Current city | Lengths | Row needed |
 |--------|-------------|---------|------------|
-| EPANASTROPHE | Derby, W. Australia | 5+9 or 5+7+9 | Row 14 (5+10+4)? Row 38 (5+5+9)? |
-| LIGNIPERDOUS | Hasik, Oman | 5+4 | No match |
+| EPANASTROPHE | Derby, W. Australia | 5+5+9 (Derby Wharf, Australia) | Row 38 ✓ |
+| LIGNIPERDOUS | Hasik, Oman | 5+10+4 (Natif Waterfalls, Oman) | Row 14 ✓ |
 | ~~WINTERBOURNE~~ | ~~Tacurong, Philippines~~ | ~~8+11~~ | ~~Resolved: Row 64 as "Tacurong, The Philippines" (8+3+11)~~ |
 
 ### Stage 1 conflicts

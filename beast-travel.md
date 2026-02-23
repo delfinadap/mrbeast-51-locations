@@ -75,7 +75,7 @@
 | EPANASTROPHE | "Be well at" | **DERBY, Western Australia** — Derby Wharf, Australia (5+5+9) → Row 38 ✓ | Confirmed |
 | EXSANGUINOUS | "You'll love" | **MANAUS, Brazil** | Confirmed |
 | LAMPADEPHORE | "Go to" | **PUNE, India** | Confirmed |
-| LIGNIPERDOUS | "Now enjoy" | **HASIK, Oman** — ⚠️ Format conflict: 5+4 fits no open plane row. | Confirmed |
+| LIGNIPERDOUS | "Now enjoy" | **HASIK, Oman** — Natif Waterfalls, Oman (5+10+4) → Row 14 ✓ | Confirmed |
 | MACHAIRODONT | "Jet on into" | **VELINGRAD, Bulgaria**.| Confirmed |
 | NARRISCHKEIT | "Next stop:" | **MARRAKESH, Morocco** — YSL Museum. | Confirmed |
 | ODORIVECTORS | "Rest up at" | **ORLANDO, Florida** — Airport entrance. | Confirmed |
@@ -126,7 +126,7 @@ Reading the cipher letter from each row in order spells:
 - **Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 — Silver-Boat at pos 12 of FLORIDA = R. ✓ Previously assumed "TAMPA FLORIDA" (5+7) at row 17, which conflicted with cipher (Green-Boat=S ≠ T).
 - **Kandi, Benin:** Confirmed at Row 57 (5+5), BENIN[2]=E ✓. Previous Benin City had cipher conflict.
 - **Gaborone, Botswana:** Confirmed at Row 8 (8+8), BOTSWANA[4]=S ✓. Supersedes Babylon.
-- **1 plane format issue:** Hasik (5+4) doesn't match open plane row 14 (5+10+4). Derby resolved: Derby Wharf, Australia (5+5+9) → Row 38 ✓. Tacurong resolved: "The Philippines" = 8+3+11 → Row 64 ✓.
+- **All plane format issues resolved:** Hasik = Natif Waterfalls, Oman (5+10+4) → Row 14 ✓. Derby = Derby Wharf, Australia (5+5+9) → Row 38 ✓. Tacurong = "The Philippines" (8+3+11) → Row 64 ✓.
 
 ---
 
