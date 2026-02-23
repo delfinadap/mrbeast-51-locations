@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 45 confirmed, 1 probable, 2 unconfirmed = 48 with answers, 3 unsolved.
+**Status:** 46 confirmed, 1 probable, 2 unconfirmed = 49 with answers, 2 unsolved.
 
-**Last updated:** Feb 22, 2026 10:05 PM PT. Promoted 6 Stage 1 locations to Confirmed: Kandi/Benin, Tbilisi, Sucre, Malé, Thane, Gaborone. All verified via boat grid cipher.
+**Last updated:** Feb 23, 2026 8:30 AM PT. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -45,7 +45,7 @@
 
 ---
 
-## Category 3: Non-Screen Commercial Puzzles (10 of 12)
+## Category 3: Non-Screen Commercial Puzzles (11 of 12)
 
 *"The 12 puzzles contained entirely in Sunday's commercial." Visual elements NOT on the 12 lab screens.*
 
@@ -61,8 +61,8 @@
 | TALLINN | Subtitles / transcript | Hyphens adjacent to letters spell "Seven Letter Big Lodge" → "big lodge" = "tall inn" = TALLINN | Confirmed |
 | NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. | Unconfirmed |
 | **YELLOWSTONE** | Smoke grenade | BeastBot: "Grenades demand to be taken literally" + "SMOKE is just a type, the other letters matter" + "4 parts." + "We don't just color text on grenades randomly." Text "1+1=?" is in YELLOW. **YELLOW** + **S** + **T** + **ONE** = **YELLOWSTONE**. Community convergence. Cross-confirmed by boat grid row 83 (only 11-letter word, Gold-Boat=E ✓). | Confirmed |
-| ??? | Camel/llama | BeastBot confirms, points to Saudi Arabia/BEASTLAND. No location extracted. | Unsolved |
-| ??? | **Lab screens (12 screens connected)** | BeastBot confirms all 12 screens form a unified puzzle (Elle Strycharz, Feb 23). Loading bar colors likely encode a location. Active work — RGB ternary, hex, hue approaches tried, no location yet. | Unsolved |
+| **CASABLANCA** | Slack emojis in commercial | Five emojis on Slack screen in SB ad: 🎠**CA**rousel + 🦕**SA**uropod + 🌼**BL**ossom + ⚓**AN**chor + 🏕️**CA**mping = **CASABLANCA**. Solved by Matt (LSG, Feb 12). Grid row 50 (10+7), CASABLANCA[3]=S ✓. | Confirmed |
+| ??? | **Lab screens (12 screens connected)** | BeastBot confirms all 12 screens form a unified puzzle (Elle Strycharz). Loading bar colors likely encode a location. Active work — RGB ternary, hex, hue approaches tried, no location yet. | Unsolved |
 
 ---
 
@@ -108,7 +108,7 @@
 
 ---
 
-## Category 7: Salesforce Site/Social (8 of 9)
+## Category 7: Salesforce Site/Social (9 of 9) ✅
 
 *"The 9 puzzles you'll find on this site or social posts from Salesforce properties."*
 
@@ -141,12 +141,6 @@
 | C1 | **ANTANANARIVO, MG** | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Nick's dot puzzle solve → Antananarivo, Madagascar. BeastBot confirmed. Grid row 86 (12+10), Purple-Boat=T at pos 3 → T ✓. | Confirmed |
 | C2 | **GABORONE, BW** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate synonym = **GABS** = nickname for **Gaborone**, Botswana. Grid row 8 (8+8), Green-Boat=S → BOTSWANA[4]=S ✓. Supersedes Babylon theory (no grid fit). | Confirmed |
 
-### Additional Candidates
-
-| Location | Puzzle | Notes | Status |
-|----------|--------|-------|--------|
-| CASABLANCA | **Slack emoji** | 🎠🦕🌼⚓🏕️ → CA-SA-BL-AN-CA. BeastBot confirms. Category slot uncertain. | **Confirmed** (location) |
-
 ---
 
 ## Category 8: Lone Shark Socials (3 of 3) ✅
@@ -177,14 +171,14 @@
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 1 | 0 |
 | Screen + Bank (paired) | 12 | 11 | 1 (Screen 9 = Windsor? unconfirmed, Screen 10 unsolved) |
-| Non-screen commercial | 12 | 10 | 2 (camel/llama unsolved, lab screens unsolved) |
+| Non-screen commercial | 12 | 11 | 1 (lab screens unsolved) |
 | Gifts | 10 | 10 | 0 |
 | Gift unifier | 1 | 1 | 0 |
 | YouTube shorts/TikTok | 2 | 2 | 0 |
 | Salesforce site/social | 9 | 9 | 0 |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~48** | **~3** |
+| **TOTAL** | **51** | **~49** | **~2** |
 
 ---
 
@@ -219,7 +213,7 @@ The boat page (91 rows) contains a **substitution cipher**: each vehicle icon (c
 - Planes: Blue=J, Green=N, Purple=L, Red=O, Yellow=P
 - Black-Plane=F (inferred)
 
-**Status:** 88/91 rows placed (3 unknown: rows 67, 74, 75). Cipher verified across all placed rows with zero exceptions.
+**Status:** 89/91 rows placed (2 unknown: rows 67, 75). Cipher verified across all placed rows with zero exceptions.
 
 ---
 
