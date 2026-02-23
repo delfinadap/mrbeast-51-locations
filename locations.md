@@ -2,7 +2,7 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 45 confirmed, 0 probable, 3 unconfirmed = 48 with answers, 3 unsolved.
+**Status:** 45 confirmed, 1 probable, 2 unconfirmed = 48 with answers, 3 unsolved.
 
 **Last updated:** Feb 22, 2026 10:05 PM PT. Promoted 6 Stage 1 locations to Confirmed: Kandi/Benin, Tbilisi, Sucre, Malé, Thane, Gaborone. All verified via boat grid cipher.
 
