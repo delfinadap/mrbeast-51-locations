@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**82 confirmed, 3 probable, 4 unconfirmed = 89 rows placed, 2 unknown** | *Feb 23, 2026 11:19 AM PT*
+**84 confirmed, 1 probable, 4 unconfirmed = 89 rows placed, 2 unknown** | *Feb 23, 2026 11:38 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -74,8 +74,8 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 23 | 4+6 | Green-Boat | **S** | Nome, Alaska | Confirmed |
 | 24 | 7+7 | Purple-Boat | **T** | Tallinn, Estonia | Confirmed |
 | 25 | 5+5 | Red-Car | **I** | Surat, India | Confirmed |
-| 26 | 11+6 | Blue-Car | **C** | L'Ascension, Quebec | Unconfirmed |
-| 27 | 7+6 | Black-Horse | **K** | Antalya, Turkey | Probable |
+| 26 | 11+6 | Blue-Car | **C** | L'Ascension, Quebec | Probable |
+| 27 | 7+6 | Black-Horse | **K** | Antalya, Turkey | Confirmed |
 | 28 | 5+5+5 | Green-Boat | **S** | Seoul, South Korea | Confirmed |
 | 29 | 5+6 | Silver-Boat | **R** | Heard Island | Confirmed |
 | 30 | 9+6 | Red-Plane | **O** | Krasnodar, Russia | Confirmed |
@@ -102,7 +102,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 51 | 6+10 | Purple-Boat | **T** | Maputo, Mozambique | Confirmed |
 | 52 | 6+6 | Brown-Boat | **A** | Ankara, Turkey | Confirmed |
 | 53 | 7+6+8 | Purple-Horse | **G** | Castelo Branco, Portugal | Confirmed |
-| 54 | 5+4 | Gold-Boat | **E** | South Pole | Probable |
+| 54 | 5+4 | Gold-Boat | **E** | South Pole | Confirmed |
 | 55 | 9+7 | Red-Plane | **O** | Marrakesh, Morocco | Confirmed |
 | 56 | 8+7 | Green-Plane | **N** | Edmonton, Alberta | Confirmed |
 | 57 | 5+5 | Gold-Boat | **E** | Kandi, Benin | Confirmed |
@@ -128,7 +128,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 77 | 5+10+7 | Red-Horse | **H** | České Budějovice, Czechia | Confirmed |
 | 78 | 11+9+11 | Gold-Boat | **E** | Yellowknife, Northwest Territories | Confirmed |
 | 79 | 6+6 | Green-Boat | **S** | Moscow, Russia | Confirmed |
-| 80 | 6+5 | Red-Horse | **H** | Curicó, Chile | Probable |
+| 80 | 6+5 | Red-Horse | **H** | Curicó, Chile | Confirmed |
 | 81 | 10+7 | Red-Plane | **O** | Cochabamba, Bolivia | Confirmed |
 | 82 | 5+3+7 | Yellow-Horse | **W** | Ōkato, New Zealand | Confirmed |
 | 83 | 11 | Gold-Boat | **E** | Yellowstone | Confirmed |

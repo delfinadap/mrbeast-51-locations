@@ -2,13 +2,13 @@
 
 **URL:** [beast.travel](https://beast.travel/) — "© NOT A REAL TRAVEL COMPANY" / Made by Lone Shark Games
 
-*Updated: Feb 23, 2026 11:19 AM PT*
+*Updated: Feb 23, 2026 11:38 AM PT*
 
 **Hint 8:** "Take your 50 locations and your crossword to Beast Travel and go on many a wild vacation!"
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
 
-**Status:** 36 confirmed, 2 probable, 2 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 22, 2026 10:30 PM PT*
+**Status:** 38 confirmed, 1 probable, 1 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 23, 2026 11:38 AM PT*
 
 ---
 
@@ -40,7 +40,7 @@
 | SALAMANDROID | "Stop off at" | "Lady of the Sea" | **GENOA, Italy** — "Lady of the Sea." **Grid fit: Row 7 (5+5), ITALY[5]=Y ✓.** | Confirmed |
 | SCAPULOMANCY | "Relax at" | "Island of Death" | **MAYOTTE, France** — derives from Arabic "Island of Death" (Mawt). **Grid fit: Row 6 (7), MAYOTTE[1]=M ✓.** | Confirmed |
 | THEANTHROPIC | "Encounter" | "Motherland of Cherry" | **GIRESUN, Turkey** — official city website: "Motherland of Cherry." Kerasus = root of "cherry." **Grid fit: Row 11 (7+6), GIRESUN[6]=U ✓.** | Confirmed |
-| ULTRAMONTANE | "Hop over to" | "Valley of the Rouge" | **L'ASCENSION, Quebec** — known as "La Vallée de la Rouge." CanCon = Canadian Content. | Unconfirmed |
+| ULTRAMONTANE | "Hop over to" | "Valley of the Rouge" | **L'ASCENSION, Quebec** — known as "La Vallée de la Rouge." CanCon = Canadian Content. | Probable |
 
 ---
 
@@ -56,9 +56,9 @@
 | LACHRYMIFORM | "Now booking" | driven.hint.improving | **CHRISTCHURCH, New Zealand** | Confirmed |
 | LAEVODUCTION | "Ride out to" | dusts.enigma.desks | **CASTELO BRANCO, Portugal** | Confirmed |
 | OLERICULTURE | "Swing by" | calibrate.charted.nuzzle | **SOKODE, Togo**.| Confirmed |
-| SCAFFMASTERS | "Holiday in" | quiz.delivers.equality | **CURICÓ, Chile**. | Probable |
+| SCAFFMASTERS | "Holiday in" | quiz.delivers.equality | **CURICÓ, Chile**. | Confirmed |
 | UNDERBRIDGES | "Revisit" | cryptically.packaging.bathrooms | **MONKEY BAY, Malawi**.| Confirmed |
-| WINDCHEATERS | "Time for" | sticky.rejected.jigsaw | **ANTALYA, Turkey**. | Probable |
+| WINDCHEATERS | "Time for" | sticky.rejected.jigsaw | **ANTALYA, Turkey**. | Confirmed |
 
 ---
 

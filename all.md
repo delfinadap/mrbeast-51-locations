@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**46 confirmed, 1 probable, 2 unconfirmed = 49 with answers, 2 unsolved** | *Feb 23, 2026 11:19 AM PT*
+**47 confirmed, 0 probable, 2 unconfirmed = 49 with answers, 2 unsolved** | *Feb 23, 2026 11:38 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -43,7 +43,7 @@
 | 35 | Gift | BUFFALO | Botez — Chess Game 6 cipher | Confirmed |
 | 36 | Gift Unifier | **SUCRE, Bolivia** | Golden Present Matrix → "A NICE SUGAR" → Nice (France) + sugar (French) = Sucre. Grid row 17, SUCRE[1]=S ✓. | Confirmed |
 | 37 | YT Short | **QUITO, Ecuador** | Mirror video — KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador" | Confirmed |
-| 38 | YT Short | **SOUTH POLE** | Super Bowl ticket short — "Super Bowl" text changes to "South Pole" on screen. Grid row 54 (5+4), POLE[4]=E ✓. | Probable |
+| 38 | YT Short | **SOUTH POLE** | Super Bowl ticket short — "Super Bowl" text changes to "South Pole" on screen. Grid row 54 (5+4), POLE[4]=E ✓. | Confirmed |
 | 39 | SF: BTS (A1) | **MALÉ, Maldives** | Malcolm — "Male Mal dives." Omega ⦿. BeastBot + Vigenere confirmation. | Confirmed |
 | 40 | SF: BTS (A2) | **ITURUP** | Submarine Math — grid + subscriber count → ASCII. | Confirmed |
 | 41 | SF: BTS (A3) | YELLOWKNIFE | Puzzle Maker — BTS video 6:19. | Confirmed |

@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 46 confirmed, 1 probable, 2 unconfirmed = 49 with answers, 2 unsolved.
+**Status:** 47 confirmed, 0 probable, 2 unconfirmed = 49 with answers, 2 unsolved.
 
-**Last updated:** Feb 23, 2026 11:19 AM PT. Bulk confidence sync across all pages. Mubi reverted to Unconfirmed. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
+**Last updated:** Feb 23, 2026 11:38 AM PT. Bulk confidence sync across all pages. Mubi reverted to Unconfirmed. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -104,7 +104,7 @@
 | # | Location | Video | Notes | Confidence |
 |---|----------|-------|-------|------------|
 | 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" | 5 red items → phonetic: KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador." BeastBot confirms cow, bear, and red doors. | Confirmed |
-| 2 | **SOUTH POLE** | Super Bowl ticket short | YouTube short: "Super Bowl" text changes to "South Pole" on screen. Grid row 54 (5+4), POLE[4]=E ✓. Replaces Alofi, Niue. | Probable |
+| 2 | **SOUTH POLE** | Super Bowl ticket short | YouTube short: "Super Bowl" text changes to "South Pole" on screen. Grid row 54 (5+4), POLE[4]=E ✓. Replaces Alofi, Niue. | Confirmed |
 
 ---
 
