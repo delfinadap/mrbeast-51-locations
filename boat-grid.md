@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**83 confirmed, 4 probable, 2 unconfirmed = 89 rows placed, 2 unknown** | *Feb 23, 2026 11:08 AM PT*
+**82 confirmed, 4 probable, 3 unconfirmed = 89 rows placed, 2 unknown** | *Feb 23, 2026 11:18 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -85,7 +85,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 34 | 4+4 | Silver-Boat | **R** | Lima, Peru | Confirmed |
 | 35 | 10+7 | Gold-Boat | **E** | Copenhagen, Denmark | Confirmed |
 | 36 | 7+7 | Green-Boat | **S** | Algiers, Algeria | Confirmed |
-| 37 | 4+7 | Yellow-Car | **U** | Mubi, Nigeria | Confirmed |
+| 37 | 4+7 | Yellow-Car | **U** | Mubi, Nigeria | Unconfirmed |
 | 38 | 5+5+9 | Purple-Plane | **L** | Derby Wharf, Australia | Confirmed |
 | 39 | 5+7 | Purple-Boat | **T** | Quito, Ecuador | Confirmed |
 | 40 | 5+6 | Green-Boat | **S** | Arles, France | Confirmed |
