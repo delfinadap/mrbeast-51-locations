@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**Status:** 75 rows placed, 16 unknown | *Feb 23, 2026*
+**Status:** 88 rows placed, 3 unknown | *Feb 23, 2026*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -19,27 +19,27 @@ Here it is word by word, showing which rows are solved (✓) vs unknown (?):
 | Word | Rows | Letters | Status |
 |------|------|---------|--------|
 | IN | 1–2 | I, N | ✓✓ |
-| JIMMY'S | 3–8 | J, I, M, M, Y, S | ✓✓✓✓?? |
+| JIMMY'S | 3–8 | J, I, M, M, Y, S | ✓✓✓✓✓✓ |
 | VAULT, | 9–13 | V, A, U, L, T | ✓✓✓✓✓ |
-| FIRST | 14–18 | F, I, R, S, T | ?✓??✓ |
+| FIRST | 14–18 | F, I, R, S, T | ✓✓✓✓✓ |
 | PART | 19–22 | P, A, R, T | ✓✓✓✓ |
 | STICKS | 23–28 | S, T, I, C, K, S | ✓✓✓✓✓✓ |
-| ROAMY | 29–33 | R, O, A, M, Y | ?✓✓?✓ |
-| RESULTS | 34–40 | R, E, S, U, L, T, S | ✓✓✓??✓✓ |
+| ROAMY | 29–33 | R, O, A, M, Y | ✓✓✓✓✓ |
+| RESULTS | 34–40 | R, E, S, U, L, T, S | ✓✓✓✓✓✓✓ |
 | IN | 41–42 | I, N | ✓✓ |
 | BETWEEN | 43–49 | B, E, T, W, E, E, N | ✓✓✓✓✓✓✓ |
 | STAGE | 50–54 | S, T, A, G, E | ✓✓✓✓✓ |
-| ONE | 55–57 | O, N, E | ✓✓? |
+| ONE | 55–57 | O, N, E | ✓✓✓ |
 | ANSWER | 58–63 | A, N, S, W, E, R | ✓✓✓✓✓✓ |
-| PAIRS. | 64–68 | P, A, I, R, S | ??✓?✓ |
-| LAST | 69–72 | L, A, S, T | ✓✓✓? |
-| PART | 73–76 | P, A, R, T | ✓?✓? |
+| PAIRS. | 64–68 | P, A, I, R, S | ✓✓✓?✓ |
+| LAST | 69–72 | L, A, S, T | ✓✓✓✓ |
+| PART | 73–76 | P, A, R, T | ✓?✓✓ |
 | HE | 77–78 | H, E | ✓✓ |
 | SHOWED | 79–84 | S, H, O, W, E, D | ✓✓✓✓✓✓ |
-| AT | 85–86 | A, T | ✓? |
+| AT | 85–86 | A, T | ✓✓ |
 | START. | 87–91 | S, T, A, R, T | ✓✓✓✓✓ |
 
-**73 of 91 rows filled. 18 remain unknown.**
+**88 of 91 rows filled. 3 remain unknown (rows 67, 74, 75).**
 
 ---
 
