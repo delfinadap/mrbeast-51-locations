@@ -72,7 +72,7 @@
 | ABSQUATULATE | "Such fun at" | **SAINT-PIERRE, SPM** | Confirmed |
 | ECTYPOGRAPHY | "Come visit" | **KRASNODAR, Russia** | Confirmed |
 | ELEEMOSYNARY | "Chill at" | **TUCUMÁN, Argentina** | Confirmed |
-| EPANASTROPHE | "Be well at" | **DERBY, Western Australia** — ⚠️ Format conflict: 5+9 or 5+7+9 fits no open plane row. | Confirmed |
+| EPANASTROPHE | "Be well at" | **DERBY, Western Australia** — Derby Wharf, Australia (5+5+9) → Row 38 ✓ | Confirmed |
 | EXSANGUINOUS | "You'll love" | **MANAUS, Brazil** | Confirmed |
 | LAMPADEPHORE | "Go to" | **PUNE, India** | Confirmed |
 | LIGNIPERDOUS | "Now enjoy" | **HASIK, Oman** — ⚠️ Format conflict: 5+4 fits no open plane row. | Confirmed |
@@ -126,7 +126,7 @@ Reading the cipher letter from each row in order spells:
 - **Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 — Silver-Boat at pos 12 of FLORIDA = R. ✓ Previously assumed "TAMPA FLORIDA" (5+7) at row 17, which conflicted with cipher (Green-Boat=S ≠ T).
 - **Kandi, Benin:** Confirmed at Row 57 (5+5), BENIN[2]=E ✓. Previous Benin City had cipher conflict.
 - **Gaborone, Botswana:** Confirmed at Row 8 (8+8), BOTSWANA[4]=S ✓. Supersedes Babylon.
-- **2 plane format issues:** Derby (5+9) and Hasik (5+4) don't match open plane rows 14 (5+10+4) and 38 (5+5+9). GeoGuessr locations confirmed but beast.travel name format uncertain. Tacurong resolved: "The Philippines" = 8+3+11 → Row 64 ✓.
+- **1 plane format issue:** Hasik (5+4) doesn't match open plane row 14 (5+10+4). Derby resolved: Derby Wharf, Australia (5+5+9) → Row 38 ✓. Tacurong resolved: "The Philippines" = 8+3+11 → Row 64 ✓.
 
 ---
 
