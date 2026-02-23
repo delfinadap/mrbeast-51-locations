@@ -6,7 +6,7 @@
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
 
-**Status:** 34 confirmed, 4 probable, 2 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 22, 2026 10:22 PM PT*
+**Status:** 36 confirmed, 2 probable, 2 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 22, 2026 10:30 PM PT*
 
 ---
 
@@ -24,13 +24,13 @@
 
 | Destination | Caption | Nickname Decoded | Solve | Status |
 |-------------|---------|-----------------|-------|--------|
-| BARODYNAMICS | "Join us at" | "Oil City" | **CASPER, Wyoming** — "The Oil City." Hint 11: take literally. | Probable |
+| BARODYNAMICS | "Join us at" | "Oil City" | **CASPER, Wyoming** — "The Oil City." Hint 11: "not its name" eliminates Oil City PA. **Grid fit: Row 5 (6+7), WYOMING[4]=M ✓.** | Confirmed |
 | EBULLIOSCOPE | "See lovely" | "City of 33 Churches" | **ARZAMAS, Russia** — image shows ~33 Orthodox churches. Omega ⦿. | Confirmed |
 | FURFURACEOUS | "Meet us at" | "Home/City of Peace" | **MUBI, Nigeria** — DW article: "In Nigeria, Mubi is known as the city of peace." **Grid fit: Row 37 (4+7), Yellow-Car=U at pos 2 → MUBI[2]=U ✓.** Previous: Maiduguri (strong nickname, no grid fit). | Unconfirmed |
 | HAPAXANTHOUS | "You'll like" | "City of Winds" | **BAKU, Azerbaijan** — multiple solvers converged. | Confirmed |
 | HEKISTOTHERM | "Get down to" | "Capital of the Plains" | **MOORA, Australia** — Official Shire of Moora website: "Capital of the Plains." Exact nickname match. **Grid fit: Row 32 (5+9), MOORA[1]=M ✓.** | Confirmed |
 | INCLINOMETER | "Come to" | "Diamond City of India" | **SURAT, India** — processes 90% of world's diamonds. | Confirmed |
-| MARIMBAPHONE | "Head off to" | "Queen City of the North" | **MARQUETTE, MI** — official nickname. | Probable |
+| MARIMBAPHONE | "Head off to" | "Queen City of the North" | **MARQUETTE, MI** — primary holder of this nickname. EG + Rose confirm. **Grid fit: Row 66 (9+8), MICHIGAN[2]=I ✓.** | Confirmed |
 | NEBULOPHOBIA | "Return to" | "Gateway to Death Valley" | **BEATTY, Nevada**.| Confirmed |
 | OCHROLEUCOUS | "Drop in on" | "Pearl of the North" (Arabic) | **MOSUL, Iraq** — only Arabic-speaking "Pearl of the North." | Confirmed |
 | RECEPTACULAR | "Stay at" | "City of Roses" + "City of Ruins" | **VISBY, Sweden** — Gotland island. | Confirmed |
@@ -93,7 +93,7 @@ The boat page shows 91 rows of white squares with occasional colored vehicle ico
 
 ### Vehicle-Color Cipher
 
-**Discovery:** Each (color, vehicle) combination *always* replaces the same letter — a simple substitution cipher. Verified across 50/51 confirmed rows with zero exceptions.
+**Discovery:** Each (color, vehicle) combination *always* replaces the same letter — a simple substitution cipher. Verified across all 88 placed rows with zero exceptions.
 
 | Vehicle | Brown | Gold | Green | Purple | Silver | Black | Blue | Red | Yellow |
 |---------|-------|------|-------|--------|--------|-------|------|-----|--------|
@@ -124,7 +124,7 @@ Reading the cipher letter from each row in order spells:
 - **Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 — Silver-Boat at pos 12 of FLORIDA = R. ✓ Previously assumed "TAMPA FLORIDA" (5+7) at row 17, which conflicted with cipher (Green-Boat=S ≠ T).
 - **Kandi, Benin:** Confirmed at Row 57 (5+5), BENIN[2]=E ✓. Previous Benin City had cipher conflict.
 - **Gaborone, Botswana:** Confirmed at Row 8 (8+8), BOTSWANA[4]=S ✓. Supersedes Babylon.
-- **3 plane format issues:** Derby (5+9), Hasik (5+4), Tacurong (8+11) don't match open plane rows 14 (5+10+4), 38 (5+5+9), 64 (8+3+11). GeoGuessr locations confirmed but beast.travel name format uncertain.
+- **2 plane format issues:** Derby (5+9) and Hasik (5+4) don't match open plane rows 14 (5+10+4) and 38 (5+5+9). GeoGuessr locations confirmed but beast.travel name format uncertain. Tacurong resolved: "The Philippines" = 8+3+11 → Row 64 ✓.
 
 ---
 

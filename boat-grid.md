@@ -53,7 +53,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 2 | 9+5+8 | Green-Plane | **N** | Charlotte, North Carolina | Confirmed |
 | 3 | 7+10 | Blue-Plane | **J** | Ambanja, Madagascar | Confirmed |
 | 4 | 7+6 | Red-Car | **I** | Arzamas, Russia | Confirmed |
-| 5 | 6+7 | Purple-Car | **M** | Casper, Wyoming | Probable |
+| 5 | 6+7 | Purple-Car | **M** | Casper, Wyoming | Confirmed |
 | 6 | 7 | Purple-Car | **M** | Mayotte | Confirmed |
 | 7 | 5+5 | Black-Car | **Y** | Genoa, Italy | Confirmed |
 | 8 | 8+8 | Green-Boat | **S** | Gaborone, Botswana | Confirmed |
@@ -114,7 +114,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 63 | 5+3+7 | Silver-Boat | **R** | Tampa Bay, Florida | Confirmed |
 | 64 | 8+3+11 | Yellow-Plane | **P** | Tacurong, The Philippines | Probable |
 | 65 | 5+5 | Brown-Boat | **A** | Thane, India | Confirmed |
-| 66 | 9+8 | Red-Car | **I** | Marquette, Michigan | Probable |
+| 66 | 9+8 | Red-Car | **I** | Marquette, Michigan | Confirmed |
 | 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
 | 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Confirmed |
 | 69 | 11+6 | Purple-Plane | **L** | Vladivostok, Russia | Confirmed |
