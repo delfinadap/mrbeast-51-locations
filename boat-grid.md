@@ -45,101 +45,101 @@ Here it is word by word, showing which rows are solved (✓) vs unknown (?):
 
 ## Full Grid (91 rows)
 
-Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces one letter.
+Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces one letter. Pattern: □ = letter square, ■ = vehicle icon position, gaps = word breaks.
 
-| # | Lengths | Vehicle | Letter | Location | Confidence |
-|---|---------|---------|--------|----------|------------|
-| 1 | 5+4 | Red-Car | **I** | Mosul, Iraq | Confirmed |
-| 2 | 9+5+8 | Green-Plane | **N** | Charlotte, North Carolina | Confirmed |
-| 3 | 7+10 | Blue-Plane | **J** | Ambanja, Madagascar | Confirmed |
-| 4 | 7+6 | Red-Car | **I** | Arzamas, Russia | Confirmed |
-| 5 | 6+7 | Purple-Car | **M** | Casper, Wyoming | Confirmed |
-| 6 | 7 | Purple-Car | **M** | Mayotte | Confirmed |
-| 7 | 5+5 | Black-Car | **Y** | Genoa, Italy | Confirmed |
-| 8 | 8+8 | Green-Boat | **S** | Gaborone, Botswana | Confirmed |
-| 9 | 4+6+6 | Green-Horse | **V** | Nova Russas, Brazil | Confirmed |
-| 10 | 5+11 | Brown-Boat | **A** | Kabul, Afghanistan | Confirmed |
-| 11 | 7+6 | Yellow-Car | **U** | Giresun, Turkey | Confirmed |
-| 12 | 3+6+2+7+9 | Purple-Plane | **L** | San Miguel de Tucumán, Argentina | Confirmed |
-| 13 | 5+4+3+7 | Purple-Boat | **T** | Lower Hutt, New Zealand | Confirmed |
-| 14 | 5+10+4 | Black-Plane | **F** | Natif Waterfalls, Oman | Confirmed |
-| 15 | 4+10 | Red-Car | **I** | Baku, Azerbaijan | Confirmed |
-| 16 | 7+7 | Silver-Boat | **R** | Windsor, Ontario | Unconfirmed |
-| 17 | 5+7 | Green-Boat | **S** | Sucre, Bolivia | Confirmed |
-| 18 | 5+5 | Purple-Boat | **T** | Cairo, Egypt | Confirmed |
-| 19 | 4+5 | Yellow-Plane | **P** | Pune, India | Confirmed |
-| 20 | 7+3+4 | Brown-Boat | **A** | Buffalo, New York | Confirmed |
-| 21 | 6+3+5 | Silver-Boat | **R** | Tierra del Fuego | Confirmed |
-| 22 | 4+12 | Purple-Boat | **T** | Divo, Côte d'Ivoire | Confirmed |
-| 23 | 4+6 | Green-Boat | **S** | Nome, Alaska | Confirmed |
-| 24 | 7+7 | Purple-Boat | **T** | Tallinn, Estonia | Confirmed |
-| 25 | 5+5 | Red-Car | **I** | Surat, India | Confirmed |
-| 26 | 11+6 | Blue-Car | **C** | L'Ascension, Quebec | Probable |
-| 27 | 7+6 | Black-Horse | **K** | Antalya, Turkey | Confirmed |
-| 28 | 5+5+5 | Green-Boat | **S** | Seoul, South Korea | Confirmed |
-| 29 | 5+6 | Silver-Boat | **R** | Heard Island | Confirmed |
-| 30 | 9+6 | Red-Plane | **O** | Krasnodar, Russia | Confirmed |
-| 31 | 16+7 | Brown-Boat | **A** | Eyjafjallajökull, Iceland | Confirmed |
-| 32 | 5+9 | Purple-Car | **M** | Moora, Australia | Confirmed |
-| 33 | 6+6 | Black-Car | **Y** | Beatty, Nevada | Confirmed |
-| 34 | 4+4 | Silver-Boat | **R** | Lima, Peru | Confirmed |
-| 35 | 10+7 | Gold-Boat | **E** | Copenhagen, Denmark | Confirmed |
-| 36 | 7+7 | Green-Boat | **S** | Algiers, Algeria | Confirmed |
-| 37 | 4+7 | Yellow-Car | **U** | Mubi, Nigeria | Unconfirmed |
-| 38 | 5+5+9 | Purple-Plane | **L** | Derby Wharf, Australia | Confirmed |
-| 39 | 5+7 | Purple-Boat | **T** | Quito, Ecuador | Confirmed |
-| 40 | 5+6 | Green-Boat | **S** | Arles, France | Confirmed |
-| 41 | 8+6 | Red-Car | **I** | Istanbul, Turkey | Confirmed |
-| 42 | 6+6 | Green-Plane | **N** | Manaus, Brazil | Confirmed |
-| 43 | 5+6 | Green-Car | **B** | Visby, Sweden | Confirmed |
-| 44 | 9+6 | Gold-Boat | **E** | Ascension Island | Confirmed |
-| 45 | 6+6 | Purple-Boat | **T** | Iturup, Russia | Confirmed |
-| 46 | 12+3+7 | Yellow-Horse | **W** | Christchurch, New Zealand | Confirmed |
-| 47 | 3+7+9 | Gold-Boat | **E** | New Orleans, Louisiana | Probable |
-| 48 | 4+8 | Gold-Boat | **E** | Malé, Maldives | Confirmed |
-| 49 | 9+8 | Green-Plane | **N** | Velingrad, Bulgaria | Confirmed |
-| 50 | 10+7 | Green-Boat | **S** | Casablanca, Morocco | Confirmed |
-| 51 | 6+10 | Purple-Boat | **T** | Maputo, Mozambique | Confirmed |
-| 52 | 6+6 | Brown-Boat | **A** | Ankara, Turkey | Confirmed |
-| 53 | 7+6+8 | Purple-Horse | **G** | Castelo Branco, Portugal | Confirmed |
-| 54 | 5+4 | Gold-Boat | **E** | South Pole | Confirmed |
-| 55 | 9+7 | Red-Plane | **O** | Marrakesh, Morocco | Confirmed |
-| 56 | 8+7 | Green-Plane | **N** | Edmonton, Alberta | Confirmed |
-| 57 | 5+5 | Gold-Boat | **E** | Kandi, Benin | Confirmed |
-| 58 | 6+9 | Brown-Boat | **A** | Kupang, Indonesia | Confirmed |
-| 59 | 7+7 | Green-Plane | **N** | Orlando, Florida | Confirmed |
-| 60 | 6+8 | Green-Boat | **S** | Lahore, Pakistan | Confirmed |
-| 61 | 6+3+6 | Yellow-Horse | **W** | Monkey Bay, Malawi | Confirmed |
-| 62 | 3+2+2+10 | Gold-Boat | **E** | Île de la Possession | Confirmed |
-| 63 | 5+3+7 | Silver-Boat | **R** | Tampa Bay, Florida | Confirmed |
-| 64 | 8+3+11 | Yellow-Plane | **P** | Tacurong, The Philippines | Confirmed |
-| 65 | 5+5 | Brown-Boat | **A** | Thane, India | Confirmed |
-| 66 | 9+8 | Red-Car | **I** | Marquette, Michigan | Confirmed |
-| 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
-| 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Confirmed |
-| 69 | 11+6 | Purple-Plane | **L** | Vladivostok, Russia | Confirmed |
-| 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois | Confirmed |
-| 71 | 4+4+8 | Green-Boat | **S** | Toad Suck, Arkansas | Confirmed |
-| 72 | 6+5+8 | Purple-Boat | **T** | Nazaré Coast, Portugal | Confirmed |
-| 73 | 12 | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
-| 74 | 10+9 | Brown-Boat | **A** | Queensland, Australia | Confirmed |
-| 75 | 5+4+7 | Silver-Boat | **R** | ??? (Kandi ruled out — cipher conflict) | Unknown |
-| 76 | 4+5 | Purple-Boat | **T** | Doha, Qatar | Confirmed |
-| 77 | 5+10+7 | Red-Horse | **H** | České Budějovice, Czechia | Confirmed |
-| 78 | 11+9+11 | Gold-Boat | **E** | Yellowknife, Northwest Territories | Confirmed |
-| 79 | 6+6 | Green-Boat | **S** | Moscow, Russia | Confirmed |
-| 80 | 6+5 | Red-Horse | **H** | Curicó, Chile | Confirmed |
-| 81 | 10+7 | Red-Plane | **O** | Cochabamba, Bolivia | Confirmed |
-| 82 | 5+3+7 | Yellow-Horse | **W** | Ōkato, New Zealand | Confirmed |
-| 83 | 11 | Gold-Boat | **E** | Yellowstone | Confirmed |
-| 84 | 6+4 | Blue-Horse | **D** | Sokodé, Togo | Confirmed |
-| 85 | 5+5 | Brown-Boat | **A** | Accra, Ghana | Confirmed |
-| 86 | 12+10 | Purple-Boat | **T** | Antananarivo, Madagascar | Confirmed |
-| 87 | 8+10 | Green-Boat | **S** | Tashkent, Uzbekistan | Confirmed |
-| 88 | 5+8 | Purple-Boat | **T** | Dimtu, Ethiopia | Confirmed |
-| 89 | 7+6 | Brown-Boat | **A** | Tijuana, Mexico | Confirmed |
-| 90 | 8+6 | Silver-Boat | **R** | Montreal, Canada | Confirmed |
-| 91 | 7+6 | Purple-Boat | **T** | Wichita, Kansas | Confirmed |
+| # | Lengths | Pattern | Vehicle | Letter | Location | Confidence |
+|---|---------|---------|---------|--------|----------|------------|
+| 1 | 5+4 | □□□□□   ■□□□ | Red-Car | **I** | Mosul, Iraq | Confirmed |
+| 2 | 9+5+8 | □□□□□□□□□   ■□□□□   □□□□□□□□ | Green-Plane | **N** | Charlotte, North Carolina | Confirmed |
+| 3 | 7+10 | □□□□□■□   □□□□□□□□□□ | Blue-Plane | **J** | Ambanja, Madagascar | Confirmed |
+| 4 | 7+6 | □□□□□□□   □□□□■□ | Red-Car | **I** | Arzamas, Russia | Confirmed |
+| 5 | 6+7 | □□□□□□   □□□■□□□ | Purple-Car | **M** | Casper, Wyoming | Confirmed |
+| 6 | 7 | ■□□□□□□ | Purple-Car | **M** | Mayotte | Confirmed |
+| 7 | 5+5 | □□□□□   □□□□■ | Black-Car | **Y** | Genoa, Italy | Confirmed |
+| 8 | 8+8 | □□□□□□□□   □□□■□□□□ | Green-Boat | **S** | Gaborone, Botswana | Confirmed |
+| 9 | 4+6+6 | □□■□   □□□□□□   □□□□□□ | Green-Horse | **V** | Nova Russas, Brazil | Confirmed |
+| 10 | 5+11 | □□□□□   □□□□■□□□□□□ | Brown-Boat | **A** | Kabul, Afghanistan | Confirmed |
+| 11 | 7+6 | □□□□□■□   □□□□□□ | Yellow-Car | **U** | Giresun, Turkey | Confirmed |
+| 12 | 3+6+2+7+9 | □□□   □□□□□■   □□   □□□□□□□   □□□□□□□□□ | Purple-Plane | **L** | San Miguel de Tucumán, Argentina | Confirmed |
+| 13 | 5+4+3+7 | □□□□□   □□■□   □□□   □□□□□□□ | Purple-Boat | **T** | Lower Hutt, New Zealand | Confirmed |
+| 14 | 5+10+4 | □□□□■   □□□□□□□□□□   □□□□ | Black-Plane | **F** | Natif Waterfalls, Oman | Confirmed |
+| 15 | 4+10 | □□□□   □□□□□□■□□□ | Red-Car | **I** | Baku, Azerbaijan | Confirmed |
+| 16 | 7+7 | □□□□□□■   □□□□□□□ | Silver-Boat | **R** | Windsor, Ontario | Unconfirmed |
+| 17 | 5+7 | ■□□□□   □□□□□□□ | Green-Boat | **S** | Sucre, Bolivia | Confirmed |
+| 18 | 5+5 | □□□□□   □□□□■ | Purple-Boat | **T** | Cairo, Egypt | Confirmed |
+| 19 | 4+5 | ■□□□   □□□□□ | Yellow-Plane | **P** | Pune, India | Confirmed |
+| 20 | 7+3+4 | □□□□■□□   □□□   □□□□ | Brown-Boat | **A** | Buffalo, New York | Confirmed |
+| 21 | 6+3+5 | □□□□■□   □□□   □□□□□ | Silver-Boat | **R** | Tierra del Fuego | Confirmed |
+| 22 | 4+12 | □□□□   □□■□'□□□□□□□ | Purple-Boat | **T** | Divo, Côte d'Ivoire | Confirmed |
+| 23 | 4+6 | □□□□   □□□■□□ | Green-Boat | **S** | Nome, Alaska | Confirmed |
+| 24 | 7+7 | □□□□□□□   □□■□□□□ | Purple-Boat | **T** | Tallinn, Estonia | Confirmed |
+| 25 | 5+5 | □□□□□   □□□■□ | Red-Car | **I** | Surat, India | Confirmed |
+| 26 | 11+6 | □'□□■□□□□□□   □□□□□□ | Blue-Car | **C** | L'Ascension, Quebec | Probable |
+| 27 | 7+6 | □□□□□□□   □□□■□□ | Black-Horse | **K** | Antalya, Turkey | Confirmed |
+| 28 | 5+5+5 | □□□□□   ■□□□□   □□□□□ | Green-Boat | **S** | Seoul, South Korea | Confirmed |
+| 29 | 5+6 | □□□■□   □□□□□□ | Silver-Boat | **R** | Heard Island | Confirmed |
+| 30 | 9+6 | □□□□□■□□□   □□□□□□ | Red-Plane | **O** | Krasnodar, Russia | Confirmed |
+| 31 | 16+7 | □□□□□□□□□■□□□□□□   □□□□□□□ | Brown-Boat | **A** | Eyjafjallajökull, Iceland | Confirmed |
+| 32 | 5+9 | ■□□□□   □□□□□□□□□ | Purple-Car | **M** | Moora, Australia | Confirmed |
+| 33 | 6+6 | □□□□□■   □□□□□□ | Black-Car | **Y** | Beatty, Nevada | Confirmed |
+| 34 | 4+4 | □□□□   □□■□ | Silver-Boat | **R** | Lima, Peru | Confirmed |
+| 35 | 10+7 | □□□□□□□□■□   □□□□□□□ | Gold-Boat | **E** | Copenhagen, Denmark | Confirmed |
+| 36 | 7+7 | □□□□□□■   □□□□□□□ | Green-Boat | **S** | Algiers, Algeria | Confirmed |
+| 37 | 4+7 | □■□□   □□□□□□□ | Yellow-Car | **U** | Mubi, Nigeria | Unconfirmed |
+| 38 | 5+5+9 | □□□□□   □□□□□   □□□□□□■□□ | Purple-Plane | **L** | Derby Wharf, Australia | Confirmed |
+| 39 | 5+7 | □□□■□   □□□□□□□ | Purple-Boat | **T** | Quito, Ecuador | Confirmed |
+| 40 | 5+6 | □□□□■   □□□□□□ | Green-Boat | **S** | Arles, France | Confirmed |
+| 41 | 8+6 | ■□□□□□□□   □□□□□□ | Red-Car | **I** | Istanbul, Turkey | Confirmed |
+| 42 | 6+6 | □□■□□□   □□□□□□ | Green-Plane | **N** | Manaus, Brazil | Confirmed |
+| 43 | 5+6 | □□□■□   □□□□□□ | Green-Car | **B** | Visby, Sweden | Confirmed |
+| 44 | 9+6 | □□□■□□□□□   □□□□□□ | Gold-Boat | **E** | Ascension Island | Confirmed |
+| 45 | 6+6 | □■□□□□   □□□□□□ | Purple-Boat | **T** | Iturup, Russia | Confirmed |
+| 46 | 12+3+7 | □□□□□□□□□□□□   □□■   □□□□□□□ | Yellow-Horse | **W** | Christchurch, New Zealand | Confirmed |
+| 47 | 3+7+9 | □□□   □□□■□□□   □□□□□□□□□ | Gold-Boat | **E** | New Orleans, Louisiana | Probable |
+| 48 | 4+8 | □□□□   □□□□□□■□ | Gold-Boat | **E** | Malé, Maldives | Confirmed |
+| 49 | 9+8 | □□□□■□□□□   □□□□□□□□ | Green-Plane | **N** | Velingrad, Bulgaria | Confirmed |
+| 50 | 10+7 | □□■□□□□□□□   □□□□□□□ | Green-Boat | **S** | Casablanca, Morocco | Confirmed |
+| 51 | 6+10 | □□□□■□   □□□□□□□□□□ | Purple-Boat | **T** | Maputo, Mozambique | Confirmed |
+| 52 | 6+6 | □□□□□■   □□□□□□ | Brown-Boat | **A** | Ankara, Turkey | Confirmed |
+| 53 | 7+6+8 | □□□□□□□   □□□□□□   □□□□□■□□ | Purple-Horse | **G** | Castelo Branco, Portugal | Confirmed |
+| 54 | 5+4 | □□□□□   □□□■ | Gold-Boat | **E** | South Pole | Confirmed |
+| 55 | 9+7 | □□□□□□□□□   □□□■□□□ | Red-Plane | **O** | Marrakesh, Morocco | Confirmed |
+| 56 | 8+7 | □□□□■□□□   □□□□□□□ | Green-Plane | **N** | Edmonton, Alberta | Confirmed |
+| 57 | 5+5 | □□□□□   □■□□□ | Gold-Boat | **E** | Kandi, Benin | Confirmed |
+| 58 | 6+9 | □□□■□□   □□□□□□□□□ | Brown-Boat | **A** | Kupang, Indonesia | Confirmed |
+| 59 | 7+7 | □□□□■□□   □□□□□□□ | Green-Plane | **N** | Orlando, Florida | Confirmed |
+| 60 | 6+8 | □□□□□□   □□□□■□□□ | Green-Boat | **S** | Lahore, Pakistan | Confirmed |
+| 61 | 6+3+6 | □□□□□□   □□□   □□□□■□ | Yellow-Horse | **W** | Monkey Bay, Malawi | Confirmed |
+| 62 | 3+2+2+10 | □□□   □□   □□   □□□□■□□□□□ | Gold-Boat | **E** | Île de la Possession | Confirmed |
+| 63 | 5+3+7 | □□□□□   □□□   □□□■□□□ | Silver-Boat | **R** | Tampa Bay, Florida | Confirmed |
+| 64 | 8+3+11 | □□□□□□□□   □□□   □□□□□■□□□□□ | Yellow-Plane | **P** | Tacurong, The Philippines | Confirmed |
+| 65 | 5+5 | □□■□□   □□□□□ | Brown-Boat | **A** | Thane, India | Confirmed |
+| 66 | 9+8 | □□□□□□□□□   □■□□□□□□ | Red-Car | **I** | Marquette, Michigan | Confirmed |
+| 67 | 6+5+7 | □□□□□□   □□■□□   □□□□□□□ | Silver-Boat | **R** | ??? | Unknown |
+| 68 | 7+7 | □□□□□■□   □□□□□□□ | Green-Boat | **S** | Tbilisi, Georgia | Confirmed |
+| 69 | 11+6 | □■□□□□□□□□□   □□□□□□ | Purple-Plane | **L** | Vladivostok, Russia | Confirmed |
+| 70 | 6+8 | □□□■□□   □□□□□□□□ | Brown-Boat | **A** | DeKalb, Illinois | Confirmed |
+| 71 | 4+4+8 | □□□□   ■□□□   □□□□□□□□ | Green-Boat | **S** | Toad Suck, Arkansas | Confirmed |
+| 72 | 6+5+8 | □□□□□□   □□□□■   □□□□□□□□ | Purple-Boat | **T** | Nazaré Coast, Portugal | Confirmed |
+| 73 | 12 | □□□□□-■□□□□□ | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
+| 74 | 10+9 | □□□□□□□■□□   □□□□□□□□□ | Brown-Boat | **A** | Queensland, Australia | Confirmed |
+| 75 | 5+4+7 | □□□□□   □□■□   □□□□□□□ | Silver-Boat | **R** | ??? (Kandi ruled out — cipher conflict) | Unknown |
+| 76 | 4+5 | □□□□   □□■□□ | Purple-Boat | **T** | Doha, Qatar | Confirmed |
+| 77 | 5+10+7 | □□□□□   □□□□□□□□□□   □□□□■□□ | Red-Horse | **H** | České Budějovice, Czechia | Confirmed |
+| 78 | 11+9+11 | □□□□□□□□□□■   □□□□□□□□□   □□□□□□□□□□□ | Gold-Boat | **E** | Yellowknife, Northwest Territories | Confirmed |
+| 79 | 6+6 | □□□□□□   □□□■□□ | Green-Boat | **S** | Moscow, Russia | Confirmed |
+| 80 | 6+5 | □□□□□□   □■□□□ | Red-Horse | **H** | Curicó, Chile | Confirmed |
+| 81 | 10+7 | □■□□□□□□□□   □□□□□□□ | Red-Plane | **O** | Cochabamba, Bolivia | Confirmed |
+| 82 | 5+3+7 | □□□□□   □□■   □□□□□□□ | Yellow-Horse | **W** | Ōkato, New Zealand | Confirmed |
+| 83 | 11 | □■□□□□□□□□□ | Gold-Boat | **E** | Yellowstone | Confirmed |
+| 84 | 6+4 | □□□□■□   □□□□ | Blue-Horse | **D** | Sokodé, Togo | Confirmed |
+| 85 | 5+5 | ■□□□□   □□□□□ | Brown-Boat | **A** | Accra, Ghana | Confirmed |
+| 86 | 12+10 | □□■□□□□□□□□□   □□□□□□□□□□ | Purple-Boat | **T** | Antananarivo, Madagascar | Confirmed |
+| 87 | 8+10 | □□■□□□□□   □□□□□□□□□□ | Green-Boat | **S** | Tashkent, Uzbekistan | Confirmed |
+| 88 | 5+8 | □□□■□   □□□□□□□□ | Purple-Boat | **T** | Dimtu, Ethiopia | Confirmed |
+| 89 | 7+6 | □□□□■□□   □□□□□□ | Brown-Boat | **A** | Tijuana, Mexico | Confirmed |
+| 90 | 8+6 | □□□□■□□□   □□□□□□ | Silver-Boat | **R** | Montreal, Canada | Confirmed |
+| 91 | 7+6 | □□□□□■□   □□□□□□ | Purple-Boat | **T** | Wichita, Kansas | Confirmed |
 
 ---
 
