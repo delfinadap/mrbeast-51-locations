@@ -26,7 +26,7 @@
 |-------------|---------|-----------------|-------|--------|
 | BARODYNAMICS | "Join us at" | "Oil City" | **CASPER, Wyoming** — "The Oil City." Hint 11: "not its name" eliminates Oil City PA. **Grid fit: Row 5 (6+7), WYOMING[4]=M ✓.** | Confirmed |
 | EBULLIOSCOPE | "See lovely" | "City of 33 Churches" | **ARZAMAS, Russia** — image shows ~33 Orthodox churches. Omega ⦿. | Confirmed |
-| FURFURACEOUS | "Meet us at" | "Home/City of Peace" | **MUBI, Nigeria** — DW article: "In Nigeria, Mubi is known as the city of peace." **Grid fit: Row 37 (4+7), Yellow-Car=U at pos 2 → MUBI[2]=U ✓.** Previous: Maiduguri (strong nickname, no grid fit). | Unconfirmed |
+| FURFURACEOUS | "Meet us at" | "Home/City of Peace" | **MUBI, Nigeria** — DW article: "In Nigeria, Mubi is known as the city of peace." **Grid fit: Row 37 (4+7), Yellow-Car=U at pos 2 → MUBI[2]=U ✓.** Previous: Maiduguri (strong nickname, no grid fit). | Confirmed |
 | HAPAXANTHOUS | "You'll like" | "City of Winds" | **BAKU, Azerbaijan** — multiple solvers converged. | Confirmed |
 | HEKISTOTHERM | "Get down to" | "Capital of the Plains" | **MOORA, Australia** — Official Shire of Moora website: "Capital of the Plains." Exact nickname match. **Grid fit: Row 32 (5+9), MOORA[1]=M ✓.** | Confirmed |
 | INCLINOMETER | "Come to" | "Diamond City of India" | **SURAT, India** — processes 90% of world's diamonds. | Confirmed |

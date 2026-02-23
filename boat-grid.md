@@ -62,7 +62,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 11 | 7+6 | Yellow-Car | **U** | Giresun, Turkey | Confirmed |
 | 12 | 3+6+2+7+9 | Purple-Plane | **L** | San Miguel de Tucumán, Argentina | Confirmed |
 | 13 | 5+4+3+7 | Purple-Boat | **T** | Lower Hutt, New Zealand | Confirmed |
-| 14 | 5+10+4 | Black-Plane | **F** | Natif Waterfalls, Oman | Unconfirmed |
+| 14 | 5+10+4 | Black-Plane | **F** | Natif Waterfalls, Oman | Confirmed |
 | 15 | 4+10 | Red-Car | **I** | Baku, Azerbaijan | Confirmed |
 | 16 | 7+7 | Silver-Boat | **R** | Windsor, Ontario | Unconfirmed |
 | 17 | 5+7 | Green-Boat | **S** | Sucre, Bolivia | Confirmed |
@@ -74,7 +74,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 23 | 4+6 | Green-Boat | **S** | Nome, Alaska | Confirmed |
 | 24 | 7+7 | Purple-Boat | **T** | Tallinn, Estonia | Confirmed |
 | 25 | 5+5 | Red-Car | **I** | Surat, India | Confirmed |
-| 26 | 11+6 | Blue-Car | **C** | L'Ascension, Quebec | Probable |
+| 26 | 11+6 | Blue-Car | **C** | L'Ascension, Quebec | Unconfirmed |
 | 27 | 7+6 | Black-Horse | **K** | Antalya, Turkey | Probable |
 | 28 | 5+5+5 | Green-Boat | **S** | Seoul, South Korea | Confirmed |
 | 29 | 5+6 | Silver-Boat | **R** | Heard Island | Confirmed |
@@ -85,8 +85,8 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 34 | 4+4 | Silver-Boat | **R** | Lima, Peru | Confirmed |
 | 35 | 10+7 | Gold-Boat | **E** | Copenhagen, Denmark | Confirmed |
 | 36 | 7+7 | Green-Boat | **S** | Algiers, Algeria | Confirmed |
-| 37 | 4+7 | Yellow-Car | **U** | Mubi, Nigeria | Unconfirmed |
-| 38 | 5+5+9 | Purple-Plane | **L** | Derby Wharf, Australia | Unconfirmed |
+| 37 | 4+7 | Yellow-Car | **U** | Mubi, Nigeria | Confirmed |
+| 38 | 5+5+9 | Purple-Plane | **L** | Derby Wharf, Australia | Confirmed |
 | 39 | 5+7 | Purple-Boat | **T** | Quito, Ecuador | Confirmed |
 | 40 | 5+6 | Green-Boat | **S** | Arles, France | Confirmed |
 | 41 | 8+6 | Red-Car | **I** | Istanbul, Turkey | Confirmed |
@@ -112,15 +112,15 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 61 | 6+3+6 | Yellow-Horse | **W** | Monkey Bay, Malawi | Confirmed |
 | 62 | 3+2+2+10 | Gold-Boat | **E** | Île de la Possession | Confirmed |
 | 63 | 5+3+7 | Silver-Boat | **R** | Tampa Bay, Florida | Confirmed |
-| 64 | 8+3+11 | Yellow-Plane | **P** | Tacurong, The Philippines | Probable |
+| 64 | 8+3+11 | Yellow-Plane | **P** | Tacurong, The Philippines | Confirmed |
 | 65 | 5+5 | Brown-Boat | **A** | Thane, India | Confirmed |
 | 66 | 9+8 | Red-Car | **I** | Marquette, Michigan | Confirmed |
 | 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
 | 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Confirmed |
 | 69 | 11+6 | Purple-Plane | **L** | Vladivostok, Russia | Confirmed |
-| 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois | Unconfirmed |
+| 70 | 6+8 | Brown-Boat | **A** | DeKalb, Illinois | Confirmed |
 | 71 | 4+4+8 | Green-Boat | **S** | Toad Suck, Arkansas | Confirmed |
-| 72 | 6+5+8 | Purple-Boat | **T** | Nazaré Coast, Portugal | Unconfirmed |
+| 72 | 6+5+8 | Purple-Boat | **T** | Nazaré Coast, Portugal | Confirmed |
 | 73 | 12 | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
 | 74 | 10+9 | Brown-Boat | **A** | Queensland, Australia | Confirmed |
 | 75 | 5+4+7 | Silver-Boat | **R** | ??? (Kandi ruled out — cipher conflict) | Unknown |

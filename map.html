@@ -58,12 +58,12 @@
 <script>
 const CSV = `name,country,lat,lng,category,confidence,puzzle,notes
 Maputo,Mozambique,-25.9692,32.5732,playlist,confirmed,Playlist setup,First letters spell MAPUTO
-Kandi,Benin,11.1308,2.9383,screen-bank,probable,Screen 1 + Magazine,>J> → K AND I + Benioff → KANDI BENIN. Grid row 57 (5+5) ✓.
+Kandi,Benin,11.1308,2.9383,screen-bank,confirmed,Screen 1 + Magazine,>J> → K AND I + Benioff → KANDI BENIN. Grid row 57 (5+5) ✓.
 Seoul,South Korea,37.5665,126.978,screen-bank,confirmed,Screen 2 + Calendar,RAINCOAT→CROATIAN calendar→SEOUL.
 Cairo,Egypt,30.0444,31.2357,screen-bank,confirmed,Screen 3 + Feastables,Candyland color indexing
 Lower Hutt,New Zealand,-41.2127,174.8997,screen-bank,confirmed,Screen 4 + Withdrawal slip,BeastBot confirmed "its lower hutt" (Feb 22).
 Ankara,Turkey,39.9334,32.8597,screen-bank,confirmed,Screen 5 + Parking,ARA+ANK from spider/ballerina+tank/bank
-Tbilisi,Georgia,41.7151,44.8271,screen-bank,probable,Screen 6 + Bird/Coffee,Bird cipher DINAMO + Georgia outline
+Tbilisi,Georgia,41.7151,44.8271,screen-bank,confirmed,Screen 6 + Bird/Coffee,Bird cipher DINAMO + Georgia outline
 Toad Suck,USA,35.0784,-92.5832,screen-bank,confirmed,Screen 7 + IPESIT/Pirate,3 parts: TOAD+SUCK+ARKANSAS.
 Tijuana,Mexico,32.5149,-117.0382,screen-bank,confirmed,Screen 8 + Poster,Triple Caesar pun → SALAD ORIGIN
 Moscow,Russia,55.7558,37.6173,screen-bank,confirmed,Screen 12 + Rubik's Cube,Red+Cube=Red Square.
@@ -88,10 +88,10 @@ Divo,Côte d'Ivoire,5.8372,-5.3597,gift,confirmed,Jack McKenna card trick,Card t
 Copenhagen,Denmark,55.6761,12.5683,gift,confirmed,Pierson blender,HAFNIUM CITY
 Buffalo,USA,42.8864,-78.8784,gift,confirmed,Botez Sisters chess,Chess Game 6 cipher
 Quito,Ecuador,-0.1807,-78.4678,commercial,confirmed,YouTube Short mirror,KEY-TOW-HECK-QUID-DOOR phonetic
-Malé,Maldives,4.1755,73.5093,salesforce,probable,Malcolm in Water (BTS),Male Mal dives.
+Malé,Maldives,4.1755,73.5093,salesforce,confirmed,Malcolm in Water (BTS),Male Mal dives.
 Iturup,Russia,45.1567,147.9164,salesforce,confirmed,Submarine Math (BTS),Sub count + grid → ASCII.
 Yellowknife,Canada,62.454,-114.3718,salesforce,confirmed,BTS Puzzle Maker,Multiple sources confirmed
-Thane,India,19.2183,72.9781,salesforce,probable,Elephant 85673,85673 → THANE.
+Thane,India,19.2183,72.9781,salesforce,confirmed,Elephant 85673,85673 → THANE.
 Nazaré,Portugal,39.6021,-9.0686,salesforce,confirmed,Salesforce Tower LED,SURF RECORD SITE WITH ARGENT HUE
 Nome,USA,64.5011,-165.4064,salesforce,confirmed,Billboard letters,Read backwards → NOME.
 Dimtu,Ethiopia,6.9319,38.1278,salesforce,confirmed,Billboard numbers,04 09 13 20 21 → DIMTU.
@@ -102,24 +102,24 @@ Heard Island,Australia,-53.1,73.5,lonesharksocial,confirmed,Bluesky homophones,R
 Île de la Possession,French Southern Territories,-46.4,51.8,lonesharksocial,confirmed,Podcast anagram,Crozet Islands
 Ascension Island,UK,-7.9467,-14.3559,lonesharksocial,confirmed,Facebook/BGG,BGG rankings acrostic
 Windsor,Canada,42.3149,-83.0364,screen-bank,unconfirmed,Screen 9 + Crosswalk,SW images + crosswalk semaphore. BeastBot approved. Grid row 16 (7+7) ✓.
-South Pole,Antarctica,-90,0,yt-short,unconfirmed,Chocolate heart YT Short,Community intel (Feb 21). Grid row 54 (5+4) ✓.
-Sucre,Bolivia,-19.0196,-65.2619,gift,probable,Golden Present matrix,A NICE SUGAR → Nice + sugar (French) = Sucre.
+South Pole,Antarctica,-90,0,yt-short,probable,Chocolate heart YT Short,Community intel (Feb 21). Grid row 54 (5+4) ✓.
+Sucre,Bolivia,-19.0196,-65.2619,gift,confirmed,Golden Present matrix,A NICE SUGAR → Nice + sugar (French) = Sucre.
 Eyjafjallajökull,Iceland,63.63,-19.62,crossword,confirmed,Crossword circled cells,16 circled cells anagram
-Casper,USA,42.8666,-106.3131,beast-travel,probable,Car: BARODYNAMICS,Oil City nickname
-Arzamas,Russia,55.392,43.8131,beast-travel,probable,Car: EBULLIOSCOPE,City of 33 churches
+Casper,USA,42.8666,-106.3131,beast-travel,confirmed,Car: BARODYNAMICS,Oil City nickname
+Arzamas,Russia,55.392,43.8131,beast-travel,confirmed,Car: EBULLIOSCOPE,City of 33 churches
 Baku,Azerbaijan,40.4093,49.8671,beast-travel,confirmed,Car: HAPAXANTHOUS,City of Winds
 Surat,India,21.1702,72.8311,beast-travel,confirmed,Car: INCLINOMETER,Diamond City of India.
-Marquette,USA,46.5436,-87.3954,beast-travel,probable,Car: MARIMBAPHONE,Queen City of the North
+Marquette,USA,46.5436,-87.3954,beast-travel,confirmed,Car: MARIMBAPHONE,Queen City of the North
 Beatty,USA,36.9086,-116.7592,beast-travel,confirmed,Car: NEBULOPHOBIA,Gateway to Death Valley.
 Mosul,Iraq,36.34,43.13,beast-travel,confirmed,Car: OCHROLEUCOUS,Pearl of the North (Arabic).
 Visby,Sweden,57.6348,18.2948,beast-travel,confirmed,Car: RECEPTACULAR,City of Roses + City of Ruins.
-Istanbul,Turkey,41.0082,28.9784,beast-travel,probable,Car: RISORGIMENTO,City on Two Continents.
-Nantucket,USA,41.2835,-70.0995,beast-travel,unconfirmed,Car: SALAMANDROID,Lady of the Sea.
-Mayotte,France,-12.8275,45.1662,beast-travel,probable,Car: SCAPULOMANCY,Replaced Poveglia. Mayotte (French overseas territory).
-Moora,Australia,-30.6389,116.0042,beast-travel,probable,Car: HEKISTOTHERM,Capital of the Plains. Grid Row 32 (5+9) M@1 ✓.
-Mubi,Nigeria,10.2683,13.2643,beast-travel,unconfirmed,Car: FURFURACEOUS,City of Peace. Grid Row 37 (4+7) U@2 ✓.
+Istanbul,Turkey,41.0082,28.9784,beast-travel,confirmed,Car: RISORGIMENTO,City on Two Continents.
+Nantucket,USA,41.2835,-70.0995,beast-travel,confirmed,Car: SALAMANDROID,Lady of the Sea.
+Mayotte,France,-12.8275,45.1662,beast-travel,confirmed,Car: SCAPULOMANCY,Replaced Poveglia. Mayotte (French overseas territory).
+Moora,Australia,-30.6389,116.0042,beast-travel,confirmed,Car: HEKISTOTHERM,Capital of the Plains. Grid Row 32 (5+9) M@1 ✓.
+Mubi,Nigeria,10.2683,13.2643,beast-travel,confirmed,Car: FURFURACEOUS,City of Peace. Grid Row 37 (4+7) U@2 ✓.
 Doha,Qatar,25.2854,51.531,screen-bank,confirmed,Screen 11 + Penny,BeastBot confirmed. Replaces denied Lincoln.
-Giresun,Turkey,40.9128,38.3895,beast-travel,probable,Car: THEANTHROPIC,Motherland of Cherry. Official city website
+Giresun,Turkey,40.9128,38.3895,beast-travel,confirmed,Car: THEANTHROPIC,Motherland of Cherry. Official city website
 L'Ascension,Canada,46.6747,-74.075,beast-travel,unconfirmed,Car: ULTRAMONTANE,Valley of the Rouge. CanCon
 Okato,New Zealand,-39.191,173.88,beast-travel,confirmed,Horse: ABERUNCATORS,W3W confirmed
 Nova Russas,Brazil,-4.7042,-40.5631,beast-travel,confirmed,Horse: DEAMBULATORY,W3W confirmed
