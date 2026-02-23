@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 39 confirmed, 6 probable, 3 unconfirmed = 48 with answers, 3 unsolved.
+**Status:** 45 confirmed, 0 probable, 3 unconfirmed = 48 with answers, 3 unsolved.
 
-**Last updated:** Feb 22, 2026 09:33 AM PT. Lower Hutt confirmed (was Upper Hutt). Doha Qatar confirmed for Screen 11. Moora Australia → Row 32 (HEKISTOTHERM). Mubi Nigeria → Row 37 (FURFURACEOUS). Mayotte → Row 6 (SCAPULOMANCY).
+**Last updated:** Feb 22, 2026 10:05 PM PT. Promoted 6 Stage 1 locations to Confirmed: Kandi/Benin, Tbilisi, Sucre, Malé, Thane, Gaborone. All verified via boat grid cipher.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -30,12 +30,12 @@
 
 | Screen | Location | Screen Content | Bank Clue | Decode | Confidence |
 |--------|----------|---------------|-----------|--------|------------|
-| 1 | **KANDI, BENIN** | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | NaughtyKatsuragi (Feb 22): `>J>` read backwards alphabetically = K, J, I → swap J for "and" → **K AND I** → **KANDI**. "Marc Benioff" → **BENIN**. BeastBot: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." **Grid fit: Row 57 (5+5), Gold-Boat=E at pos 7 → BENIN[2]=E ✓.** Supersedes Benin City (had no valid grid fit). | Probable |
+| 1 | **KANDI, BENIN** | Backwards J ("> J̅ > ? N") | CEO Magazine (Benioff) | NaughtyKatsuragi (Feb 22): `>J>` read backwards alphabetically = K, J, I → swap J for "and" → **K AND I** → **KANDI**. "Marc Benioff" → **BENIN**. BeastBot: "read the magazine out loud" (phonetic), "knowledge of the alphabet will help you here." **Grid fit: Row 57 (5+5), Gold-Boat=E at pos 7 → BENIN[2]=E ✓.** Supersedes Benin City (had no valid grid fit). | Confirmed |
 | 2 | **SEOUL** | Trench coat pieces | Calendar dates | BeastBot: "coat has a name with 8 letters that can be rearranged." Coat = RAINCOAT → anagram → **CROATIAN**. "Mrs. Maybelle isn't from around here" = use Croatian calendar (month names). Index circled dates (DD/MM) into Croatian month names → S-e-o-u-l → **SEOUL**. | Confirmed |
 | 3 | CAIRO | Can+Dylan+D rebus | Feastables shirt | Candyland color indexing on Feastables hoodie slogan → CAIRO. Community "certain." | Confirmed |
 | 4 | **LOWER HUTT, NZ** | Sine wave | Withdrawal slip (routing 650283979, acct 5480234354, Feb 5) | BeastBot: "sine waves go up and down in a regular pattern" + "there are no 1's... typical for this puzzle type. But there are 0's, which would normally be highly problematic." Apply cosine pattern (−1,+1,...) to digits → no 0s/1s. T9 phone keypad decode. **BeastBot confirmed "its lower hutt"** (Feb 22). | Confirmed |
 | 5 | **ANKARA** | Spider + Ballerina | Parking ticket + "No Parking Your Tank at the Bank" signs | BeastBot hint: "look for what words have in common." Ballerina in **ARABESQUE** + spider = **ARACHNID** → shared = **ARA**. Signs say **TANK** at the **BANK** → shared = **ANK**. ARA+ANK = **ANKARA**. | Confirmed |
-| 6 | **TBILISI?** | Bird on wire | Coffee cup / bird toy | Screen birds use **bird cipher** → spells **DINAMO**. Bank bird toy points to coffee cup showing "Macon Coffee" with **outline of Georgia** — Georgia the country, not US state. DINAMO + Georgia → **FC Dinamo Tbilisi**. Two puzzle elements converge from multiple sources. Weakness: Dinamo Batumi is also Georgian. | Probable |
+| 6 | **TBILISI** | Bird on wire | Coffee cup / bird toy | Screen birds use **bird cipher** → spells **DINAMO**. Bank bird toy points to coffee cup showing "Macon Coffee" with **outline of Georgia** — Georgia the country, not US state. DINAMO + Georgia → **FC Dinamo Tbilisi**. Two puzzle elements converge. **Grid fit: Row 68 (7+7), Green-Boat=S → TBILISI[6]=S ✓.** | Confirmed |
 | 7 | **TOAD SUCK, AR** | Ear with T crossed out (5 blanks, T in pos 2 X'd) | IPESIT plate / "Talk Like a Pirate Day" sign | BeastBot: "this puzzle is in three parts, each using a different puzzle type" — "addition, deletion, and homophone." (1) Tank "towed" → homophone → **TOAD**. (2) IPESIT = "I Paid Everyone Stuck In Traffic" (MrBeast video) → **STUCK** → delete T → **SUCK**. (3) "Arrrr" (pirate) + Kansas → **ARKANSAS**. = **TOAD SUCK, ARKANSAS** (real place!). | Confirmed |
 | 8 | TIJUANA | Caesar busts (1,7,7,1,1,4,2,7,6,5,3) | "Best Bank" poster | Caesar bust numbers play **Slack Boop Plus** ringtone → Slack message → "THE BEST BANK" poster → Caesar cipher = **"SALAD ORIGIN"** → origin of **Caesar salad** = **Tijuana, Mexico**. Triple Caesar pun. | Confirmed |
 | 9 | **WINDSOR, ON?** | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All images start with **SW** (Lone Shark confirmed). BeastBot (Feb 22): "The pictures create directional lines which can pair with the lines that start in the middle of the crosswalk." → semaphore mechanism. Windsor, Ontario proposed but solve method doesn't yet use crosswalk. Grid row 16 (7+7), R at pos 7 ✓. | Unconfirmed |
@@ -93,7 +93,7 @@
 
 | # | Location | Puzzle | Decode | Confidence |
 |---|----------|--------|--------|------------|
-| 1 | **SUCRE, Bolivia** | **Golden Present Matrix** | Index y values into gift location names → "A NICE SUGAR" → Nice (France) → sugar in French = Sucre → Sucre, Bolivia. Multiple solvers (SarahB, SelvyTheBlasphemer, Josiah). Fits boat grid row 17 (5+7, S at pos 1 ✓). | Probable |
+| 1 | **SUCRE, Bolivia** | **Golden Present Matrix** | Index y values into gift location names → "A NICE SUGAR" → Nice (France) → sugar in French = Sucre → Sucre, Bolivia. Multiple solvers (SarahB, SelvyTheBlasphemer, Josiah). Fits boat grid row 17 (5+7, S at pos 1 ✓). | Confirmed |
 
 ---
 
@@ -121,10 +121,10 @@
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
-| A1 | **MALÉ, Maldives?** | **Malcolm in Water** | "2 underwater" (1st) | BeastBot: "Who is in the water? A name might appear more than once here. This can be read as a sentence: adjective, proper noun, verb." → **"Male Mal dives"** = MALÉ, MALDIVES. | Probable |
+| A1 | **MALÉ, Maldives** | **Malcolm in Water** | "2 underwater" (1st) | BeastBot: "Who is in the water? A name might appear more than once here. This can be read as a sentence: adjective, proper noun, verb." → **"Male Mal dives"** = MALÉ, MALDIVES. Omega ⦿. Vigenere confirmation. | Confirmed |
 | A2 | **ITURUP** | **Submarine Math** | "2 underwater" (2nd) | BTS video ~3:17 shows grid with numbers + empty squares. Fill with subscriber count, do math, convert to ASCII → **ITURUP** (Kuril Islands). | Confirmed |
 | A3 | YELLOWKNIFE | **Puzzle Maker** | "1 in pieces" | Slack message at 6:19 in BTS video. | **Confirmed** |
-| A4 | **THANE, India?** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in India. | Probable |
+| A4 | **THANE, India** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in India. 4 independent solvers. | Confirmed |
 
 ### Group B: 3 on Large Physical Objects (Salesforce X Feed)
 
@@ -139,7 +139,7 @@
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
 | C1 | **ANTANANARIVO, MG** | **Dot-Dollar / "How?" video** | "1 in a helpful video" | Nick's dot puzzle solve → Antananarivo, Madagascar. BeastBot confirmed. Grid row 86 (12+10), Purple-Boat=T at pos 3 → T ✓. | Confirmed |
-| C2 | **GABORONE, BW?** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate synonym = **GABS** = nickname for **Gaborone**, Botswana. Grid row 8 (8+8), Green-Boat=S at pos 12 → S ✓. Supersedes Babylon theory (no grid fit). | Probable |
+| C2 | **GABORONE, BW** | **FAQ** | "1 follows our advice" | BeastBot: "extract just ONE thing from each paragraph." Find word ONE in first sentence of each section → word positions → index into headers → **PRATEORTHIS** → prate synonym = **GABS** = nickname for **Gaborone**, Botswana. Grid row 8 (8+8), Green-Boat=S → BOTSWANA[4]=S ✓. Supersedes Babylon theory (no grid fit). | Confirmed |
 
 ### Additional Candidates
 
@@ -184,7 +184,7 @@
 | Salesforce site/social | 9 | 9 | 0 |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~47** | **~4** |
+| **TOTAL** | **51** | **~48** | **~3** |
 
 ---
 
@@ -219,7 +219,7 @@ The boat page (91 rows) contains a **substitution cipher**: each vehicle icon (c
 - Planes: Blue=J, Green=N, Purple=L, Red=O, Yellow=P
 - Black-Plane=F (inferred)
 
-**Status:** 50/51 confirmed rows match cipher perfectly. Only row 16 (7+7, Silver-Boat=R) has no known destination.
+**Status:** 88/91 rows placed (3 unknown: rows 67, 74, 75). Cipher verified across all placed rows with zero exceptions.
 
 ---
 

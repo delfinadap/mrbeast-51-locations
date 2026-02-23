@@ -1,18 +1,18 @@
 # 51 Locations — All in One
 
-**39 confirmed, 6 probable, 3 unconfirmed = 48 with answers, 3 unsolved** | *Feb 22, 2026 09:33 AM PT*
+**45 confirmed, 0 probable, 3 unconfirmed = 48 with answers, 3 unsolved** | *Feb 22, 2026 10:05 PM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
 | # | Category | Location | Puzzle | Confidence |
 |---|----------|----------|--------|------------|
 | 1 | Playlist | MAPUTO | First letters of "Missing A Playlist? Use This One:" | Confirmed |
-| 2 | Screen 1 + Bank | **KANDI, BENIN?** | >J> backwards = KJI → K AND I = KANDI + Benioff → BENIN. Grid row 57 (5+5) ✓. | Probable |
+| 2 | Screen 1 + Bank | **KANDI, BENIN** | >J> backwards = KJI → K AND I = KANDI + Benioff → BENIN. Grid row 57 (5+5), BENIN[2]=E ✓. | Confirmed |
 | 3 | Screen 2 + Bank | **SEOUL** | RAINCOAT → anagram → CROATIAN. Croatian calendar month names + circled dates (DD/MM) → SEOUL. | Confirmed |
 | 4 | Screen 3 + Bank | CAIRO | Candyland rebus + Feastables shirt. | Confirmed |
 | 5 | Screen 4 + Bank | **LOWER HUTT** | Cosine pattern removes 0s/1s → T9 keypad → LOWER HUTT NEW ZEALAND. BeastBot confirmed "its lower hutt." | Confirmed |
 | 6 | Screen 5 + Bank | **ANKARA** | ARABESQUE/ARACHNID → ARA. TANK/BANK → ANK. ARA+ANK = ANKARA. | Confirmed |
-| 7 | Screen 6 + Bank | **TBILISI?** | Bird cipher → DINAMO. Coffee cup → Georgia outline. DINAMO + Georgia → FC Dinamo Tbilisi. | Probable |
+| 7 | Screen 6 + Bank | **TBILISI** | Bird cipher → DINAMO. Coffee cup → Georgia outline. DINAMO + Georgia → FC Dinamo Tbilisi. Grid row 68, TBILISI[6]=S ✓. | Confirmed |
 | 8 | Screen 7 + Bank | **TOAD SUCK, AR** | 3-part decode: "towed"→TOAD, IPESIT→STUCK−T→SUCK, "arrrr"+Kansas→ARKANSAS. | Confirmed |
 | 9 | Screen 8 + Bank | TIJUANA | Caesar busts → Slack ringtone → "THE BEST BANK" → Caesar cipher → "SALAD ORIGIN" → Tijuana. | Confirmed |
 | 10 | Screen 9 + Bank | **WINDSOR, ON?** | SW images + crosswalk. BeastBot: "directional lines pair with crosswalk lines." Semaphore mechanism. Grid row 16 (7+7) ✓. | Unconfirmed |
@@ -41,18 +41,18 @@
 | 33 | Gift | DIVO | McKenna — Card trick → Divo, Côte d'Ivoire | Confirmed |
 | 34 | Gift | COPENHAGEN | Pierson — Blender → HAFNIUM CITY | Confirmed |
 | 35 | Gift | BUFFALO | Botez — Chess Game 6 cipher | Confirmed |
-| 36 | Gift Unifier | **SUCRE, Bolivia** | Golden Present Matrix → "A NICE SUGAR" → Nice (France) + sugar (French) = Sucre | Probable |
+| 36 | Gift Unifier | **SUCRE, Bolivia** | Golden Present Matrix → "A NICE SUGAR" → Nice (France) + sugar (French) = Sucre. Grid row 17, SUCRE[1]=S ✓. | Confirmed |
 | 37 | YT Short | **QUITO, Ecuador** | Mirror video — KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador" | Confirmed |
 | 38 | YT Short | **SOUTH POLE?** | Chocolate heart — community intel (Feb 21) says South Pole, replaces Alofi Niue at grid row 54 | Unconfirmed |
-| 39 | SF: BTS (A1) | **MALÉ, Maldives?** | Malcolm — "Male Mal dives." | Probable |
+| 39 | SF: BTS (A1) | **MALÉ, Maldives** | Malcolm — "Male Mal dives." Omega ⦿. BeastBot + Vigenere confirmation. | Confirmed |
 | 40 | SF: BTS (A2) | **ITURUP** | Submarine Math — grid + subscriber count → ASCII. | Confirmed |
 | 41 | SF: BTS (A3) | YELLOWKNIFE | Puzzle Maker — BTS video 6:19. | Confirmed |
-| 42 | SF: BTS (A4) | **THANE, India?** | Elephant 85673 → index into ELEPHANT = THANE. | Probable |
+| 42 | SF: BTS (A4) | **THANE, India** | Elephant 85673 → index into ELEPHANT = THANE. 4 independent solvers. | Confirmed |
 | 43 | SF: Physical (B1) | **NAZARÉ** | Tower LED video — "SURF RECORD SITE WITH ARGENT HUE." | Confirmed |
 | 44 | SF: Physical (B2) | **NOME** | Billboard letters — "e mon" backwards. | Confirmed |
 | 45 | SF: Physical (B3) | **DIMTU** | Billboard numbers — 04 09 13 20 21 → DIMTU. | Confirmed |
 | 46 | SF: Site (C1) | **ANTANANARIVO** | Dot-Dollar / "How?" video — Nick's dot solve, BeastBot confirmed. Grid row 86 (12+10) ✓. | Confirmed |
-| 47 | SF: Site (C2) | **GABORONE?** | FAQ — "PRATE OR THIS" → prate synonym = GABS = Gaborone, Botswana. Grid row 8 (8+8) ✓. | Probable |
+| 47 | SF: Site (C2) | **GABORONE** | FAQ — "PRATE OR THIS" → prate synonym = GABS = Gaborone, Botswana. Grid row 8 (8+8), BOTSWANA[4]=S ✓. | Confirmed |
 | 48 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
 | 49 | Lone Shark | ILE DE LA POSSESSION | Podcast anagram | Confirmed |
 | 50 | Lone Shark | ASCENSION ISLAND | BoardGameGeek acrostic | Confirmed |
