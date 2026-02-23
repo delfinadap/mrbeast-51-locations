@@ -6,7 +6,7 @@
 
 **Hint 11:** "Those trips by car can be challenging to narrow down. You should take them literally. When you get a city nickname, you don't need any extra words or inferences. Just find a place that uses that exact nickname."
 
-**Status:** 28 confirmed, 10 probable, 2 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 22, 2026 ~12:53 PM PT*
+**Status:** 34 confirmed, 4 probable, 2 unconfirmed = 40 destinations + boat page (91-row grid, cipher decoded) | *Feb 22, 2026 10:22 PM PT*
 
 ---
 
@@ -25,19 +25,19 @@
 | Destination | Caption | Nickname Decoded | Solve | Status |
 |-------------|---------|-----------------|-------|--------|
 | BARODYNAMICS | "Join us at" | "Oil City" | **CASPER, Wyoming** — "The Oil City." Hint 11: take literally. | Probable |
-| EBULLIOSCOPE | "See lovely" | "City of 33 Churches" | **ARZAMAS, Russia** — image shows ~33 Orthodox churches. | Probable |
+| EBULLIOSCOPE | "See lovely" | "City of 33 Churches" | **ARZAMAS, Russia** — image shows ~33 Orthodox churches. Omega ⦿. | Confirmed |
 | FURFURACEOUS | "Meet us at" | "Home/City of Peace" | **MUBI, Nigeria** — DW article: "In Nigeria, Mubi is known as the city of peace." **Grid fit: Row 37 (4+7), Yellow-Car=U at pos 2 → MUBI[2]=U ✓.** Previous: Maiduguri (strong nickname, no grid fit). | Unconfirmed |
 | HAPAXANTHOUS | "You'll like" | "City of Winds" | **BAKU, Azerbaijan** — multiple solvers converged. | Confirmed |
-| HEKISTOTHERM | "Get down to" | "Capital of the Plains" | **MOORA, Australia** — Official Shire of Moora website: "Moora was being referred to as the 'Capital of the Plains.'" Exact nickname match per Hint 11. **Grid fit: Row 32 (5+9), Purple-Car=M at pos 1 → MOORA[1]=M ✓.** mpeg (Serious, Feb 22): "pretty unambiguous." | Probable |
+| HEKISTOTHERM | "Get down to" | "Capital of the Plains" | **MOORA, Australia** — Official Shire of Moora website: "Capital of the Plains." Exact nickname match. **Grid fit: Row 32 (5+9), MOORA[1]=M ✓.** | Confirmed |
 | INCLINOMETER | "Come to" | "Diamond City of India" | **SURAT, India** — processes 90% of world's diamonds. | Confirmed |
 | MARIMBAPHONE | "Head off to" | "Queen City of the North" | **MARQUETTE, MI** — official nickname. | Probable |
 | NEBULOPHOBIA | "Return to" | "Gateway to Death Valley" | **BEATTY, Nevada**.| Confirmed |
 | OCHROLEUCOUS | "Drop in on" | "Pearl of the North" (Arabic) | **MOSUL, Iraq** — only Arabic-speaking "Pearl of the North." | Confirmed |
 | RECEPTACULAR | "Stay at" | "City of Roses" + "City of Ruins" | **VISBY, Sweden** — Gotland island. | Confirmed |
-| RISORGIMENTO | "Take in" | "City on Two Continents" | **ISTANBUL, Turkey**.| Probable |
-| SALAMANDROID | "Stop off at" | "Lady of the Sea" | **GENOA, Italy** — Genoa is widely called "Lady of the Sea" (italysegreta.com, tamarathiessen.com). **Grid fit: Row 7 (5+5), Black-Car=Y at pos 10 → ITALY[5]=Y ✓.** Nantucket MA (9+13) fits no grid row. | Probable |
-| SCAPULOMANCY | "Relax at" | "Island of Death" | **MAYOTTE, France** — derives from Arabic "Island of Death" (Mawt). | Probable |
-| THEANTHROPIC | "Encounter" | "Motherland of Cherry" | **GIRESUN, Turkey** — official city website: "Motherland of Cherry." Ancient name Kerasus = root of "cherry." | Probable |
+| RISORGIMENTO | "Take in" | "City on Two Continents" | **ISTANBUL, Turkey** — Omega ⦿. **Grid fit: Row 41 (8+6), ISTANBUL[1]=I ✓.** | Confirmed |
+| SALAMANDROID | "Stop off at" | "Lady of the Sea" | **GENOA, Italy** — "Lady of the Sea." **Grid fit: Row 7 (5+5), ITALY[5]=Y ✓.** | Confirmed |
+| SCAPULOMANCY | "Relax at" | "Island of Death" | **MAYOTTE, France** — derives from Arabic "Island of Death" (Mawt). **Grid fit: Row 6 (7), MAYOTTE[1]=M ✓.** | Confirmed |
+| THEANTHROPIC | "Encounter" | "Motherland of Cherry" | **GIRESUN, Turkey** — official city website: "Motherland of Cherry." Kerasus = root of "cherry." **Grid fit: Row 11 (7+6), GIRESUN[6]=U ✓.** | Confirmed |
 | ULTRAMONTANE | "Hop over to" | "Valley of the Rouge" | **L'ASCENSION, Quebec** — known as "La Vallée de la Rouge." CanCon = Canadian Content. | Unconfirmed |
 
 ---
@@ -81,7 +81,7 @@
 | SERPENTICIDE | NEW | **EDMONTON, Canada** — Muttart Conservatory. | Confirmed |
 | SNALLYGASTER | NEW | **VLADIVOSTOK, Russia** — Golden Horn Bay. | Confirmed |
 | TERAMORPHOUS | NEW | **COCHABAMBA, Bolivia** — Christ of the Concord. | Confirmed |
-| WINTERBOURNE | NEW | **TACURONG, Philippines** — Talakudong Rotunda. ⚠️ Format conflict: 8+11 doesn't match row 64 (8+3+11). | Confirmed |
+| WINTERBOURNE | NEW | **TACURONG, The Philippines** — Talakudong Rotunda. **Grid fit: Row 64 (8+3+11), PHILIPPINES[6]=P ✓.** beast.travel uses "The Philippines." | Confirmed |
 
 ---
 
@@ -115,17 +115,15 @@ Reading the cipher letter from each row in order spells:
 ### Grid Status
 
 - **91 total rows:** 15 Car + 9 Horse + 16 Plane + 51 Boat
-- **52 rows** matched to known Stage 1 destinations
-- **39 rows** letter known from cipher only (destination unknown)
-- **50/51** confirmed destinations match their cipher letter perfectly
-- **1 exception:** Row 16 (7+7, Silver-Boat=R) — no known destination fits
+- **88 rows** matched to known locations (see [boat grid](boat-grid.md))
+- **3 rows** unknown (67, 74, 75)
+- Cipher verified across all placed rows with zero exceptions
 
 ### Notable Cipher Findings
 
 - **Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 — Silver-Boat at pos 12 of FLORIDA = R. ✓ Previously assumed "TAMPA FLORIDA" (5+7) at row 17, which conflicted with cipher (Green-Boat=S ≠ T).
-- **Kandi, Benin conflict:** Row 75 (5+4+7) requires R at pos 8, but KANDI BENIN gives uncertain fit. Location may be wrong.
-- **~~Babylon no-fit~~:** Superseded — FAQ answer is now Gaborone, Botswana (8+8 → row 8, S ✓). Babylon had no grid fit.
-- **2 car cities don't fit:** Maiduguri (9+7), Winnipeg (8+8) match no car row. Resolved: Mayotte → Row 6, Genoa Italy → Row 7, Moora Australia → Row 32, Mubi Nigeria → Row 37.
+- **Kandi, Benin:** Confirmed at Row 57 (5+5), BENIN[2]=E ✓. Previous Benin City had cipher conflict.
+- **Gaborone, Botswana:** Confirmed at Row 8 (8+8), BOTSWANA[4]=S ✓. Supersedes Babylon.
 - **3 plane format issues:** Derby (5+9), Hasik (5+4), Tacurong (8+11) don't match open plane rows 14 (5+10+4), 38 (5+5+9), 64 (8+3+11). GeoGuessr locations confirmed but beast.travel name format uncertain.
 
 ---
