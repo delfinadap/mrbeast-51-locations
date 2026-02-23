@@ -52,14 +52,14 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 1 | 5+4 | Red-Car | **I** | Mosul, Iraq | Confirmed |
 | 2 | 9+5+8 | Green-Plane | **N** | Charlotte, North Carolina | Confirmed |
 | 3 | 7+10 | Blue-Plane | **J** | Ambanja, Madagascar | Confirmed |
-| 4 | 7+6 | Red-Car | **I** | Arzamas, Russia | Probable |
+| 4 | 7+6 | Red-Car | **I** | Arzamas, Russia | Confirmed |
 | 5 | 6+7 | Purple-Car | **M** | Casper, Wyoming | Probable |
-| 6 | 7 | Purple-Car | **M** | Mayotte | Probable |
-| 7 | 5+5 | Black-Car | **Y** | Genoa, Italy | Probable |
-| 8 | 8+8 | Green-Boat | **S** | Gaborone, Botswana | Probable |
+| 6 | 7 | Purple-Car | **M** | Mayotte | Confirmed |
+| 7 | 5+5 | Black-Car | **Y** | Genoa, Italy | Confirmed |
+| 8 | 8+8 | Green-Boat | **S** | Gaborone, Botswana | Confirmed |
 | 9 | 4+6+6 | Green-Horse | **V** | Nova Russas, Brazil | Confirmed |
 | 10 | 5+11 | Brown-Boat | **A** | Kabul, Afghanistan | Confirmed |
-| 11 | 7+6 | Yellow-Car | **U** | Giresun, Turkey | Probable |
+| 11 | 7+6 | Yellow-Car | **U** | Giresun, Turkey | Confirmed |
 | 12 | 3+6+2+7+9 | Purple-Plane | **L** | San Miguel de Tucumán, Argentina | Confirmed |
 | 13 | 5+4+3+7 | Purple-Boat | **T** | Lower Hutt, New Zealand | Confirmed |
 | 14 | 5+10+4 | Black-Plane | **F** | Natif Waterfalls, Oman | Unconfirmed |
@@ -80,7 +80,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 29 | 5+6 | Silver-Boat | **R** | Heard Island | Confirmed |
 | 30 | 9+6 | Red-Plane | **O** | Krasnodar, Russia | Confirmed |
 | 31 | 16+7 | Brown-Boat | **A** | Eyjafjallajökull, Iceland | Confirmed |
-| 32 | 5+9 | Purple-Car | **M** | Moora, Australia | Probable |
+| 32 | 5+9 | Purple-Car | **M** | Moora, Australia | Confirmed |
 | 33 | 6+6 | Black-Car | **Y** | Beatty, Nevada | Confirmed |
 | 34 | 4+4 | Silver-Boat | **R** | Lima, Peru | Confirmed |
 | 35 | 10+7 | Gold-Boat | **E** | Copenhagen, Denmark | Confirmed |
@@ -89,14 +89,14 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 38 | 5+5+9 | Purple-Plane | **L** | Derby Wharf, Australia | Unconfirmed |
 | 39 | 5+7 | Purple-Boat | **T** | Quito, Ecuador | Confirmed |
 | 40 | 5+6 | Green-Boat | **S** | Arles, France | Confirmed |
-| 41 | 8+6 | Red-Car | **I** | Istanbul, Turkey | Probable |
+| 41 | 8+6 | Red-Car | **I** | Istanbul, Turkey | Confirmed |
 | 42 | 6+6 | Green-Plane | **N** | Manaus, Brazil | Confirmed |
 | 43 | 5+6 | Green-Car | **B** | Visby, Sweden | Confirmed |
 | 44 | 9+6 | Gold-Boat | **E** | Ascension Island | Confirmed |
 | 45 | 6+6 | Purple-Boat | **T** | Iturup, Russia | Confirmed |
 | 46 | 12+3+7 | Yellow-Horse | **W** | Christchurch, New Zealand | Confirmed |
 | 47 | 3+7+9 | Gold-Boat | **E** | New Orleans, Louisiana | Unconfirmed |
-| 48 | 4+8 | Gold-Boat | **E** | Malé, Maldives | Probable |
+| 48 | 4+8 | Gold-Boat | **E** | Malé, Maldives | Confirmed |
 | 49 | 9+8 | Green-Plane | **N** | Velingrad, Bulgaria | Confirmed |
 | 50 | 10+7 | Green-Boat | **S** | Casablanca, Morocco | Confirmed |
 | 51 | 6+10 | Purple-Boat | **T** | Maputo, Mozambique | Confirmed |
@@ -113,7 +113,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 62 | 3+2+2+10 | Gold-Boat | **E** | Île de la Possession | Confirmed |
 | 63 | 5+3+7 | Silver-Boat | **R** | Tampa Bay, Florida | Confirmed |
 | 64 | 8+3+11 | Yellow-Plane | **P** | Tacurong, The Philippines | Probable |
-| 65 | 5+5 | Brown-Boat | **A** | Thane, India | Probable |
+| 65 | 5+5 | Brown-Boat | **A** | Thane, India | Confirmed |
 | 66 | 9+8 | Red-Car | **I** | Marquette, Michigan | Probable |
 | 67 | 6+5+7 | Silver-Boat | **R** | ??? | Unknown |
 | 68 | 7+7 | Green-Boat | **S** | Tbilisi, Georgia | Confirmed |
