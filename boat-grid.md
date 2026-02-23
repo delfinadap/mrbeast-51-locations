@@ -39,7 +39,7 @@ Here it is word by word, showing which rows are solved (✓) vs unknown (?):
 | AT | 85–86 | A, T | ✓✓ |
 | START. | 87–91 | S, T, A, R, T | ✓✓✓✓✓ |
 
-**88 of 91 rows filled. 3 remain unknown (rows 67, 74, 75).**
+**89 of 91 rows filled. 2 remain unknown (rows 67, 75).**
 
 ---
 
