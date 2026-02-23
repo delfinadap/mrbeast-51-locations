@@ -104,7 +104,7 @@
 | # | Location | Video | Notes | Confidence |
 |---|----------|-------|-------|------------|
 | 1 | **QUITO, Ecuador** | "Mirror mirror on the wall" | 5 red items → phonetic: KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador." BeastBot confirms cow, bear, and red doors. | Confirmed |
-| 2 | **SOUTH POLE?** | Chocolate heart (XbaZ45LVzzM) | MrBeast + Amaury Gaichon. Community intel (Feb 21): South Pole for this short, replacing Alofi Niue at boat grid row 54 (5+4, ends in E ✓). | Unconfirmed |
+| 2 | **SOUTH POLE** | Super Bowl ticket short | YouTube short: "Super Bowl" text changes to "South Pole" on screen. Grid row 54 (5+4), POLE[4]=E ✓. Replaces Alofi, Niue. | Probable |
 
 ---
 

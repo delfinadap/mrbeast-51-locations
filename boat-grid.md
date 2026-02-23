@@ -102,7 +102,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 51 | 6+10 | Purple-Boat | **T** | Maputo, Mozambique | Confirmed |
 | 52 | 6+6 | Brown-Boat | **A** | Ankara, Turkey | Confirmed |
 | 53 | 7+6+8 | Purple-Horse | **G** | Castelo Branco, Portugal | Confirmed |
-| 54 | 5+4 | Gold-Boat | **E** | **South Pole? / Alofi, Niue?** | Unconfirmed |
+| 54 | 5+4 | Gold-Boat | **E** | South Pole | Probable |
 | 55 | 9+7 | Red-Plane | **O** | Marrakesh, Morocco | Confirmed |
 | 56 | 8+7 | Green-Plane | **N** | Edmonton, Alberta | Confirmed |
 | 57 | 5+5 | Gold-Boat | **E** | Kandi, Benin | Confirmed |
