@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**Status:** 88 rows placed, 3 unknown | *Feb 22, 2026 10:26 PM PT*
+**Status:** 89 rows placed, 2 unknown | *Feb 23, 2026 8:22 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -122,7 +122,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 71 | 4+4+8 | Green-Boat | **S** | Toad Suck, Arkansas | Confirmed |
 | 72 | 6+5+8 | Purple-Boat | **T** | Nazaré Coast, Portugal | Unconfirmed |
 | 73 | 12 | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
-| 74 | 10+9 | Brown-Boat | **A** | ??? | Unknown |
+| 74 | 10+9 | Brown-Boat | **A** | Queensland, Australia | Confirmed |
 | 75 | 5+4+7 | Silver-Boat | **R** | ??? (Kandi ruled out — cipher conflict) | Unknown |
 | 76 | 4+5 | Purple-Boat | **T** | Doha, Qatar | Confirmed |
 | 77 | 5+10+7 | Red-Horse | **H** | České Budějovice, Czechia | Confirmed |

@@ -80,7 +80,7 @@
 | 4 | TIERRA DEL FUEGO | Quackity | Sword with text + Beagle Channel | Confirmed |
 | 5 | DEKALB | Hayleybaylee | Rings puzzle → DeKalb, Illinois | Confirmed |
 | 6 | **MONTREAL** | Jim & Monika | Heart hoodie uses **MAD Magazine fold-in** mechanism. BeastBot: "positively MAD." Fold text inward → edge letters spell **MONTREAL, CANADA**. | Confirmed |
-| 7 | CAIRNS, QUEENSLAND | Chris Hemsworth | "LAND OF CAIRNS" → Queensland. | Confirmed |
+| 7 | CAIRNS, QUEENSLAND | Chris Hemsworth | "LAND OF CAIRNS" → Queensland. **Grid fit: Row 74 (10+9), QUEENSLAND[8]=A ✓.** | Confirmed |
 | 8 | DIVO | Jack McKenna | Card trick → DIVO, Côte d'Ivoire | Confirmed |
 | 9 | COPENHAGEN | Pierson | Blender food combos → missing letters spell HAFNIUM CITY → Latin for Copenhagen | Confirmed |
 | 10 | BUFFALO | Botez Sisters | Chess Game 6 cipher → BUFFALO | Confirmed |
