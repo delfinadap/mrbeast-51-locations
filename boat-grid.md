@@ -156,19 +156,7 @@ These destinations have been identified but **don't fit any row** on the grid:
 | SALAMANDROID | Nantucket, MA | 9+13 | No 9+13 car row | Row 7 most likely (Genoa Italy fits grid but not nickname) |
 | SCAPULOMANCY | Mayotte, France | 7+6 | No 7+6 car row | (same 4 open rows) |
 
-### Plane format issues (3 — GeoGuessr confirmed but name format uncertain)
-
-| Puzzle | Current city | Lengths | Row needed |
-|--------|-------------|---------|------------|
-| EPANASTROPHE | Derby, W. Australia | 5+5+9 (Derby Wharf, Australia) | Row 38 ✓ |
-| LIGNIPERDOUS | Hasik, Oman | 5+10+4 (Natif Waterfalls, Oman) | Row 14 ✓ |
-| ~~WINTERBOURNE~~ | ~~Tacurong, Philippines~~ | ~~8+11~~ | ~~Resolved: Row 64 as "Tacurong, The Philippines" (8+3+11)~~ |
-
-### Stage 1 conflicts
-
-| City | Row | Problem |
-|------|-----|---------|
-| ~~Babylon, Iraq~~ | — | No 7+4 row exists. Superseded by Gaborone, Botswana (8+8 → row 8). |
+*Plane format issues and Stage 1 conflicts all resolved.*
 
 ---
 
