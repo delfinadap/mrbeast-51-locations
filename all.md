@@ -1,6 +1,6 @@
 # 51 Locations — All in One
 
-**47 confirmed, 1 probable, 1 unconfirmed = 49 with answers, 2 unsolved** | *Feb 23, 2026 2:15 PM PT*
+**49 confirmed, 1 probable, 0 unconfirmed = 50 with answers, 1 unsolved** | *Feb 24, 2026 9:16 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -15,7 +15,7 @@
 | 7 | Screen 6 + Bank | **TBILISI** | Bird cipher → DINAMO. Coffee cup → Georgia outline. DINAMO + Georgia → FC Dinamo Tbilisi. Grid row 68, TBILISI[6]=S ✓. | Confirmed |
 | 8 | Screen 7 + Bank | **TOAD SUCK, AR** | 3-part decode: "towed"→TOAD, IPESIT→STUCK−T→SUCK, "arrrr"+Kansas→ARKANSAS. | Confirmed |
 | 9 | Screen 8 + Bank | TIJUANA | Caesar busts → Slack ringtone → "THE BEST BANK" → Caesar cipher → "SALAD ORIGIN" → Tijuana. | Confirmed |
-| 10 | Screen 9 + Bank | **WINDSOR, ON?** | SW images + crosswalk. BeastBot: "directional lines pair with crosswalk lines." Semaphore mechanism. Grid row 16 (7+7) ✓. | Unconfirmed |
+| 10 | Screen 9 + Bank | **ARMAVIR, AM?** | SW images + crosswalk semaphore → **A R M ? ? ? ?** → likely ARMAVIR, ARMENIA. Grid row 16 (7+7), ARMAVIR[7]=R ✓. | Probable |
 | 11 | Screen 10 + Bank | ??? | 10⁵ + Sudoku. Case #271829 = e×10⁵. Collaboration-gated. | Unsolved |
 | 12 | Screen 11 + Bank | **DOHA, QATAR** | 22.493 lbs pennies ≈ lat 40.81 → "one more step" → Doha. BeastBot confirmed. Grid row 76 (4+5) ✓. | Confirmed |
 | 13 | Screen 12 + Bank | **MOSCOW** | Red + Cube = Red Square. BeastBot: "83.33% atypical." | Confirmed |
@@ -27,10 +27,10 @@
 | 19 | Commercial | LIMA | Belt wire colors 12-7-13-1 | Confirmed |
 | 20 | Commercial | TASHKENT | Marked bills → "CASH TENT" → Spoonerism → TASHKENT | Confirmed |
 | 21 | Commercial | TALLINN | Subtitles hyphens → "Seven Letter Big Lodge" → tall inn | Confirmed |
-| 22 | Commercial | **NEW ORLEANS?** | Tank numbers + ice cream video. BeastBot hint points to banana foster origin. | Probable |
+| 22 | Commercial | **NEW ORLEANS** | Tank numbers + ice cream video receipt. BeastBot hint points to banana foster origin. | Confirmed |
 | 23 | Commercial | **YELLOWSTONE** | Smoke grenade: YELLOW+S+T+ONE. BeastBot: "color text matters." Grid row 83 cross-confirms. | Confirmed |
 | 24 | Commercial | **CASABLANCA** | Slack emojis in SB ad: 🎠CA-rousel 🦕SA-uropod 🌼BL-ossom ⚓AN-chor 🏕️CA-mping. First 2 letters of each Slack name. Grid row 50 (10+7) ✓. | Confirmed |
-| 25 | Commercial | ??? | **Lab screens (12 screens connected)** — BeastBot confirms unified puzzle. Loading bar colors encode location. Unsolved. | Unsolved |
+| 25 | Commercial | **NORTH YORK, ON** | Lab screens (12 connected) — loading bar colors → ternary RGB → BEAST CITY HUB → North York, Ontario. Grid row 75 (5+4+7), YORK[3]=R ✓. | Confirmed |
 | 26 | Gift | ALGIERS | Airrack — 7 pictures hide "ERIC." First letters A-L-G-I-E-R-S | Confirmed |
 | 27 | Gift | **TAMPA BAY** | Sketch — Madden 99 → BUCS HOME. beast.travel confirms 5+3+7 format. | Confirmed |
 | 28 | Gift | **WICHITA** | Fallon — "JIMMYS BIRTHPLACE" = MrBeast born Wichita. | Confirmed |
@@ -44,18 +44,18 @@
 | 36 | Gift Unifier | **SUCRE, Bolivia** | Golden Present Matrix → "A NICE SUGAR" → Nice (France) + sugar (French) = Sucre. Grid row 17, SUCRE[1]=S ✓. | Confirmed |
 | 37 | YT Short | **QUITO, Ecuador** | Mirror video — KEY-TOW-HECK-QUID-DOOR = "Quito Ecuador" | Confirmed |
 | 38 | YT Short | **SOUTH POLE** | Super Bowl ticket short — "Super Bowl" text changes to "South Pole" on screen. Grid row 54 (5+4), POLE[4]=E ✓. | Confirmed |
-| 39 | SF: BTS (A1) | **MALÉ, Maldives** | Malcolm — "Male Mal dives." Omega ⦿. BeastBot + Vigenere confirmation. | Confirmed |
+| 39 | SF: BTS (A1) | **MALÉ, Maldives** | Malcolm — "Male Mal dives." BeastBot + Vigenere confirmation. | Confirmed |
 | 40 | SF: BTS (A2) | **ITURUP** | Submarine Math — grid + subscriber count → ASCII. | Confirmed |
 | 41 | SF: BTS (A3) | YELLOWKNIFE | Puzzle Maker — BTS video 6:19. | Confirmed |
 | 42 | SF: BTS (A4) | **THANE, India** | Elephant 85673 → index into ELEPHANT = THANE. 4 independent solvers. | Confirmed |
 | 43 | SF: Physical (B1) | **NAZARÉ** | Tower LED video — "SURF RECORD SITE WITH ARGENT HUE." | Confirmed |
 | 44 | SF: Physical (B2) | **NOME** | Billboard letters — "e mon" backwards. | Confirmed |
 | 45 | SF: Physical (B3) | **DIMTU** | Billboard numbers — 04 09 13 20 21 → DIMTU. | Confirmed |
-| 46 | SF: Site (C1) | **ANTANANARIVO** | Dot-Dollar / "How?" video — Nick's dot solve, BeastBot confirmed. Grid row 86 (12+10) ✓. | Confirmed |
+| 46 | SF: Site (C1) | **ANTANANARIVO** | Dot-Dollar / "How?" video — BeastBot confirmed. Grid row 86 (12+10) ✓. | Confirmed |
 | 47 | SF: Site (C2) | **GABORONE** | FAQ — "PRATE OR THIS" → prate synonym = GABS = Gaborone, Botswana. Grid row 8 (8+8), BOTSWANA[4]=S ✓. | Confirmed |
-| 48 | Lone Shark | HEARD ISLAND | Bluesky homophones | Confirmed |
-| 49 | Lone Shark | ILE DE LA POSSESSION | Podcast anagram | Confirmed |
-| 50 | Lone Shark | ASCENSION ISLAND | BoardGameGeek acrostic | Confirmed |
+| 48 | Socials | HEARD ISLAND | Bluesky homophones | Confirmed |
+| 49 | Socials | ILE DE LA POSSESSION | Podcast anagram | Confirmed |
+| 50 | Socials | ASCENSION ISLAND | BoardGameGeek acrostic | Confirmed |
 | — | Crossword | EYJAFJALLAJOKULL | 16 circled cells anagram (51st location, sets up Stage 2) | Confirmed |
 
 ---

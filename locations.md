@@ -38,7 +38,7 @@
 | 6 | **TBILISI** | Bird on wire | Coffee cup / bird toy | Screen birds use **bird cipher** → spells **DINAMO**. Bank bird toy points to coffee cup showing "Macon Coffee" with **outline of Georgia** — Georgia the country, not US state. DINAMO + Georgia → **FC Dinamo Tbilisi**. Two puzzle elements converge. **Grid fit: Row 68 (7+7), Green-Boat=S → TBILISI[6]=S ✓.** | Confirmed |
 | 7 | **TOAD SUCK, AR** | Ear with T crossed out (5 blanks, T in pos 2 X'd) | IPESIT plate / "Talk Like a Pirate Day" sign | BeastBot: "this puzzle is in three parts, each using a different puzzle type" — "addition, deletion, and homophone." (1) Tank "towed" → homophone → **TOAD**. (2) IPESIT = "I Paid Everyone Stuck In Traffic" (MrBeast video) → **STUCK** → delete T → **SUCK**. (3) "Arrrr" (pirate) + Kansas → **ARKANSAS**. = **TOAD SUCK, ARKANSAS** (real place!). | Confirmed |
 | 8 | TIJUANA | Caesar busts (1,7,7,1,1,4,2,7,6,5,3) | "Best Bank" poster | Caesar bust numbers play **Slack Boop Plus** ringtone → Slack message → "THE BEST BANK" poster → Caesar cipher = **"SALAD ORIGIN"** → origin of **Caesar salad** = **Tijuana, Mexico**. Triple Caesar pun. | Confirmed |
-| 9 | **ARMAVIR, AM?** | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All images start with **SW** (Lone Shark confirmed). BeastBot (Feb 22): "The pictures create directional lines which can pair with the lines that start in the middle of the crosswalk." → semaphore mechanism. Omega decode: add directional lines from SW-images to crosswalk lines, interpret as flag semaphore → **A R M ? ? ? ?** → likely **ARMAVIR, ARMENIA**. Grid row 16 (7+7), ARMAVIR[7]=R ✓. Supersedes Windsor/Shkoder. | Probable |
+| 9 | **ARMAVIR, AM?** | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All images start with **SW** (confirmed). BeastBot (Feb 22): "The pictures create directional lines which can pair with the lines that start in the middle of the crosswalk." → semaphore mechanism. Community decode: add directional lines from SW-images to crosswalk lines, interpret as flag semaphore → **A R M ? ? ? ?** → likely **ARMAVIR, ARMENIA**. Grid row 16 (7+7), ARMAVIR[7]=R ✓. Supersedes Windsor/Shkoder. | Probable |
 | 10 | ??? | 10⁵ (0 underlined) | Sudoku (onemil.xyz) | **Genuinely unsolved — likely collaboration-gated.** Case #271829 = e × 10⁵ (Euler's number). Hint #7: "you need friends, maybe a million of them." | Unsolved |
 | 11 | **DOHA, QATAR** | Top hat on weight (22.493 lbs) | Penny jar | 22.493 lbs pennies ≈ lat 40.81. BeastBot denied Lincoln: "take it one more step." **BeastBot confirmed DOHA, QATAR** (multiple community members, Feb 22). Grid row 76 (4+5), Purple-Boat=T at pos 7 → QATAR[3]=T ✓. | Confirmed |
 | 12 | MOSCOW | n³ = n² | Red Rubik's cube | n=0 or n=1 (binary). Red + Cube = Red Square, Moscow. BeastBot: "83.33% atypical" (5/6 faces non-standard). | Confirmed |
@@ -121,7 +121,7 @@
 
 | # | Location | Puzzle | Hint #9 Match | Notes | Confidence |
 |---|----------|--------|---------------|-------|------------|
-| A1 | **MALÉ, Maldives** | **Malcolm in Water** | "2 underwater" (1st) | BeastBot: "Who is in the water? A name might appear more than once here. This can be read as a sentence: adjective, proper noun, verb." → **"Male Mal dives"** = MALÉ, MALDIVES. Omega ⦿. Vigenere confirmation. | Confirmed |
+| A1 | **MALÉ, Maldives** | **Malcolm in Water** | "2 underwater" (1st) | BeastBot: "Who is in the water? A name might appear more than once here. This can be read as a sentence: adjective, proper noun, verb." → **"Male Mal dives"** = MALÉ, MALDIVES. Vigenere confirmation. | Confirmed |
 | A2 | **ITURUP** | **Submarine Math** | "2 underwater" (2nd) | BTS video ~3:17 shows grid with numbers + empty squares. Fill with subscriber count, do math, convert to ASCII → **ITURUP** (Kuril Islands). | Confirmed |
 | A3 | YELLOWKNIFE | **Puzzle Maker** | "1 in pieces" | Slack message at 6:19 in BTS video. | **Confirmed** |
 | A4 | **THANE, India** | **Elephant 85673** | "1 never forgets" | 85673 indexes into ELEPHANT: 8=T, 5=H, 6=A, 7=N, 3=E → **THANE**. Major city (1.9M pop) in India. 4 independent solvers. | Confirmed |
@@ -143,15 +143,15 @@
 
 ---
 
-## Category 8: Lone Shark Socials (3 of 3) ✅
+## Category 8: Socials Socials (3 of 3) ✅
 
-*"The 3 puzzles on Lone Shark's socials."*
+*"The 3 puzzles on Socials's socials."*
 
 | # | Location | Platform | Decode | Confidence |
 |---|----------|----------|--------|------------|
 | 1 | HEARD ISLAND | Bluesky | Homophones indexed by word lengths → HEARD ISLAND. | Confirmed |
 | 2 | ILE DE LA POSSESSION | Podcast (Hello Puzzlers) | "ISASEEDSESLIAOPNO" anagrams to ILE DE LA POSSESSION. | Confirmed |
-| 3 | ASCENSION ISLAND | Facebook / BoardGameGeek | BGG rankings → acrostic. All 3 Lone Shark answers are remote islands. | Confirmed |
+| 3 | ASCENSION ISLAND | Facebook / BoardGameGeek | BGG rankings → acrostic. All 3 Socials answers are remote islands. | Confirmed |
 
 ---
 
@@ -176,7 +176,7 @@
 | Gift unifier | 1 | 1 | 0 |
 | YouTube shorts/TikTok | 2 | 2 | 0 |
 | Salesforce site/social | 9 | 9 | 0 |
-| Lone Shark socials | 3 | 3 | 0 |
+| Socials socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
 | **TOTAL** | **51** | **~50** | **~1** |
 
