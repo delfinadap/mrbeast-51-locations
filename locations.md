@@ -2,9 +2,9 @@
 
 **Source:** Hint #6 (Feb 14) confirmed exactly 51 location-yielding puzzles across 9 categories.
 
-**Status:** 47 confirmed, 1 probable, 1 unconfirmed = 49 with answers, 2 unsolved.
+**Status:** 49 confirmed, 1 probable, 0 unconfirmed = 50 with answers, 1 unsolved.
 
-**Last updated:** Feb 23, 2026 2:15 PM PT. Bulk confidence sync across all pages. Mubi reverted to Unconfirmed. Casablanca promoted to Category 3 (Slack emoji decode). Camel/llama removed (unverified BeastBot trigger). Queensland placed at Row 74.
+**Last updated:** Feb 24, 2026 9:16 AM PT. North York, Ontario confirmed for Lab Screens (loading bar ternary RGB → BEAST CITY HUB). Armavir, Armenia probable for Screen 9/SWosswalk (semaphore decode → ARMEANCF, replaces Windsor). New Orleans promoted to Confirmed.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
@@ -38,7 +38,7 @@
 | 6 | **TBILISI** | Bird on wire | Coffee cup / bird toy | Screen birds use **bird cipher** → spells **DINAMO**. Bank bird toy points to coffee cup showing "Macon Coffee" with **outline of Georgia** — Georgia the country, not US state. DINAMO + Georgia → **FC Dinamo Tbilisi**. Two puzzle elements converge. **Grid fit: Row 68 (7+7), Green-Boat=S → TBILISI[6]=S ✓.** | Confirmed |
 | 7 | **TOAD SUCK, AR** | Ear with T crossed out (5 blanks, T in pos 2 X'd) | IPESIT plate / "Talk Like a Pirate Day" sign | BeastBot: "this puzzle is in three parts, each using a different puzzle type" — "addition, deletion, and homophone." (1) Tank "towed" → homophone → **TOAD**. (2) IPESIT = "I Paid Everyone Stuck In Traffic" (MrBeast video) → **STUCK** → delete T → **SUCK**. (3) "Arrrr" (pirate) + Kansas → **ARKANSAS**. = **TOAD SUCK, ARKANSAS** (real place!). | Confirmed |
 | 8 | TIJUANA | Caesar busts (1,7,7,1,1,4,2,7,6,5,3) | "Best Bank" poster | Caesar bust numbers play **Slack Boop Plus** ringtone → Slack message → "THE BEST BANK" poster → Caesar cipher = **"SALAD ORIGIN"** → origin of **Caesar salad** = **Tijuana, Mexico**. Triple Caesar pun. | Confirmed |
-| 9 | **WINDSOR, ON?** | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All images start with **SW** (Lone Shark confirmed). BeastBot (Feb 22): "The pictures create directional lines which can pair with the lines that start in the middle of the crosswalk." → semaphore mechanism. Windsor, Ontario proposed but solve method doesn't yet use crosswalk. Grid row 16 (7+7), R at pos 7 ✓. | Unconfirmed |
+| 9 | **ARMAVIR, AM?** | Image carousel (swing, witch, elephant, swan pediment, sword, Swiss flag, sweater) | Crosswalk symbols | All images start with **SW** (Lone Shark confirmed). BeastBot (Feb 22): "The pictures create directional lines which can pair with the lines that start in the middle of the crosswalk." → semaphore mechanism. Omega decode: add directional lines from SW-images to crosswalk lines, interpret as flag semaphore → **A R M E A N C F** → **ARMAVIR, ARMENIA**. Grid row 16 (7+7), ARMAVIR[7]=R ✓. Supersedes Windsor/Shkoder. | Probable |
 | 10 | ??? | 10⁵ (0 underlined) | Sudoku (onemil.xyz) | **Genuinely unsolved — likely collaboration-gated.** Case #271829 = e × 10⁵ (Euler's number). Hint #7: "you need friends, maybe a million of them." | Unsolved |
 | 11 | **DOHA, QATAR** | Top hat on weight (22.493 lbs) | Penny jar | 22.493 lbs pennies ≈ lat 40.81. BeastBot denied Lincoln: "take it one more step." **BeastBot confirmed DOHA, QATAR** (multiple community members, Feb 22). Grid row 76 (4+5), Purple-Boat=T at pos 7 → QATAR[3]=T ✓. | Confirmed |
 | 12 | MOSCOW | n³ = n² | Red Rubik's cube | n=0 or n=1 (binary). Red + Cube = Red Square, Moscow. BeastBot: "83.33% atypical" (5/6 faces non-standard). | Confirmed |
@@ -59,10 +59,10 @@
 | LIMA | Belt wire colors | Color code 12-7-13-1 = L-I-M-A | Confirmed |
 | TASHKENT | Marked bills / Cash Pile | Red-rimmed bills → "CASH TENT." BeastBot references Reverend Spooner. Spoonerism of "Cash Tent" → "Tash Kent" → **TASHKENT**. | Confirmed |
 | TALLINN | Subtitles / transcript | Hyphens adjacent to letters spell "Seven Letter Big Lodge" → "big lodge" = "tall inn" = TALLINN | Confirmed |
-| NEW ORLEANS? | Tank numbers + "I scream" | Tank numbers match receipt from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. BeastBot hint points to banana foster origin (screenshot, Feb 23). | Probable |
+| **NEW ORLEANS** | Tank numbers + "I scream" | Tank numbers match receipt ($36,348.26) from MrBeast "$100K Ice Cream" video. Banana foster originates from New Orleans. BeastBot hint points to banana foster origin (screenshot, Feb 23). Multiple independent solvers. Grid row 47 (3+7+9), Gold-Boat=E. | Confirmed |
 | **YELLOWSTONE** | Smoke grenade | BeastBot: "Grenades demand to be taken literally" + "SMOKE is just a type, the other letters matter" + "4 parts." + "We don't just color text on grenades randomly." Text "1+1=?" is in YELLOW. **YELLOW** + **S** + **T** + **ONE** = **YELLOWSTONE**. Community convergence. Cross-confirmed by boat grid row 83 (only 11-letter word, Gold-Boat=E ✓). | Confirmed |
 | **CASABLANCA** | Slack emojis in commercial | Five emojis on Slack screen in SB ad: 🎠**CA**rousel + 🦕**SA**uropod + 🌼**BL**ossom + ⚓**AN**chor + 🏕️**CA**mping = **CASABLANCA**. Solved by Matt (LSG, Feb 12). Grid row 50 (10+7), CASABLANCA[3]=S ✓. | Confirmed |
-| ??? | **Lab screens (12 screens connected)** | BeastBot confirms all 12 screens form a unified puzzle (Elle Strycharz). Loading bar colors likely encode a location. Active work — RGB ternary, hex, hue approaches tried, no location yet. | Unsolved |
+| **NORTH YORK, ON** | **Lab screens (12 screens connected)** | BeastBot confirms all 12 screens form a unified puzzle (Elle Strycharz). Loading bar colors → 1-trit RGB ternary → numbers 2,5,1,19,20,3,9,20,24,8,21,2 → A1Z26 → **BEAST CITY HUB**. Beast City (MrBeast Lab / Beast Games S1) was filmed at Downsview Hangars in **North York, Ontario**. Grid row 75 (5+4+7), YORK[3]=R ✓. | Confirmed |
 
 ---
 
@@ -170,15 +170,15 @@
 | Category | Total | Found | Missing |
 |----------|-------|-------|---------|
 | Playlist setup | 1 | 1 | 0 |
-| Screen + Bank (paired) | 12 | 11 | 1 (Screen 9 = Windsor? unconfirmed, Screen 10 unsolved) |
-| Non-screen commercial | 12 | 11 | 1 (lab screens unsolved) |
+| Screen + Bank (paired) | 12 | 11 | 1 (Screen 9 = Armavir? probable, Screen 10 unsolved) |
+| Non-screen commercial | 12 | 12 | 0 |
 | Gifts | 10 | 10 | 0 |
 | Gift unifier | 1 | 1 | 0 |
 | YouTube shorts/TikTok | 2 | 2 | 0 |
 | Salesforce site/social | 9 | 9 | 0 |
 | Lone Shark socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
-| **TOTAL** | **51** | **~49** | **~2** |
+| **TOTAL** | **51** | **~50** | **~1** |
 
 ---
 

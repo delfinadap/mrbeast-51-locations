@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**85 confirmed, 2 probable, 2 unconfirmed = 89 rows placed, 2 unknown** | *Feb 23, 2026 2:15 PM PT*
+**87 confirmed, 2 probable, 0 unconfirmed = 90 rows placed, 1 unknown** | *Feb 24, 2026 9:16 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
@@ -39,7 +39,7 @@ Here it is word by word, showing which rows are solved (✓) vs unknown (?):
 | AT | 85–86 | A, T | ✓✓ |
 | START. | 87–91 | S, T, A, R, T | ✓✓✓✓✓ |
 
-**89 of 91 rows filled. 2 remain unknown (rows 67, 75).**
+**90 of 91 rows filled. 1 remains unknown (row 67).**
 
 ---
 
@@ -64,7 +64,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 13 | 5+4+3+7 | □□□□□   □□■□   □□□   □□□□□□□ | Purple-Boat | **T** | Lower Hutt, New Zealand | Confirmed |
 | 14 | 5+10+4 | □□□□■   □□□□□□□□□□   □□□□ | Black-Plane | **F** | Natif Waterfalls, Oman | Confirmed |
 | 15 | 4+10 | □□□□   □□□□□□■□□□ | Red-Car | **I** | Baku, Azerbaijan | Confirmed |
-| 16 | 7+7 | □□□□□□■   □□□□□□□ | Silver-Boat | **R** | Windsor, Ontario | Unconfirmed |
+| 16 | 7+7 | □□□□□□■   □□□□□□□ | Silver-Boat | **R** | Armavir, Armenia | Probable |
 | 17 | 5+7 | ■□□□□   □□□□□□□ | Green-Boat | **S** | Sucre, Bolivia | Confirmed |
 | 18 | 5+5 | □□□□□   □□□□■ | Purple-Boat | **T** | Cairo, Egypt | Confirmed |
 | 19 | 4+5 | ■□□□   □□□□□ | Yellow-Plane | **P** | Pune, India | Confirmed |
@@ -95,7 +95,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 44 | 9+6 | □□□■□□□□□   □□□□□□ | Gold-Boat | **E** | Ascension Island | Confirmed |
 | 45 | 6+6 | □■□□□□   □□□□□□ | Purple-Boat | **T** | Iturup, Russia | Confirmed |
 | 46 | 12+3+7 | □□□□□□□□□□□□   □□■   □□□□□□□ | Yellow-Horse | **W** | Christchurch, New Zealand | Confirmed |
-| 47 | 3+7+9 | □□□   □□□■□□□   □□□□□□□□□ | Gold-Boat | **E** | New Orleans, Louisiana | Probable |
+| 47 | 3+7+9 | □□□   □□□■□□□   □□□□□□□□□ | Gold-Boat | **E** | New Orleans, Louisiana | Confirmed |
 | 48 | 4+8 | □□□□   □□□□□□■□ | Gold-Boat | **E** | Malé, Maldives | Confirmed |
 | 49 | 9+8 | □□□□■□□□□   □□□□□□□□ | Green-Plane | **N** | Velingrad, Bulgaria | Confirmed |
 | 50 | 10+7 | □□■□□□□□□□   □□□□□□□ | Green-Boat | **S** | Casablanca, Morocco | Confirmed |
@@ -123,7 +123,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | 72 | 6+5+8 | □□□□□□   □□□□■   □□□□□□□□ | Purple-Boat | **T** | Nazaré Coast, Portugal | Confirmed |
 | 73 | 12 | □□□□□-■□□□□□ | Yellow-Plane | **P** | Saint-Pierre | Confirmed |
 | 74 | 10+9 | □□□□□□□■□□   □□□□□□□□□ | Brown-Boat | **A** | Queensland, Australia | Confirmed |
-| 75 | 5+4+7 | □□□□□   □□■□   □□□□□□□ | Silver-Boat | **R** | ??? (Kandi ruled out — cipher conflict) | Unknown |
+| 75 | 5+4+7 | □□□□□   □□■□   □□□□□□□ | Silver-Boat | **R** | North York, Ontario | Confirmed |
 | 76 | 4+5 | □□□□   □□■□□ | Purple-Boat | **T** | Doha, Qatar | Confirmed |
 | 77 | 5+10+7 | □□□□□   □□□□□□□□□□   □□□□■□□ | Red-Horse | **H** | České Budějovice, Czechia | Confirmed |
 | 78 | 11+9+11 | □□□□□□□□□□■   □□□□□□□□□   □□□□□□□□□□□ | Gold-Boat | **E** | Yellowknife, Northwest Territories | Confirmed |
