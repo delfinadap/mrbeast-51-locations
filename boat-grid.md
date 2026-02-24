@@ -168,7 +168,6 @@ These destinations have been identified but **don't fit any row** on the grid:
 
 | City | Row | Problem |
 |------|-----|---------|
-| ~~Kandi, Benin~~ | 75 | Cipher says R at pos 8, but Kandi gives I. Ruled out. |
 | ~~Babylon, Iraq~~ | — | No 7+4 row exists. Superseded by Gaborone, Botswana (8+8 → row 8). |
 
 ---
@@ -176,7 +175,7 @@ These destinations have been identified but **don't fit any row** on the grid:
 ## Notable Deductions
 
 - **Row 54 = South Pole? (was Alofi, Niue):** Community intel (Feb 21) says South Pole from YouTube Short #2 (chocolate heart) replaces Alofi. Both fit 5+4 ending in E. South Pole has a known puzzle source; Alofi was deduced from grid pattern only.
-- **Row 57 = undiscovered location:** Must be 5+5 with E at position 7 (2nd letter of word 2). No known Stage 1 destination fits. This is likely one of the ~8 unsolved Stage 1 puzzles.
+- **Row 57 = Kandi, Benin:** 5+5 with E at position 7 (BENIN[2]=E ✓). Screen 1 + Bank puzzle.
 - **Row 63 = Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 with Silver-Boat=R at pos 12 (R in FLORIDA). Previously assumed "TAMPA FLORIDA" (5+7) which conflicted.
 - **Seoul = row 28:** Format is "SEOUL SOUTH KOREA" (5+5+5), not "SEOUL KOREA" (5+5). Grid pattern change on Feb 20 confirmed this.
 
