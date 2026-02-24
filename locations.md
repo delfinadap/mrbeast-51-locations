@@ -143,9 +143,9 @@
 
 ---
 
-## Category 8: Socials Socials (3 of 3) ✅
+## Category 8: Socials (3 of 3) ✅
 
-*"The 3 puzzles on Socials's socials."*
+*"The 3 puzzles on socials."*
 
 | # | Location | Platform | Decode | Confidence |
 |---|----------|----------|--------|------------|
@@ -176,7 +176,7 @@
 | Gift unifier | 1 | 1 | 0 |
 | YouTube shorts/TikTok | 2 | 2 | 0 |
 | Salesforce site/social | 9 | 9 | 0 |
-| Socials socials | 3 | 3 | 0 |
+| Socials | 3 | 3 | 0 |
 | Crossword | 1 | 1 | 0 |
 | **TOTAL** | **51** | **~50** | **~1** |
 
@@ -213,7 +213,7 @@ The boat page (91 rows) contains a **substitution cipher**: each vehicle icon (c
 - Planes: Blue=J, Green=N, Purple=L, Red=O, Yellow=P
 - Black-Plane=F (inferred)
 
-**Status:** 89/91 rows placed (2 unknown: rows 67, 75). Cipher verified across all placed rows with zero exceptions.
+**Status:** 90/91 rows placed (1 unknown: row 67). Cipher verified across all placed rows with zero exceptions.
 
 ---
 
