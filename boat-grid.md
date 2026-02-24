@@ -145,8 +145,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 
 ## Notable Deductions
 
-- **Row 54 = South Pole? (was Alofi, Niue):** Community intel (Feb 21) says South Pole from YouTube Short #2 (chocolate heart) replaces Alofi. Both fit 5+4 ending in E. South Pole has a known puzzle source; Alofi was deduced from grid pattern only.
-- **Row 57 = Kandi, Benin:** 5+5 with E at position 7 (BENIN[2]=E ✓). Screen 1 + Bank puzzle.
+- **Row 54 = South Pole (was Alofi, Niue):** South Pole from YouTube Short replaces Alofi. Both fit 5+4 ending in E. South Pole has a known puzzle source; Alofi was deduced from grid pattern only.
 - **Row 63 = Tampa Bay (not Tampa):** "TAMPA BAY FLORIDA" (5+3+7) fits row 63 with Silver-Boat=R at pos 12 (R in FLORIDA). Previously assumed "TAMPA FLORIDA" (5+7) which conflicted.
 - **Seoul = row 28:** Format is "SEOUL SOUTH KOREA" (5+5+5), not "SEOUL KOREA" (5+5). Grid pattern change on Feb 20 confirmed this.
 
@@ -161,7 +160,7 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 | **Horse** | — | — | V | G | — | K | D | H | W |
 | **Plane** | — | — | N | L | — | F | J | O | P |
 
-Verified across 50/51 confirmed rows. Only exception: Row 16 (7+7, Silver-Boat=R) has no known destination.
+Verified across all placed rows with zero exceptions.
 
 ---
 
