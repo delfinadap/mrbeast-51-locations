@@ -2,7 +2,7 @@
 
 **The beast.travel boat page has 91 rows, each representing a location. A colored vehicle icon in each row replaces one letter, forming a substitution cipher that spells a 91-letter message.**
 
-**87 confirmed, 2 probable, 0 unconfirmed = 90 rows placed, 1 unknown** | *Feb 24, 2026 9:16 AM PT*
+**86 confirmed, 2 probable, 1 unconfirmed = 90 rows placed, 1 unknown** | *Feb 24, 2026 9:16 AM PT*
 
 **Feedback?** [discord.gg/KCtjNMJeYv](https://discord.gg/KCtjNMJeYv)
 
