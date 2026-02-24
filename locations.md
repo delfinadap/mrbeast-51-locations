@@ -4,7 +4,7 @@
 
 **Status:** 49 confirmed, 1 probable, 0 unconfirmed = 50 with answers, 1 unsolved.
 
-**Last updated:** Feb 24, 2026 9:16 AM PT. North York, Ontario confirmed for Lab Screens (loading bar ternary RGB → BEAST CITY HUB). Armavir, Armenia probable for Screen 9/SWosswalk (semaphore decode → ARM????, replaces Windsor). New Orleans promoted to Confirmed.
+**Last updated:** Feb 24, 2026 9:16 AM PT. North York, Ontario confirmed for Lab Screens (loading bar ternary RGB → BEAST CITY HUB). Armavir, Armenia probable for Screen 9/crosswalk (semaphore decode → ARM????, replaces Windsor). New Orleans promoted to Confirmed.
 
 *Confidence tiers: Confirmed = clean decode + multiple sources. Probable = good evidence, community consensus. Unconfirmed = debated or speculative. Only promoted if decode method is documented.*
 
