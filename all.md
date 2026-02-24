@@ -15,7 +15,7 @@
 | 7 | Screen 6 + Bank | **TBILISI** | Bird cipher → DINAMO. Coffee cup → Georgia outline. DINAMO + Georgia → FC Dinamo Tbilisi. Grid row 68, TBILISI[6]=S ✓. | Confirmed |
 | 8 | Screen 7 + Bank | **TOAD SUCK, AR** | 3-part decode: "towed"→TOAD, IPESIT→STUCK−T→SUCK, "arrrr"+Kansas→ARKANSAS. | Confirmed |
 | 9 | Screen 8 + Bank | TIJUANA | Caesar busts → Slack ringtone → "THE BEST BANK" → Caesar cipher → "SALAD ORIGIN" → Tijuana. | Confirmed |
-| 10 | Screen 9 + Bank | **ARMAVIR, AM?** | SW images + crosswalk semaphore → **A R M ? ? ? ?** → likely ARMAVIR, ARMENIA. Grid row 16 (7+7), ARMAVIR[7]=R ✓. | Probable |
+| 10 | Screen 9 + Bank | **ARMAVIR, ARMENIA?** | SW images + crosswalk semaphore → **A R M ? ? ? ?** → likely ARMAVIR, ARMENIA. Grid row 16 (7+7), ARMAVIR[7]=R ✓. | Probable |
 | 11 | Screen 10 + Bank | ??? | 10⁵ + Sudoku. Case #271829 = e×10⁵. Collaboration-gated. | Unsolved |
 | 12 | Screen 11 + Bank | **DOHA, QATAR** | 22.493 lbs pennies ≈ lat 40.81 → "one more step" → Doha. BeastBot confirmed. Grid row 76 (4+5) ✓. | Confirmed |
 | 13 | Screen 12 + Bank | **MOSCOW** | Red + Cube = Red Square. BeastBot: "83.33% atypical." | Confirmed |
