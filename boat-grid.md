@@ -143,23 +143,6 @@ Format: City, Country (or State/Province for US/Canada). Vehicle icon replaces o
 
 ---
 
-## Grid Conflicts
-
-These destinations have been identified but **don't fit any row** on the grid:
-
-### Car cities (4 wrong — need 4 new cities)
-
-| Puzzle | Current city | Lengths | Problem | Open row it should fill |
-|--------|-------------|---------|---------|------------------------|
-| FURFURACEOUS | Maiduguri, Nigeria | 9+7 | No 9+7 car row | Row 6 (7, M@1), Row 7 (5+5, Y@10), Row 32 (5+9, M@1), or Row 37 (4+7, U@2) |
-| HEKISTOTHERM | Winnipeg, Canada | 8+8 | No 8+8 car row | (same 4 open rows) |
-| SALAMANDROID | Nantucket, MA | 9+13 | No 9+13 car row | Row 7 most likely (Genoa Italy fits grid but not nickname) |
-| SCAPULOMANCY | Mayotte, France | 7+6 | No 7+6 car row | (same 4 open rows) |
-
-*Plane format issues and Stage 1 conflicts all resolved.*
-
----
-
 ## Notable Deductions
 
 - **Row 54 = South Pole? (was Alofi, Niue):** Community intel (Feb 21) says South Pole from YouTube Short #2 (chocolate heart) replaces Alofi. Both fit 5+4 ending in E. South Pole has a known puzzle source; Alofi was deduced from grid pattern only.
