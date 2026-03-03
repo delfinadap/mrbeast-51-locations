@@ -1,6 +1,6 @@
 # MrBeast Million Dollar Puzzle — Progress Tracker
 
-- [Great Circles Globe](great-circle.html) — Interactive 3D globe: every trip lies on a great circle. 18/40 confirmed by beast.travel, 100% match rate.
+- [Great Circles Globe](great-circle.html) — Interactive 3D globe: every trip lies on a great circle.
 - [51 Locations — Master Tracker](locations.md) — Full breakdown by category with decode methods
 - [51 Locations — Summary](all.md) — One-table overview of all 51 slots
 - [beast.travel — Stage 2](beast-travel.md) — 41 destinations + boat page cipher decoded
